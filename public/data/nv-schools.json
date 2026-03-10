@@ -404,7 +404,7 @@
     "name": "Duncan ES",
     "type": "Regular",
     "level": "Elementary",
-    "county": "Washoe",
+    "county": "Clark",
     "starRating": 2,
     "indexScore": 27,
     "elaProficiency": 33.5,
@@ -413,11 +413,11 @@
     "elaGrowth": 45.1,
     "mathGrowth": 25,
     "titleI": true,
-    "lat": 39.541345,
-    "lng": -119.794595,
-    "address": "1200 MONTELLO ST",
-    "city": "RENO",
-    "zip": "89512"
+    "lat": 36.281159,
+    "lng": -115.143115,
+    "address": "250 W Rome Blvd",
+    "city": "N  Las Vegas",
+    "zip": "89084"
   },
   {
     "id": "02077.1",
@@ -15524,7 +15524,7 @@
     "name": "Davidson Acad MS",
     "type": "Regular",
     "level": "Middle",
-    "county": "University",
+    "county": "Washoe",
     "starRating": 5,
     "indexScore": 84.4,
     "elaProficiency": null,
@@ -15533,18 +15533,18 @@
     "elaGrowth": null,
     "mathGrowth": null,
     "titleI": false,
-    "lat": null,
-    "lng": null,
-    "address": null,
-    "city": null,
-    "zip": null
+    "lat": 39.538754,
+    "lng": -119.816216,
+    "address": "1164 N. Virginia St. Jot Travis Building 048",
+    "city": "Reno",
+    "zip": "89503"
   },
   {
     "id": "84406.3",
     "name": "Davidson Acad HS",
     "type": "Regular",
     "level": "High",
-    "county": "University",
+    "county": "Washoe",
     "starRating": 5,
     "indexScore": 98.8,
     "elaProficiency": null,
@@ -15553,10 +15553,10 @@
     "elaGrowth": null,
     "mathGrowth": null,
     "titleI": false,
-    "lat": null,
-    "lng": null,
-    "address": null,
-    "city": null,
-    "zip": null
+    "lat": 39.538754,
+    "lng": -119.816216,
+    "address": "1164 N. Virginia St. Jot Travis Building 048",
+    "city": "Reno",
+    "zip": "89503"
   }
 ]
