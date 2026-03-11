@@ -23,9 +23,17 @@ export default function Home() {
     <div className="flex flex-col h-screen bg-gray-50">
       {/* Header */}
       <header className="bg-white border-b border-gray-200 px-4 py-3 flex items-center justify-between gap-4 shrink-0">
-        <h1 className="text-base font-semibold text-gray-900 leading-tight">
-          NV School Ratings
-        </h1>
+        <div className="flex items-center gap-2">
+          <img
+            src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ''}/favicon.svg`}
+            alt=""
+            width={28}
+            height={28}
+          />
+          <h1 className="text-base font-semibold text-gray-900 leading-tight">
+            NV School Ratings
+          </h1>
+        </div>
         {/* View toggle */}
         <div className="flex rounded-lg border border-gray-300 overflow-hidden text-sm shrink-0">
           <button

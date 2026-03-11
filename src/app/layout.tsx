@@ -4,6 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'NV School Ratings',
   description: 'Nevada school performance ratings and data visualization',
+  icons: { icon: '/favicon.svg' },
 }
 
 export const viewport: Viewport = {
