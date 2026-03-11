@@ -14,6 +14,11 @@ interface TableViewProps {
 
 const PAGE_SIZE_OPTIONS = [25, 50, 100, 0] as const // 0 = all
 
+function fmtPct(val: number | string | null | undefined): string {
+  if (val == null || val === '') return '—'
+  return `${Number(val).toFixed(1)}%`
+}
+
 export default function TableView({ filters, onSelectSchool }: TableViewProps) {
   const { schools, loading, error } = useSchools(filters)
   const [sortKey, setSortKey] = useState<SortKey>('indexScore')
@@ -79,9 +84,9 @@ export default function TableView({ filters, onSelectSchool }: TableViewProps) {
     <div className="flex flex-col h-full">
       <div className="overflow-auto flex-1">
         <table className="min-w-full divide-y divide-gray-200 text-sm">
-          <thead className="bg-gray-50 sticky top-0">
+          <thead className="bg-gray-50 sticky top-0 z-10">
             <tr>
-              <th className={colClass} onClick={() => handleSort('name')}>
+              <th className={colClass + ' sticky left-0 z-20 bg-gray-50 shadow-[2px_0_4px_-1px_rgba(0,0,0,0.08)]'} onClick={() => handleSort('name')}>
                 School{indicator('name')}
               </th>
               {hasProximity && (
@@ -89,10 +94,10 @@ export default function TableView({ filters, onSelectSchool }: TableViewProps) {
                   Distance{indicator('distanceMiles')}
                 </th>
               )}
-              <th className={colClass + ' w-0 hidden sm:table-cell'} onClick={() => handleSort('level')}>
+              <th className={colClass + ' w-0'} onClick={() => handleSort('level')}>
                 Level{indicator('level')}
               </th>
-              <th className={colClass + ' w-0 hidden sm:table-cell'} onClick={() => handleSort('type')}>
+              <th className={colClass + ' w-0'} onClick={() => handleSort('type')}>
                 Type{indicator('type')}
               </th>
               <th className={colClass + ' w-0'} onClick={() => handleSort('starRating')}>
@@ -101,10 +106,10 @@ export default function TableView({ filters, onSelectSchool }: TableViewProps) {
               <th className={colClass + ' w-0 text-right'} onClick={() => handleSort('indexScore')}>
                 Score{indicator('indexScore')}
               </th>
-              <th className={colClass + ' w-0 text-right hidden md:table-cell'} onClick={() => handleSort('elaProficiency')}>ELA Proficiency{indicator('elaProficiency')}</th>
-              <th className={colClass + ' w-0 text-right hidden md:table-cell'} onClick={() => handleSort('mathProficiency')}>Math Proficiency{indicator('mathProficiency')}</th>
-              <th className={colClass + ' w-0 text-right hidden md:table-cell'} onClick={() => handleSort('elaGrowth')}>ELA Growth{indicator('elaGrowth')}</th>
-              <th className={colClass + ' w-0 text-right hidden md:table-cell'} onClick={() => handleSort('mathGrowth')}>Math Growth{indicator('mathGrowth')}</th>
+              <th className={colClass + ' w-0 text-right'} onClick={() => handleSort('elaProficiency')}>ELA Proficiency{indicator('elaProficiency')}</th>
+              <th className={colClass + ' w-0 text-right'} onClick={() => handleSort('mathProficiency')}>Math Proficiency{indicator('mathProficiency')}</th>
+              <th className={colClass + ' w-0 text-right'} onClick={() => handleSort('elaGrowth')}>ELA Growth{indicator('elaGrowth')}</th>
+              <th className={colClass + ' w-0 text-right'} onClick={() => handleSort('mathGrowth')}>Math Growth{indicator('mathGrowth')}</th>
             </tr>
           </thead>
           <tbody className="bg-white divide-y divide-gray-100">
@@ -116,16 +121,16 @@ export default function TableView({ filters, onSelectSchool }: TableViewProps) {
               </tr>
             ) : (
               pageSlice.map((school) => (
-                <tr key={school.id} className="hover:bg-gray-50">
-                  <td className="px-4 py-2 font-medium text-gray-900">
+                <tr key={school.id} className="group hover:bg-gray-50">
+                  <td className="px-4 py-2 font-medium text-gray-900 sticky left-0 z-10 bg-white group-hover:bg-gray-50 shadow-[2px_0_4px_-1px_rgba(0,0,0,0.08)]">
                     {onSelectSchool ? (
                       <button
                         onClick={() => onSelectSchool(school)}
-                        className="cursor-pointer text-blue-600 hover:underline text-left"
+                        className="cursor-pointer text-blue-600 hover:underline text-left whitespace-nowrap"
                       >
                         {school.name}
                       </button>
-                    ) : school.name}
+                    ) : <span className="whitespace-nowrap">{school.name}</span>}
                   </td>
                   {hasProximity && (
                     <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right">
@@ -134,24 +139,16 @@ export default function TableView({ filters, onSelectSchool }: TableViewProps) {
                         : '—'}
                     </td>
                   )}
-                  <td className="px-4 py-2 w-0 text-gray-500 hidden sm:table-cell">{school.level}</td>
-                  <td className="px-4 py-2 w-0 text-gray-500 hidden sm:table-cell">{school.type}</td>
+                  <td className="px-4 py-2 w-0 text-gray-500">{school.level}</td>
+                  <td className="px-4 py-2 w-0 text-gray-500">{school.type}</td>
                   <td className="px-4 py-2 w-0">
                     <StarRatingComponent rating={school.starRating} />
                   </td>
                   <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right">{school.indexScore.toFixed(1)}</td>
-                  <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right hidden md:table-cell">
-                    {school.elaProficiency != null ? `${Number(school.elaProficiency).toFixed(1)}%` : '—'}
-                  </td>
-                  <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right hidden md:table-cell">
-                    {school.mathProficiency != null ? `${Number(school.mathProficiency).toFixed(1)}%` : '—'}
-                  </td>
-                  <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right hidden md:table-cell">
-                    {school.elaGrowth != null ? `${Number(school.elaGrowth).toFixed(1)}%` : '—'}
-                  </td>
-                  <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right hidden md:table-cell">
-                    {school.mathGrowth != null ? `${Number(school.mathGrowth).toFixed(1)}%` : '—'}
-                  </td>
+                  <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right">{fmtPct(school.elaProficiency)}</td>
+                  <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right">{fmtPct(school.mathProficiency)}</td>
+                  <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right">{fmtPct(school.elaGrowth)}</td>
+                  <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right">{fmtPct(school.mathGrowth)}</td>
                 </tr>
               ))
             )}
@@ -160,11 +157,30 @@ export default function TableView({ filters, onSelectSchool }: TableViewProps) {
       </div>
 
       <div className="flex items-center justify-between px-3 py-2 border-t border-gray-200 bg-white text-sm">
-          <span className="text-gray-500">
+          {/* Mobile: size selector on left. Hidden on sm+. */}
+          <div className="flex sm:hidden items-center gap-1">
+            <span className="text-gray-500 text-xs">Show:</span>
+            {PAGE_SIZE_OPTIONS.map((size) => (
+              <button
+                key={size}
+                onClick={() => { setPageSize(size); setPage(0) }}
+                className={`px-2 py-1 rounded text-xs border transition-colors ${
+                  pageSize === size
+                    ? 'bg-blue-600 text-white border-blue-600'
+                    : 'bg-white text-gray-600 border-gray-300 hover:border-blue-400'
+                }`}
+              >
+                {size === 0 ? 'All' : size}
+              </button>
+            ))}
+          </div>
+          {/* Desktop: count label on left. Hidden on mobile. */}
+          <span className="hidden sm:inline text-gray-500">
             {sorted.length} schools{totalPages > 1 && ` · Page ${page + 1} of ${totalPages}`}
           </span>
+          {/* Right: size selector (desktop only) + Prev/Next */}
           <div className="flex items-center gap-3">
-            <div className="flex items-center gap-1">
+            <div className="hidden sm:flex items-center gap-1">
               <span className="text-gray-500 text-xs">Show:</span>
               {PAGE_SIZE_OPTIONS.map((size) => (
                 <button
@@ -197,7 +213,7 @@ export default function TableView({ filters, onSelectSchool }: TableViewProps) {
               </button>
             </div>
           </div>
-        </div>
+      </div>
     </div>
   )
 }
