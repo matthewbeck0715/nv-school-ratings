@@ -3,17 +3,18 @@
 import { useState, useMemo, useEffect } from 'react'
 import { useSchools } from '@/hooks/useSchools'
 import StarRatingComponent from '@/components/StarRating'
-import type { FilterState, SchoolWithDistance } from '@/types/school'
+import type { FilterState, School, SchoolWithDistance } from '@/types/school'
 
 type SortKey = 'name' | 'level' | 'type' | 'starRating' | 'indexScore' | 'elaProficiency' | 'mathProficiency' | 'elaGrowth' | 'mathGrowth' | 'distanceMiles'
 
 interface TableViewProps {
   filters: FilterState
+  onSelectSchool?: (school: School) => void
 }
 
 const PAGE_SIZE_OPTIONS = [25, 50, 100, 0] as const // 0 = all
 
-export default function TableView({ filters }: TableViewProps) {
+export default function TableView({ filters, onSelectSchool }: TableViewProps) {
   const { schools, loading, error } = useSchools(filters)
   const [sortKey, setSortKey] = useState<SortKey>('indexScore')
   const [sortAsc, setSortAsc] = useState(false)
@@ -116,7 +117,16 @@ export default function TableView({ filters }: TableViewProps) {
             ) : (
               pageSlice.map((school) => (
                 <tr key={school.id} className="hover:bg-gray-50">
-                  <td className="px-4 py-2 font-medium text-gray-900">{school.name}</td>
+                  <td className="px-4 py-2 font-medium text-gray-900">
+                    {onSelectSchool ? (
+                      <button
+                        onClick={() => onSelectSchool(school)}
+                        className="cursor-pointer text-blue-600 hover:underline text-left"
+                      >
+                        {school.name}
+                      </button>
+                    ) : school.name}
+                  </td>
                   {hasProximity && (
                     <td className="px-4 py-2 w-0 text-gray-700 tabular-nums text-right">
                       {school.distanceMiles != null

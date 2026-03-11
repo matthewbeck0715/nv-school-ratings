@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import type { FilterState } from '@/types/school'
+import type { FilterState, School } from '@/types/school'
 import FilterControls from '@/components/filters/FilterControls'
 import MapView from '@/components/map/MapView'
 import TableView from '@/components/table/TableView'
@@ -18,6 +18,12 @@ const DEFAULT_FILTERS: FilterState = {
 export default function Home() {
   const [view, setView] = useState<'map' | 'table'>('map')
   const [filters, setFilters] = useState<FilterState>(DEFAULT_FILTERS)
+  const [selectedSchool, setSelectedSchool] = useState<School | null>(null)
+
+  function handleSelectSchool(school: School) {
+    setSelectedSchool(school)
+    setView('map')
+  }
 
   return (
     <div className="flex flex-col h-screen bg-gray-50">
@@ -47,7 +53,7 @@ export default function Home() {
             Map
           </button>
           <button
-            onClick={() => setView('table')}
+            onClick={() => { setView('table'); setSelectedSchool(null) }}
             className={`px-3 py-1.5 border-l border-gray-300 transition-colors ${
               view === 'table'
                 ? 'bg-blue-600 text-white'
@@ -64,11 +70,12 @@ export default function Home() {
 
       {/* Main content */}
       <main className="flex-1 overflow-hidden">
-        {view === 'map' ? (
-          <MapView filters={filters} />
-        ) : (
-          <TableView filters={filters} />
-        )}
+        <div className={view === 'map' ? 'h-full' : 'hidden'}>
+          <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} />
+        </div>
+        <div className={view === 'table' ? 'h-full' : 'hidden'}>
+          <TableView filters={filters} onSelectSchool={handleSelectSchool} />
+        </div>
       </main>
     </div>
   )

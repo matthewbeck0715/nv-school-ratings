@@ -1,5 +1,5 @@
 import dynamic from 'next/dynamic'
-import type { FilterState } from '@/types/school'
+import type { FilterState, School } from '@/types/school'
 
 const MapInner = dynamic(() => import('./MapInner'), {
   ssr: false,
@@ -12,12 +12,14 @@ const MapInner = dynamic(() => import('./MapInner'), {
 
 interface MapViewProps {
   filters: FilterState
+  selectedSchool?: School | null
+  isVisible?: boolean
 }
 
-export default function MapView({ filters }: MapViewProps) {
+export default function MapView({ filters, selectedSchool, isVisible }: MapViewProps) {
   return (
     <div className="w-full h-full">
-      <MapInner filters={filters} />
+      <MapInner filters={filters} selectedSchool={selectedSchool} isVisible={isVisible} />
     </div>
   )
 }
