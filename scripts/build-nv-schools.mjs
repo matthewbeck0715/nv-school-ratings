@@ -61,6 +61,34 @@ for (const loc of locationRows) {
   locationsByCounty[county].push(loc)
 }
 
+// --- Address normalization helpers ---
+const STREET_ABBREVS = {
+  Avenue: 'Ave', Boulevard: 'Blvd', Circle: 'Cir', Court: 'Ct',
+  Drive: 'Dr', Expressway: 'Expy', Highway: 'Hwy', Lane: 'Ln',
+  Parkway: 'Pkwy', Place: 'Pl', Road: 'Rd', Square: 'Sq',
+  Street: 'St', Terrace: 'Ter', Trail: 'Trl',
+}
+
+function normalizeAddressField(str) {
+  if (!str) return str
+  let s = str
+    .trim()
+    .replace(/\s+/g, ' ')                    // collapse double spaces
+    .replace(/\.(?=\s|$)/g, '')              // strip trailing periods ("S." → "S", "Dr." → "Dr")
+    .toLowerCase()
+    .replace(/\b\w/g, c => c.toUpperCase()) // Title Case
+  for (const [full, abbr] of Object.entries(STREET_ABBREVS)) {
+    s = s.replace(new RegExp(`\\b${full}\\b`, 'g'), abbr)
+  }
+  return s
+}
+
+function normalizeCity(str) {
+  if (!str) return str
+  const s = normalizeAddressField(str)
+  return s.replace(/^N Las Vegas$/i, 'North Las Vegas')
+}
+
 // --- Step C: Manual map (ratings name → NCES name) ---
 // Keys: 'District|School Name' using the District Name value from nv-school-ratings.csv
 const MANUAL_MAP = {
@@ -393,11 +421,13 @@ for (const row of ratingsRows) {
   const type = row['School Type'].trim()
   if (EXCLUDED_TYPES.has(type)) { filtered++; continue }
 
+  const district = row['District Name']?.trim()
+  if (district === 'University') { filtered++; continue }
+
   const indexScore = parseNum(row['Total Index Score'])
   if (indexScore === null) { filtered++; continue }
 
   const name = row['School Name'].trim()
-  const district = row['District Name']?.trim()
   const schoolType = type === 'District Charter' || type === 'SPCSA' ? 'Charter' : 'Regular'
   const level = inferLevel(name)
 
@@ -424,8 +454,8 @@ for (const row of ratingsRows) {
   if (loc) {
     lat = parseFloat(loc.LAT) || null
     lng = parseFloat(loc.LON) || null
-    address = loc.STREET?.trim() || null
-    city = loc.CITY?.trim() || null
+    address = normalizeAddressField(loc.STREET) || null
+    city = normalizeCity(loc.CITY) || null
     zip = loc.ZIP?.trim() || null
     county = (loc.NMCNTY?.trim() || '').replace(/ County$/, '') || null
   } else {

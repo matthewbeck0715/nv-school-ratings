@@ -41,7 +41,8 @@ export default function SchoolMarker({ school, isSelected }: SchoolMarkerProps) 
               rel="noopener noreferrer"
               className="text-xs text-blue-500 hover:underline mb-1 block"
             >
-              {school.address}, {school.city}, NV{school.zip ? ` ${school.zip}` : ''}
+              <span className="block">{school.address}</span>
+              <span className="block">{school.city}, NV{school.zip ? ` ${school.zip}` : ''}</span>
             </a>
           )}
           <div className="grid grid-cols-2 gap-x-4 gap-y-1 text-xs mt-0">

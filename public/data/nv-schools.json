@@ -35,7 +35,7 @@
     "titleI": true,
     "lat": 39.462426,
     "lng": -118.79012,
-    "address": "1099 Merton Drive",
+    "address": "1099 Merton Dr",
     "city": "Fallon",
     "zip": "89406"
   },
@@ -75,7 +75,7 @@
     "titleI": true,
     "lat": 39.46897,
     "lng": -118.777999,
-    "address": "650 South Maine Street",
+    "address": "650 South Maine St",
     "city": "Fallon",
     "zip": "89406"
   },
@@ -95,7 +95,7 @@
     "titleI": false,
     "lat": 39.463251,
     "lng": -118.784108,
-    "address": "1 Greenwave Circle",
+    "address": "1 Greenwave Cir",
     "city": "Fallon",
     "zip": "89406"
   },
@@ -115,7 +115,7 @@
     "titleI": false,
     "lat": 36.002712,
     "lng": -115.287674,
-    "address": "10250 S. El Capitan Way",
+    "address": "10250 S El Capitan Way",
     "city": "Las Vegas",
     "zip": "89178"
   },
@@ -175,7 +175,7 @@
     "titleI": false,
     "lat": 35.948956,
     "lng": -115.127726,
-    "address": "3200 Artella Avenue",
+    "address": "3200 Artella Ave",
     "city": "Henderson",
     "zip": "89044"
   },
@@ -195,7 +195,7 @@
     "titleI": false,
     "lat": 35.990627,
     "lng": -115.182683,
-    "address": "10926 Dean Martin Drive",
+    "address": "10926 Dean Martin Dr",
     "city": "Las Vegas",
     "zip": "89141"
   },
@@ -215,7 +215,7 @@
     "titleI": true,
     "lat": 36.005397,
     "lng": -115.12484,
-    "address": "2002 Dave Street",
+    "address": "2002 Dave St",
     "city": "Las Vegas",
     "zip": "89183"
   },
@@ -235,7 +235,7 @@
     "titleI": false,
     "lat": 36.300483,
     "lng": -115.309901,
-    "address": "9851 Donald Nelson Avenue",
+    "address": "9851 Donald Nelson Ave",
     "city": "Las Vegas",
     "zip": "89149"
   },
@@ -315,7 +315,7 @@
     "titleI": true,
     "lat": 36.084577,
     "lng": -114.961259,
-    "address": "550 Dave Wood Circle",
+    "address": "550 Dave Wood Cir",
     "city": "Henderson",
     "zip": "89011"
   },
@@ -416,7 +416,7 @@
     "lat": 36.281159,
     "lng": -115.143115,
     "address": "250 W Rome Blvd",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89084"
   },
   {
@@ -536,7 +536,7 @@
     "lat": 36.280878,
     "lng": -115.201863,
     "address": "4470 W Rome Blvd",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89084"
   },
   {
@@ -555,7 +555,7 @@
     "titleI": false,
     "lat": 36.32345,
     "lng": -115.27994,
-    "address": "8455 O'Hare Road",
+    "address": "8455 O'Hare Rd",
     "city": "Las Vegas",
     "zip": "89143"
   },
@@ -616,7 +616,7 @@
     "lat": 36.26441,
     "lng": -115.124678,
     "address": "5700 N Bruce St",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89081"
   },
   {
@@ -655,7 +655,7 @@
     "titleI": true,
     "lat": 36.194116,
     "lng": -115.167043,
-    "address": "1950 Pink Rose St.",
+    "address": "1950 Pink Rose St",
     "city": "Las Vegas",
     "zip": "89106"
   },
@@ -696,7 +696,7 @@
     "lat": 36.226903,
     "lng": -115.145669,
     "address": "3700 Shadow Tree St",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -736,7 +736,7 @@
     "lat": 36.20172,
     "lng": -115.165992,
     "address": "2341 Comstock Dr",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -756,7 +756,7 @@
     "lat": 36.260932,
     "lng": -115.090299,
     "address": "5550 Milan Peak St",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89081"
   },
   {
@@ -855,7 +855,7 @@
     "titleI": false,
     "lat": 35.982796,
     "lng": -115.158052,
-    "address": "11420 Placid Street",
+    "address": "11420 Placid St",
     "city": "Las Vegas",
     "zip": "89183"
   },
@@ -875,7 +875,7 @@
     "titleI": false,
     "lat": 36.311939,
     "lng": -115.217659,
-    "address": "5555 Horse Drive",
+    "address": "5555 Horse Dr",
     "city": "Las Vegas",
     "zip": "89183"
   },
@@ -1656,7 +1656,7 @@
     "lat": 36.268418,
     "lng": -115.157705,
     "address": "1101 W Tropical Pkwy",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89031"
   },
   {
@@ -1716,7 +1716,7 @@
     "lat": 36.207725,
     "lng": -115.153077,
     "address": "2651 N Revere St",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -1796,7 +1796,7 @@
     "lat": 36.236619,
     "lng": -115.190149,
     "address": "4289 Allen Ln",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -1836,7 +1836,7 @@
     "lat": 36.231038,
     "lng": -115.149011,
     "address": "609 W Alexander Rd",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -1896,7 +1896,7 @@
     "lat": 36.253349,
     "lng": -115.195056,
     "address": "4027 W Washburn Rd",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89031"
   },
   {
@@ -1935,7 +1935,7 @@
     "titleI": false,
     "lat": 36.023724,
     "lng": -115.076365,
-    "address": "2040 Desert Shadow Trail",
+    "address": "2040 Desert Shadow Trl",
     "city": "Henderson",
     "zip": "89012"
   },
@@ -2076,7 +2076,7 @@
     "lat": 36.251317,
     "lng": -115.195176,
     "address": "4028 La Madre Way",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89031"
   },
   {
@@ -2136,7 +2136,7 @@
     "lat": 36.247895,
     "lng": -115.140527,
     "address": "4865 Goldfield St",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89031"
   },
   {
@@ -2255,7 +2255,7 @@
     "titleI": false,
     "lat": 36.271817,
     "lng": -115.239434,
-    "address": "6651 W Azure Drive",
+    "address": "6651 W Azure Dr",
     "city": "Las Vegas",
     "zip": "89130"
   },
@@ -2375,7 +2375,7 @@
     "titleI": false,
     "lat": 36.02346,
     "lng": -115.078256,
-    "address": "2060 Desert Shadow Trail",
+    "address": "2060 Desert Shadow Trl",
     "city": "Henderson",
     "zip": "89012"
   },
@@ -2396,7 +2396,7 @@
     "lat": 36.266166,
     "lng": -115.145355,
     "address": "5845 N Commerce St",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89031"
   },
   {
@@ -2455,8 +2455,8 @@
     "titleI": true,
     "lat": 36.256667,
     "lng": -115.176877,
-    "address": "5335 Coleman Street",
-    "city": "N  Las Vegas",
+    "address": "5335 Coleman St",
+    "city": "North Las Vegas",
     "zip": "89031"
   },
   {
@@ -2636,7 +2636,7 @@
     "lat": 36.26837,
     "lng": -115.174675,
     "address": "2328 Silver Clouds Dr",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89031"
   },
   {
@@ -2676,7 +2676,7 @@
     "lat": 36.269928,
     "lng": -115.106001,
     "address": "3030 E Tropical Pkwy",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89081"
   },
   {
@@ -2796,7 +2796,7 @@
     "lat": 36.281531,
     "lng": -115.184651,
     "address": "3409 Deer Springs Way",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89084"
   },
   {
@@ -2815,7 +2815,7 @@
     "titleI": false,
     "lat": 36.294915,
     "lng": -115.293574,
-    "address": "7351 N Campbell Road",
+    "address": "7351 N Campbell Rd",
     "city": "Las Vegas",
     "zip": "89149"
   },
@@ -2836,7 +2836,7 @@
     "lat": 36.281207,
     "lng": -115.141159,
     "address": "150 W Rome Blvd",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89084"
   },
   {
@@ -2855,7 +2855,7 @@
     "titleI": true,
     "lat": 36.013962,
     "lng": -115.274998,
-    "address": "8425 Bob Fisk Avenue",
+    "address": "8425 Bob Fisk Ave",
     "city": "Las Vegas",
     "zip": "89178"
   },
@@ -2936,7 +2936,7 @@
     "lat": 36.192773,
     "lng": -115.123003,
     "address": "1312 E Tonopah Ave",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -2976,7 +2976,7 @@
     "lat": 36.20585,
     "lng": -115.171323,
     "address": "2101 W Cartier Ave",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -2995,7 +2995,7 @@
     "titleI": true,
     "lat": 36.17687,
     "lng": -115.19579,
-    "address": "4101 W. Bonanza Rd",
+    "address": "4101 W Bonanza Rd",
     "city": "Las Vegas",
     "zip": "89107"
   },
@@ -3036,7 +3036,7 @@
     "lat": 36.203899,
     "lng": -115.102628,
     "address": "2421 N Kenneth",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -3075,7 +3075,7 @@
     "titleI": true,
     "lat": 36.200251,
     "lng": -115.162347,
-    "address": "2277 N MLK Blvd",
+    "address": "2277 N Mlk Blvd",
     "city": "Las Vegas",
     "zip": "89106"
   },
@@ -3095,7 +3095,7 @@
     "titleI": true,
     "lat": 36.185614,
     "lng": -115.072342,
-    "address": "4620 E. Monroe Ave.",
+    "address": "4620 E Monroe Ave",
     "city": "Las Vegas",
     "zip": "89110"
   },
@@ -3176,7 +3176,7 @@
     "lat": 36.209307,
     "lng": -115.146742,
     "address": "2726 Englestad",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -3235,7 +3235,7 @@
     "titleI": true,
     "lat": 36.148723,
     "lng": -115.113302,
-    "address": "1905 Atlantic St.",
+    "address": "1905 Atlantic St",
     "city": "Las Vegas",
     "zip": "89104"
   },
@@ -3276,7 +3276,7 @@
     "lat": 36.215909,
     "lng": -115.112239,
     "address": "3010 Berg St",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -3296,7 +3296,7 @@
     "lat": 36.224225,
     "lng": -115.113544,
     "address": "2637 E Gowan Rd",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -3336,7 +3336,7 @@
     "lat": 36.211047,
     "lng": -115.126195,
     "address": "2801 Ft Sumter Dr",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -3476,7 +3476,7 @@
     "lat": 36.203728,
     "lng": -115.130709,
     "address": "800 E Carey Ave",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -3595,7 +3595,7 @@
     "titleI": true,
     "lat": 36.164552,
     "lng": -115.112708,
-    "address": "211 28th Street",
+    "address": "211 28th St",
     "city": "Las Vegas",
     "zip": "89101"
   },
@@ -3616,7 +3616,7 @@
     "lat": 36.193849,
     "lng": -115.106002,
     "address": "3000 E Tonopah Ave",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -3635,7 +3635,7 @@
     "titleI": true,
     "lat": 36.184107,
     "lng": -115.185941,
-    "address": "1205 Silver Lake Drive",
+    "address": "1205 Silver Lake Dr",
     "city": "Las Vegas",
     "zip": "89108"
   },
@@ -3755,7 +3755,7 @@
     "titleI": false,
     "lat": 36.027366,
     "lng": -114.98018,
-    "address": "330 Tin Street",
+    "address": "330 Tin St",
     "city": "Henderson",
     "zip": "89015"
   },
@@ -3836,7 +3836,7 @@
     "lat": 36.234971,
     "lng": -115.176607,
     "address": "4150 Fuselier Dr",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -3915,7 +3915,7 @@
     "titleI": true,
     "lat": 36.112804,
     "lng": -115.071551,
-    "address": "4225 El Oro Street",
+    "address": "4225 El Oro St",
     "city": "Las Vegas",
     "zip": "89121"
   },
@@ -3995,7 +3995,7 @@
     "titleI": true,
     "lat": 36.092235,
     "lng": -115.067986,
-    "address": "4820 E. MESA VISTA AVENUE",
+    "address": "4820 E Mesa Vista Ave",
     "city": "Las Vegas",
     "zip": "89120"
   },
@@ -4015,7 +4015,7 @@
     "titleI": true,
     "lat": 36.122764,
     "lng": -115.090955,
-    "address": "3850 E. Twain Ave",
+    "address": "3850 E Twain Ave",
     "city": "Las Vegas",
     "zip": "89121"
   },
@@ -4396,7 +4396,7 @@
     "lat": 36.200217,
     "lng": -115.135369,
     "address": "350 E Judson Ave",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -4575,7 +4575,7 @@
     "titleI": true,
     "lat": 35.813294,
     "lng": -115.610032,
-    "address": "1420 E. Pearl Ave.",
+    "address": "1420 E Pearl Ave",
     "city": "Sandy Valley",
     "zip": "89019"
   },
@@ -4595,7 +4595,7 @@
     "titleI": true,
     "lat": 35.163729,
     "lng": -114.614471,
-    "address": "1450 Spirit Lane",
+    "address": "1450 Spirit Ln",
     "city": "Laughlin",
     "zip": "89029"
   },
@@ -4856,7 +4856,7 @@
     "lat": 36.191193,
     "lng": -115.121301,
     "address": "1880 E Stanley Ave",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -4896,7 +4896,7 @@
     "lat": 36.204877,
     "lng": -115.126118,
     "address": "2505 N Bruce St",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -4975,7 +4975,7 @@
     "titleI": true,
     "lat": 36.164039,
     "lng": -115.110646,
-    "address": "200 N 28th Street",
+    "address": "200 N 28th St",
     "city": "Las Vegas",
     "zip": "89101"
   },
@@ -5155,7 +5155,7 @@
     "titleI": true,
     "lat": 35.813294,
     "lng": -115.610032,
-    "address": "1420 E. Pearl Ave.",
+    "address": "1420 E Pearl Ave",
     "city": "Sandy Valley",
     "zip": "89019"
   },
@@ -5175,7 +5175,7 @@
     "titleI": true,
     "lat": 35.813294,
     "lng": -115.610032,
-    "address": "1420 E. Pearl Ave.",
+    "address": "1420 E Pearl Ave",
     "city": "Sandy Valley",
     "zip": "89019"
   },
@@ -5296,7 +5296,7 @@
     "lat": 36.229214,
     "lng": -115.185881,
     "address": "3500 W Gilmore Ave",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -5636,7 +5636,7 @@
     "lat": 36.285137,
     "lng": -115.16977,
     "address": "1900 W Deer Springs Way",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89084"
   },
   {
@@ -5696,7 +5696,7 @@
     "lat": 36.222427,
     "lng": -115.148976,
     "address": "3465 Englestad St",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -5816,7 +5816,7 @@
     "lat": 36.267945,
     "lng": -115.145483,
     "address": "333 W Tropical Pkwy",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89031"
   },
   {
@@ -5955,8 +5955,8 @@
     "titleI": true,
     "lat": 36.266208,
     "lng": -115.122615,
-    "address": "5855 Lawrence Street",
-    "city": "N  Las Vegas",
+    "address": "5855 Lawrence St",
+    "city": "North Las Vegas",
     "zip": "89081"
   },
   {
@@ -5975,7 +5975,7 @@
     "titleI": false,
     "lat": 36.006992,
     "lng": -115.221214,
-    "address": "5800 W Pyle Avenue",
+    "address": "5800 W Pyle Ave",
     "city": "Las Vegas",
     "zip": "89141"
   },
@@ -6076,7 +6076,7 @@
     "lat": 36.20172,
     "lng": -115.165992,
     "address": "2341 Comstock Dr",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -6115,8 +6115,8 @@
     "titleI": false,
     "lat": 36.209307,
     "lng": -115.146742,
-    "address": "2726 ENGLESTAD STREET",
-    "city": "NORTH LAS VEGAS",
+    "address": "2726 Englestad St",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -6175,7 +6175,7 @@
     "titleI": true,
     "lat": 36.185561,
     "lng": -115.1227,
-    "address": "1900 Searles Avenue",
+    "address": "1900 Searles Ave",
     "city": "Las Vegas",
     "zip": "89101"
   },
@@ -6356,7 +6356,7 @@
     "lat": 36.234043,
     "lng": -115.183638,
     "address": "3200 W Alexander Rd",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -6435,7 +6435,7 @@
     "titleI": false,
     "lat": 36.186245,
     "lng": -115.176863,
-    "address": "1411 Robin Street",
+    "address": "1411 Robin St",
     "city": "Las Vegas",
     "zip": "89106"
   },
@@ -6476,7 +6476,7 @@
     "lat": 36.222345,
     "lng": -115.105665,
     "address": "3200 E Cheyenne Ave",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89030"
   },
   {
@@ -6516,7 +6516,7 @@
     "lat": 36.256161,
     "lng": -115.138327,
     "address": "5302 Goldfield St",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89031"
   },
   {
@@ -6616,7 +6616,7 @@
     "lat": 36.233566,
     "lng": -115.135695,
     "address": "350 E Alexander Rd",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89032"
   },
   {
@@ -6755,7 +6755,7 @@
     "titleI": false,
     "lat": 36.028516,
     "lng": -115.04206,
-    "address": "10 CHAPATA DRIVE",
+    "address": "10 Chapata Dr",
     "city": "Henderson",
     "zip": "89012"
   },
@@ -6835,7 +6835,7 @@
     "titleI": false,
     "lat": 36.574247,
     "lng": -115.676645,
-    "address": "400 Sky Road",
+    "address": "400 Sky Rd",
     "city": "Indian Springs",
     "zip": "89018"
   },
@@ -7056,7 +7056,7 @@
     "lat": 36.284568,
     "lng": -115.141605,
     "address": "150 W Deer Springs Way",
-    "city": "N  Las Vegas",
+    "city": "North Las Vegas",
     "zip": "89084"
   },
   {
@@ -7095,7 +7095,7 @@
     "titleI": false,
     "lat": 36.214673,
     "lng": -115.152421,
-    "address": "818 West Brooks Avenue",
+    "address": "818 West Brooks Ave",
     "city": "North Las Vegas",
     "zip": "89030"
   },
@@ -7115,7 +7115,7 @@
     "titleI": false,
     "lat": 36.214673,
     "lng": -115.152421,
-    "address": "818 West Brooks Avenue",
+    "address": "818 West Brooks Ave",
     "city": "North Las Vegas",
     "zip": "89030"
   },
@@ -7215,7 +7215,7 @@
     "titleI": false,
     "lat": 36.115832,
     "lng": -115.109201,
-    "address": "3050 E. FLAMINGO ROAD",
+    "address": "3050 E Flamingo Rd",
     "city": "Las Vegas",
     "zip": "89121"
   },
@@ -7235,7 +7235,7 @@
     "titleI": true,
     "lat": 36.150846,
     "lng": -115.135813,
-    "address": "1725 S. Maryland Pkwy",
+    "address": "1725 S Maryland Pkwy",
     "city": "Las Vegas",
     "zip": "89104"
   },
@@ -7255,7 +7255,7 @@
     "titleI": false,
     "lat": 36.286575,
     "lng": -115.146884,
-    "address": "405 W. Dorrell Lane",
+    "address": "405 W Dorrell Ln",
     "city": "North Las Vegas",
     "zip": "89084"
   },
@@ -7275,7 +7275,7 @@
     "titleI": true,
     "lat": 38.939899,
     "lng": -119.743105,
-    "address": "1290 Toler Avenue",
+    "address": "1290 Toler Ave",
     "city": "Gardnerville",
     "zip": "89410"
   },
@@ -7335,7 +7335,7 @@
     "titleI": true,
     "lat": 39.093503,
     "lng": -119.798154,
-    "address": "701 Jacks Valley Road",
+    "address": "701 Jacks Valley Rd",
     "city": "Carson City",
     "zip": "89705"
   },
@@ -7395,7 +7395,7 @@
     "titleI": false,
     "lat": 38.963265,
     "lng": -119.756138,
-    "address": "1170 Baler Street",
+    "address": "1170 Baler St",
     "city": "Minden",
     "zip": "89423"
   },
@@ -7515,7 +7515,7 @@
     "titleI": false,
     "lat": 41.304324,
     "lng": -116.11464,
-    "address": "1645 Sewell Drive",
+    "address": "1645 Sewell Dr",
     "city": "Elko",
     "zip": "89801"
   },
@@ -7535,7 +7535,7 @@
     "titleI": true,
     "lat": 41.982371,
     "lng": -114.668852,
-    "address": "2201 Progressive Drive",
+    "address": "2201 Progressive Dr",
     "city": "Jackpot",
     "zip": "89825"
   },
@@ -7555,7 +7555,7 @@
     "titleI": false,
     "lat": 41.262363,
     "lng": -114.196788,
-    "address": "254 B Street",
+    "address": "254 B St",
     "city": "Montello",
     "zip": "89830"
   },
@@ -7575,7 +7575,7 @@
     "titleI": false,
     "lat": 40.428706,
     "lng": -115.665253,
-    "address": "208 Boyd Kennedy Road",
+    "address": "208 Boyd Kennedy Rd",
     "city": "Spring Creek",
     "zip": "89815"
   },
@@ -7595,7 +7595,7 @@
     "titleI": false,
     "lat": 40.428706,
     "lng": -115.665253,
-    "address": "208 Boyd Kennedy Road",
+    "address": "208 Boyd Kennedy Rd",
     "city": "Spring Creek",
     "zip": "89815"
   },
@@ -7615,7 +7615,7 @@
     "titleI": false,
     "lat": 40.538236,
     "lng": -115.325515,
-    "address": "1129 Lake Avenue",
+    "address": "1129 Lake Ave",
     "city": "Wells",
     "zip": "89835"
   },
@@ -7635,7 +7635,7 @@
     "titleI": false,
     "lat": 40.538236,
     "lng": -115.325515,
-    "address": "1129 Lake Avenue",
+    "address": "1129 Lake Ave",
     "city": "Wells",
     "zip": "89835"
   },
@@ -7655,7 +7655,7 @@
     "titleI": false,
     "lat": 40.747298,
     "lng": -115.590447,
-    "address": "250 Parkchester Drive",
+    "address": "250 Parkchester Dr",
     "city": "Spring Creek",
     "zip": "89815"
   },
@@ -7675,7 +7675,7 @@
     "titleI": true,
     "lat": 40.83736,
     "lng": -115.767088,
-    "address": "1055 7th Street",
+    "address": "1055 7th St",
     "city": "Elko",
     "zip": "89801"
   },
@@ -7695,7 +7695,7 @@
     "titleI": true,
     "lat": 40.836624,
     "lng": -115.777755,
-    "address": "1645 Sewell Drive",
+    "address": "1645 Sewell Dr",
     "city": "Elko",
     "zip": "89801"
   },
@@ -7715,7 +7715,7 @@
     "titleI": true,
     "lat": 40.83071,
     "lng": -115.75204,
-    "address": "501 South 9th Street",
+    "address": "501 South 9th St",
     "city": "Elko",
     "zip": "89801"
   },
@@ -7735,7 +7735,7 @@
     "titleI": false,
     "lat": 40.716797,
     "lng": -116.110229,
-    "address": "552 8th Street",
+    "address": "552 8th St",
     "city": "Carlin",
     "zip": "89822"
   },
@@ -7775,7 +7775,7 @@
     "titleI": false,
     "lat": 41.109099,
     "lng": -114.966964,
-    "address": "1378 Lake Avenue",
+    "address": "1378 Lake Ave",
     "city": "Wells",
     "zip": "89835"
   },
@@ -7835,7 +7835,7 @@
     "titleI": false,
     "lat": 40.737455,
     "lng": -115.623259,
-    "address": "7 East Licht Parkway",
+    "address": "7 East Licht Pkwy",
     "city": "Spring Creek",
     "zip": "89815"
   },
@@ -7855,7 +7855,7 @@
     "titleI": false,
     "lat": 40.778865,
     "lng": -115.642418,
-    "address": "208 Boyd-Kennedy Road",
+    "address": "208 Boyd-Kennedy Rd",
     "city": "Spring Creek",
     "zip": "89815"
   },
@@ -7895,7 +7895,7 @@
     "titleI": false,
     "lat": 40.716797,
     "lng": -116.110229,
-    "address": "552 8th Street",
+    "address": "552 8th St",
     "city": "Carlin",
     "zip": "89822"
   },
@@ -7915,7 +7915,7 @@
     "titleI": false,
     "lat": 41.108354,
     "lng": -114.970202,
-    "address": "1129 Lake Avenue",
+    "address": "1129 Lake Ave",
     "city": "Wells",
     "zip": "89835"
   },
@@ -7955,7 +7955,7 @@
     "titleI": false,
     "lat": 40.777136,
     "lng": -115.645719,
-    "address": "14650 Lamoille Highway",
+    "address": "14650 Lamoille Hwy",
     "city": "Spring Creek",
     "zip": "89815"
   },
@@ -7975,7 +7975,7 @@
     "titleI": true,
     "lat": 41.982371,
     "lng": -114.668852,
-    "address": "2201 Progressive Drive",
+    "address": "2201 Progressive Dr",
     "city": "Jackpot",
     "zip": "89825"
   },
@@ -8015,7 +8015,7 @@
     "titleI": true,
     "lat": 40.732983,
     "lng": -114.081116,
-    "address": "2000 Elko Avenue",
+    "address": "2000 Elko Ave",
     "city": "West Wendover",
     "zip": "89883"
   },
@@ -8035,7 +8035,7 @@
     "titleI": false,
     "lat": 40.716797,
     "lng": -116.110229,
-    "address": "552 8th Street",
+    "address": "552 8th St",
     "city": "Carlin",
     "zip": "89822"
   },
@@ -8055,7 +8055,7 @@
     "titleI": false,
     "lat": 41.108354,
     "lng": -114.970202,
-    "address": "1129 Lake Avenue",
+    "address": "1129 Lake Ave",
     "city": "Wells",
     "zip": "89835"
   },
@@ -8075,7 +8075,7 @@
     "titleI": false,
     "lat": 40.839167,
     "lng": -115.761052,
-    "address": "987 College Avenue",
+    "address": "987 College Ave",
     "city": "Elko",
     "zip": "89801"
   },
@@ -8115,7 +8115,7 @@
     "titleI": false,
     "lat": 41.982371,
     "lng": -114.668852,
-    "address": "2201 Progressive Drive",
+    "address": "2201 Progressive Dr",
     "city": "Jackpot",
     "zip": "89825"
   },
@@ -8135,7 +8135,7 @@
     "titleI": false,
     "lat": 40.77441,
     "lng": -115.642822,
-    "address": "14550 Lamoille Highway",
+    "address": "14550 Lamoille Hwy",
     "city": "Spring Creek",
     "zip": "89815"
   },
@@ -8155,7 +8155,7 @@
     "titleI": true,
     "lat": 40.732559,
     "lng": -114.083553,
-    "address": "2055 Elko Avenue",
+    "address": "2055 Elko Ave",
     "city": "West Wendover",
     "zip": "89883"
   },
@@ -8175,7 +8175,7 @@
     "titleI": false,
     "lat": 40.84013,
     "lng": -115.766751,
-    "address": "850 Elm Street",
+    "address": "850 Elm St",
     "city": "Elko",
     "zip": "89801"
   },
@@ -8195,7 +8195,7 @@
     "titleI": false,
     "lat": 40.84013,
     "lng": -115.766751,
-    "address": "850 Elm Street",
+    "address": "850 Elm St",
     "city": "Elko",
     "zip": "89801"
   },
@@ -8215,7 +8215,7 @@
     "titleI": false,
     "lat": 40.84013,
     "lng": -115.766751,
-    "address": "850 Elm Street",
+    "address": "850 Elm St",
     "city": "Elko",
     "zip": "89801"
   },
@@ -8235,7 +8235,7 @@
     "titleI": true,
     "lat": 37.704854,
     "lng": -118.086476,
-    "address": "Hwy 264 MM 11",
+    "address": "Hwy 264 Mm 11",
     "city": "Dyer",
     "zip": "89010"
   },
@@ -8255,7 +8255,7 @@
     "titleI": true,
     "lat": 37.704854,
     "lng": -118.086476,
-    "address": "Hwy 264 MM 11",
+    "address": "Hwy 264 Mm 11",
     "city": "Dyer",
     "zip": "89010"
   },
@@ -8315,7 +8315,7 @@
     "titleI": false,
     "lat": 37.757522,
     "lng": -117.635841,
-    "address": "500 Galena St.",
+    "address": "500 Galena St",
     "city": "Silver Peak",
     "zip": "89047"
   },
@@ -8335,7 +8335,7 @@
     "titleI": false,
     "lat": 37.757522,
     "lng": -117.635841,
-    "address": "500 Galena St.",
+    "address": "500 Galena St",
     "city": "Silver Peak",
     "zip": "89047"
   },
@@ -8355,7 +8355,7 @@
     "titleI": false,
     "lat": 40.414303,
     "lng": -116.579049,
-    "address": "444 4th Street",
+    "address": "444 4th St",
     "city": "Crescent Valley",
     "zip": "89821"
   },
@@ -8375,7 +8375,7 @@
     "titleI": false,
     "lat": 39.507851,
     "lng": -115.963629,
-    "address": "431 McCoy Street",
+    "address": "431 Mccoy St",
     "city": "Eureka",
     "zip": "89316"
   },
@@ -8435,7 +8435,7 @@
     "titleI": true,
     "lat": 41.989741,
     "lng": -118.63278,
-    "address": "130 Juniper Dr. Box 76",
+    "address": "130 Juniper Dr Box 76",
     "city": "Denio",
     "zip": "89404"
   },
@@ -8455,7 +8455,7 @@
     "titleI": true,
     "lat": 41.78424,
     "lng": -118.246503,
-    "address": "134 Kings River Road",
+    "address": "134 Kings River Rd",
     "city": "Kings River",
     "zip": "89425"
   },
@@ -8475,7 +8475,7 @@
     "titleI": true,
     "lat": 41.78424,
     "lng": -118.246503,
-    "address": "134 Kings River Road",
+    "address": "134 Kings River Rd",
     "city": "Kings River",
     "zip": "89425"
   },
@@ -8495,7 +8495,7 @@
     "titleI": true,
     "lat": 41.569084,
     "lng": -117.790362,
-    "address": "Kings River Ranch Rd. Box 85",
+    "address": "Kings River Ranch Rd Box 85",
     "city": "Orovada",
     "zip": "89425"
   },
@@ -8515,7 +8515,7 @@
     "titleI": true,
     "lat": 41.569084,
     "lng": -117.790362,
-    "address": "Kings River Ranch Rd. Box 85",
+    "address": "Kings River Ranch Rd Box 85",
     "city": "Orovada",
     "zip": "89425"
   },
@@ -8535,7 +8535,7 @@
     "titleI": false,
     "lat": 41.493592,
     "lng": -117.537977,
-    "address": "275 Bridge St. Box 33",
+    "address": "275 Bridge St Box 33",
     "city": "Paradise Valley",
     "zip": "89426"
   },
@@ -8555,7 +8555,7 @@
     "titleI": false,
     "lat": 41.493592,
     "lng": -117.537977,
-    "address": "275 Bridge St. Box 33",
+    "address": "275 Bridge St Box 33",
     "city": "Paradise Valley",
     "zip": "89426"
   },
@@ -8575,7 +8575,7 @@
     "titleI": true,
     "lat": 40.965856,
     "lng": -117.722546,
-    "address": "1500 Melarkey Street",
+    "address": "1500 Melarkey St",
     "city": "Winnemucca",
     "zip": "89445"
   },
@@ -8595,7 +8595,7 @@
     "titleI": true,
     "lat": 40.970156,
     "lng": -117.734495,
-    "address": "522 Lay Street",
+    "address": "522 Lay St",
     "city": "Winnemucca",
     "zip": "89445"
   },
@@ -8615,8 +8615,8 @@
     "titleI": true,
     "lat": 41.997862,
     "lng": -117.716764,
-    "address": "100 Olavarria Street",
-    "city": "McDermitt",
+    "address": "100 Olavarria St",
+    "city": "Mcdermitt",
     "zip": "89421"
   },
   {
@@ -8635,7 +8635,7 @@
     "titleI": true,
     "lat": 40.923169,
     "lng": -117.762069,
-    "address": "6465 South Grass Valley Road",
+    "address": "6465 South Grass Valley Rd",
     "city": "Winnemucca",
     "zip": "89445"
   },
@@ -8655,7 +8655,7 @@
     "titleI": true,
     "lat": 40.967845,
     "lng": -117.707618,
-    "address": "5495 Palisade Drive",
+    "address": "5495 Palisade Dr",
     "city": "Winnemucca",
     "zip": "89445"
   },
@@ -8675,7 +8675,7 @@
     "titleI": true,
     "lat": 40.974813,
     "lng": -117.729321,
-    "address": "451 Reinhart Street",
+    "address": "451 Reinhart St",
     "city": "Winnemucca",
     "zip": "89445"
   },
@@ -8695,8 +8695,8 @@
     "titleI": true,
     "lat": 41.997862,
     "lng": -117.716764,
-    "address": "100 Olavarria Street",
-    "city": "McDermitt",
+    "address": "100 Olavarria St",
+    "city": "Mcdermitt",
     "zip": "89421"
   },
   {
@@ -8715,7 +8715,7 @@
     "titleI": false,
     "lat": 40.971603,
     "lng": -117.708087,
-    "address": "5375 Kluncy Canyon Road",
+    "address": "5375 Kluncy Canyon Rd",
     "city": "Winnemucca",
     "zip": "89445"
   },
@@ -8735,8 +8735,8 @@
     "titleI": true,
     "lat": 41.997862,
     "lng": -117.716764,
-    "address": "100 Olavarria Street",
-    "city": "McDermitt",
+    "address": "100 Olavarria St",
+    "city": "Mcdermitt",
     "zip": "89421"
   },
   {
@@ -8755,7 +8755,7 @@
     "titleI": true,
     "lat": 40.636177,
     "lng": -116.938855,
-    "address": "650 Altenburg Avenue",
+    "address": "650 Altenburg Ave",
     "city": "Battle Mountain",
     "zip": "89820"
   },
@@ -8775,7 +8775,7 @@
     "titleI": false,
     "lat": 40.640967,
     "lng": -116.954873,
-    "address": "985 W. Humboldt",
+    "address": "985 W Humboldt",
     "city": "Battle Mountain",
     "zip": "89820"
   },
@@ -8815,7 +8815,7 @@
     "titleI": false,
     "lat": 39.509442,
     "lng": -117.086216,
-    "address": "200 Highway 305 North Box 160",
+    "address": "200 Hwy 305 North Box 160",
     "city": "Austin",
     "zip": "89310"
   },
@@ -8835,7 +8835,7 @@
     "titleI": false,
     "lat": 39.509442,
     "lng": -117.086216,
-    "address": "200 Highway 305 North Box 160",
+    "address": "200 Hwy 305 North Box 160",
     "city": "Austin",
     "zip": "89310"
   },
@@ -8875,7 +8875,7 @@
     "titleI": true,
     "lat": 37.616395,
     "lng": -114.513821,
-    "address": "289 Lincoln Street",
+    "address": "289 Lincoln St",
     "city": "Caliente",
     "zip": "89008"
   },
@@ -8915,7 +8915,7 @@
     "titleI": true,
     "lat": 37.937313,
     "lng": -114.458743,
-    "address": "651 Airport Road",
+    "address": "651 Airport Rd",
     "city": "Pioche",
     "zip": "89043"
   },
@@ -8935,7 +8935,7 @@
     "titleI": false,
     "lat": 37.791361,
     "lng": -114.387746,
-    "address": "91 N 4th Street",
+    "address": "91 N 4th St",
     "city": "Panaca",
     "zip": "89042"
   },
@@ -8955,7 +8955,7 @@
     "titleI": false,
     "lat": 37.361766,
     "lng": -115.165017,
-    "address": "158 Main Street",
+    "address": "158 Main St",
     "city": "Alamo",
     "zip": "89001"
   },
@@ -8975,7 +8975,7 @@
     "titleI": false,
     "lat": 37.793068,
     "lng": -114.386742,
-    "address": "1111 East Edwards Street",
+    "address": "1111 East Edwards St",
     "city": "Panaca",
     "zip": "89042"
   },
@@ -8995,7 +8995,7 @@
     "titleI": false,
     "lat": 37.361766,
     "lng": -115.165017,
-    "address": "158 Main Street",
+    "address": "158 Main St",
     "city": "Alamo",
     "zip": "89001"
   },
@@ -9015,7 +9015,7 @@
     "titleI": true,
     "lat": 39.23814,
     "lng": -119.58006,
-    "address": "285 Dayton Valley Road",
+    "address": "285 Dayton Valley Rd",
     "city": "Dayton",
     "zip": "89403"
   },
@@ -9035,7 +9035,7 @@
     "titleI": true,
     "lat": 38.98764,
     "lng": -119.15996,
-    "address": "112 N. California Street",
+    "address": "112 N California St",
     "city": "Yerington",
     "zip": "89447"
   },
@@ -9055,7 +9055,7 @@
     "titleI": true,
     "lat": 39.604341,
     "lng": -119.247066,
-    "address": "450 Hardie Lane",
+    "address": "450 Hardie Ln",
     "city": "Fernley",
     "zip": "89408"
   },
@@ -9075,7 +9075,7 @@
     "titleI": true,
     "lat": 39.390622,
     "lng": -119.285863,
-    "address": "3900 W. Spruce Avenue",
+    "address": "3900 W Spruce Ave",
     "city": "Silver Springs",
     "zip": "89429"
   },
@@ -9095,7 +9095,7 @@
     "titleI": true,
     "lat": 39.581216,
     "lng": -119.137127,
-    "address": "4180 Farm District Road",
+    "address": "4180 Farm District Rd",
     "city": "Fernley",
     "zip": "89408"
   },
@@ -9115,7 +9115,7 @@
     "titleI": true,
     "lat": 39.239366,
     "lng": -119.576423,
-    "address": "315 Dayton Valley Road",
+    "address": "315 Dayton Valley Rd",
     "city": "Dayton",
     "zip": "89403"
   },
@@ -9135,7 +9135,7 @@
     "titleI": true,
     "lat": 39.592128,
     "lng": -119.22833,
-    "address": "925 Farm District Road",
+    "address": "925 Farm District Rd",
     "city": "Fernley",
     "zip": "89408"
   },
@@ -9155,7 +9155,7 @@
     "titleI": true,
     "lat": 39.274593,
     "lng": -119.581054,
-    "address": "190 Dayton Village Parkway",
+    "address": "190 Dayton Village Pkwy",
     "city": "Dayton",
     "zip": "89403"
   },
@@ -9175,7 +9175,7 @@
     "titleI": true,
     "lat": 39.296506,
     "lng": -119.501891,
-    "address": "1200 Ferretto Parkway",
+    "address": "1200 Ferretto Pkwy",
     "city": "Dayton",
     "zip": "89403"
   },
@@ -9195,7 +9195,7 @@
     "titleI": true,
     "lat": 38.990073,
     "lng": -119.159565,
-    "address": "215 Pearl Street",
+    "address": "215 Pearl St",
     "city": "Yerington",
     "zip": "89447"
   },
@@ -9215,7 +9215,7 @@
     "titleI": true,
     "lat": 39.604341,
     "lng": -119.247066,
-    "address": "450 Hardie Lane",
+    "address": "450 Hardie Ln",
     "city": "Fernley",
     "zip": "89408"
   },
@@ -9235,7 +9235,7 @@
     "titleI": true,
     "lat": 39.390878,
     "lng": -119.283588,
-    "address": "3800 W. Spruce Avenue",
+    "address": "3800 W Spruce Ave",
     "city": "Silver Springs",
     "zip": "89429"
   },
@@ -9255,7 +9255,7 @@
     "titleI": true,
     "lat": 39.590958,
     "lng": -119.195562,
-    "address": "1100 Jasmine Lane",
+    "address": "1100 Jasmine Ln",
     "city": "Fernley",
     "zip": "89408"
   },
@@ -9275,7 +9275,7 @@
     "titleI": true,
     "lat": 39.581889,
     "lng": -119.242858,
-    "address": "1300 Hwy 95A South",
+    "address": "1300 Hwy 95a South",
     "city": "Fernley",
     "zip": "89408"
   },
@@ -9295,7 +9295,7 @@
     "titleI": false,
     "lat": 38.80267,
     "lng": -119.327526,
-    "address": "20 Day Lane",
+    "address": "20 Day Ln",
     "city": "Smith",
     "zip": "89430"
   },
@@ -9315,7 +9315,7 @@
     "titleI": false,
     "lat": 38.80267,
     "lng": -119.327526,
-    "address": "20 Day Lane",
+    "address": "20 Day Ln",
     "city": "Smith",
     "zip": "89430"
   },
@@ -9335,7 +9335,7 @@
     "titleI": false,
     "lat": 38.80267,
     "lng": -119.327526,
-    "address": "20 Day Lane",
+    "address": "20 Day Ln",
     "city": "Smith",
     "zip": "89430"
   },
@@ -9355,7 +9355,7 @@
     "titleI": true,
     "lat": 38.990646,
     "lng": -119.160937,
-    "address": "114 Pearl Street",
+    "address": "114 Pearl St",
     "city": "Yerington",
     "zip": "89447"
   },
@@ -9375,7 +9375,7 @@
     "titleI": false,
     "lat": 39.238846,
     "lng": -119.572622,
-    "address": "335 Dayton Valley Road",
+    "address": "335 Dayton Valley Rd",
     "city": "Dayton",
     "zip": "89403"
   },
@@ -9395,7 +9395,7 @@
     "titleI": true,
     "lat": 39.388703,
     "lng": -119.285354,
-    "address": "3755 W. Spruce Avenue",
+    "address": "3755 W Spruce Ave",
     "city": "Silver Springs",
     "zip": "89429"
   },
@@ -9415,7 +9415,7 @@
     "titleI": true,
     "lat": 38.529781,
     "lng": -118.63071,
-    "address": "301 W. 9th St",
+    "address": "301 W 9th St",
     "city": "Hawthorne",
     "zip": "89415"
   },
@@ -9435,7 +9435,7 @@
     "titleI": true,
     "lat": 38.938739,
     "lng": -118.808253,
-    "address": "4048 S. Hwy 95",
+    "address": "4048 S Hwy 95",
     "city": "Schurz",
     "zip": "89427"
   },
@@ -9555,7 +9555,7 @@
     "titleI": true,
     "lat": 36.569404,
     "lng": -116.461016,
-    "address": "1560 E. Amargosa Farm Rd.",
+    "address": "1560 E Amargosa Farm Rd",
     "city": "Amargosa",
     "zip": "89020"
   },
@@ -9775,7 +9775,7 @@
     "titleI": true,
     "lat": 36.569404,
     "lng": -116.461016,
-    "address": "1560 E. Amargosa Farm Rd.",
+    "address": "1560 E Amargosa Farm Rd",
     "city": "Amargosa",
     "zip": "89020"
   },
@@ -9875,7 +9875,7 @@
     "titleI": true,
     "lat": 39.163353,
     "lng": -119.771886,
-    "address": "110 S. Thompson St.",
+    "address": "110 S Thompson St",
     "city": "Carson City",
     "zip": "89703"
   },
@@ -9895,7 +9895,7 @@
     "titleI": true,
     "lat": 39.175938,
     "lng": -119.771369,
-    "address": "504 Bath St.",
+    "address": "504 Bath St",
     "city": "Carson City",
     "zip": "89703"
   },
@@ -9915,7 +9915,7 @@
     "titleI": true,
     "lat": 39.155734,
     "lng": -119.750661,
-    "address": "1511 Firebox Rd.",
+    "address": "1511 Firebox Rd",
     "city": "Carson City",
     "zip": "89701"
   },
@@ -9935,7 +9935,7 @@
     "titleI": true,
     "lat": 39.142042,
     "lng": -119.753602,
-    "address": "2800 S. Saliman Rd.",
+    "address": "2800 S Saliman Rd",
     "city": "Carson City",
     "zip": "89701"
   },
@@ -9955,7 +9955,7 @@
     "titleI": true,
     "lat": 39.171453,
     "lng": -119.729463,
-    "address": "1260 Monte Rosa Dr.",
+    "address": "1260 Monte Rosa Dr",
     "city": "Carson City",
     "zip": "89701"
   },
@@ -9975,7 +9975,7 @@
     "titleI": true,
     "lat": 39.180184,
     "lng": -119.750808,
-    "address": "2111 Carriage Crest Dr.",
+    "address": "2111 Carriage Crest Dr",
     "city": "Carson City",
     "zip": "89706"
   },
@@ -9995,7 +9995,7 @@
     "titleI": false,
     "lat": 39.205932,
     "lng": -119.743978,
-    "address": "2263 Mouton Dr.",
+    "address": "2263 Mouton Dr",
     "city": "Carson City",
     "zip": "89706"
   },
@@ -10015,7 +10015,7 @@
     "titleI": false,
     "lat": 39.16489,
     "lng": -119.777217,
-    "address": "1140 W. King St.",
+    "address": "1140 W King St",
     "city": "Carson City",
     "zip": "89703"
   },
@@ -10035,7 +10035,7 @@
     "titleI": false,
     "lat": 39.158859,
     "lng": -119.72001,
-    "address": "4151 E. Fifth St.",
+    "address": "4151 E Fifth St",
     "city": "Carson City",
     "zip": "89701"
   },
@@ -10055,7 +10055,7 @@
     "titleI": false,
     "lat": 39.16908,
     "lng": -119.748958,
-    "address": "1111 N. Saliman Rd.",
+    "address": "1111 N Saliman Rd",
     "city": "Carson City",
     "zip": "89701"
   },
@@ -10075,7 +10075,7 @@
     "titleI": true,
     "lat": 40.659374,
     "lng": -118.148113,
-    "address": "380 Main Street",
+    "address": "380 Main St",
     "city": "Imlay",
     "zip": "89418"
   },
@@ -10115,7 +10115,7 @@
     "titleI": true,
     "lat": 40.183187,
     "lng": -118.478465,
-    "address": "1295 Elmhurst Avenue",
+    "address": "1295 Elmhurst Ave",
     "city": "Lovelock",
     "zip": "89419"
   },
@@ -10135,7 +10135,7 @@
     "titleI": false,
     "lat": 40.183142,
     "lng": -118.47991,
-    "address": "1215 Franklin Avenue",
+    "address": "1215 Franklin Ave",
     "city": "Lovelock",
     "zip": "89419"
   },
@@ -10155,7 +10155,7 @@
     "titleI": false,
     "lat": 39.308015,
     "lng": -119.64951,
-    "address": "191 South D Street",
+    "address": "191 South D St",
     "city": "Virginia City",
     "zip": "89440"
   },
@@ -10175,7 +10175,7 @@
     "titleI": true,
     "lat": 39.509271,
     "lng": -119.639669,
-    "address": "1250 Peri Ranch Road",
+    "address": "1250 Peri Ranch Rd",
     "city": "Sparks",
     "zip": "89434"
   },
@@ -10195,7 +10195,7 @@
     "titleI": false,
     "lat": 39.309015,
     "lng": -119.649175,
-    "address": "127 South D street",
+    "address": "127 South D St",
     "city": "Virginia City",
     "zip": "89440"
   },
@@ -10215,7 +10215,7 @@
     "titleI": false,
     "lat": 39.307697,
     "lng": -119.641681,
-    "address": "95 South R Street",
+    "address": "95 South R St",
     "city": "Virginia City",
     "zip": "89440"
   },
@@ -10235,8 +10235,8 @@
     "titleI": true,
     "lat": 39.494325,
     "lng": -119.809636,
-    "address": "1055 BERRUM LANE",
-    "city": "RENO",
+    "address": "1055 Berrum Ln",
+    "city": "Reno",
     "zip": "89509"
   },
   {
@@ -10255,8 +10255,8 @@
     "titleI": true,
     "lat": 39.503274,
     "lng": -119.792771,
-    "address": "600 Apple Street",
-    "city": "RENO",
+    "address": "600 Apple St",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -10275,8 +10275,8 @@
     "titleI": true,
     "lat": 39.532775,
     "lng": -119.842146,
-    "address": "855 MCDONALD DR",
-    "city": "RENO",
+    "address": "855 Mcdonald Dr",
+    "city": "Reno",
     "zip": "89503"
   },
   {
@@ -10295,8 +10295,8 @@
     "titleI": true,
     "lat": 39.541345,
     "lng": -119.794595,
-    "address": "1200 MONTELLO ST",
-    "city": "RENO",
+    "address": "1200 Montello St",
+    "city": "Reno",
     "zip": "89512"
   },
   {
@@ -10315,8 +10315,8 @@
     "titleI": true,
     "lat": 39.528876,
     "lng": -119.855508,
-    "address": "3075 Heights Drive",
-    "city": "RENO",
+    "address": "3075 Heights Dr",
+    "city": "Reno",
     "zip": "89503"
   },
   {
@@ -10335,8 +10335,8 @@
     "titleI": false,
     "lat": 39.51128,
     "lng": -119.836506,
-    "address": "909 HUNTER LAKE DR",
-    "city": "RENO",
+    "address": "909 Hunter Lake Dr",
+    "city": "Reno",
     "zip": "89509"
   },
   {
@@ -10356,7 +10356,7 @@
     "lat": 39.504817,
     "lng": -119.82602,
     "address": "1900 Sharon Way",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89509"
   },
   {
@@ -10375,8 +10375,8 @@
     "titleI": true,
     "lat": 39.520746,
     "lng": -119.794448,
-    "address": "1450 STEWART ST",
-    "city": "RENO",
+    "address": "1450 Stewart St",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -10396,7 +10396,7 @@
     "lat": 39.53763,
     "lng": -119.850555,
     "address": "2800 Kings Row",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89503"
   },
   {
@@ -10415,8 +10415,8 @@
     "titleI": false,
     "lat": 39.545713,
     "lng": -119.893455,
-    "address": "6575 Archimedes Lane",
-    "city": "RENO",
+    "address": "6575 Archimedes Ln",
+    "city": "Reno",
     "zip": "89523"
   },
   {
@@ -10435,8 +10435,8 @@
     "titleI": false,
     "lat": 39.515273,
     "lng": -119.81579,
-    "address": "915 Lander Street",
-    "city": "RENO",
+    "address": "915 Lander St",
+    "city": "Reno",
     "zip": "89509"
   },
   {
@@ -10455,8 +10455,8 @@
     "titleI": false,
     "lat": 39.515273,
     "lng": -119.81579,
-    "address": "915 Lander Street",
-    "city": "RENO",
+    "address": "915 Lander St",
+    "city": "Reno",
     "zip": "89509"
   },
   {
@@ -10475,8 +10475,8 @@
     "titleI": false,
     "lat": 39.441212,
     "lng": -119.747529,
-    "address": "1200 South Meadows Parkway",
-    "city": "RENO",
+    "address": "1200 South Meadows Pkwy",
+    "city": "Reno",
     "zip": "89521"
   },
   {
@@ -10496,7 +10496,7 @@
     "lat": 39.54067,
     "lng": -119.833499,
     "address": "1601 Grandview Ave",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89503"
   },
   {
@@ -10515,8 +10515,8 @@
     "titleI": true,
     "lat": 39.55009,
     "lng": -119.784812,
-    "address": "2450 Cannan Street",
-    "city": "RENO",
+    "address": "2450 Cannan St",
+    "city": "Reno",
     "zip": "89512"
   },
   {
@@ -10535,8 +10535,8 @@
     "titleI": true,
     "lat": 39.509917,
     "lng": -119.784787,
-    "address": "1901 Villanova Drive",
-    "city": "RENO",
+    "address": "1901 Villanova Dr",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -10555,8 +10555,8 @@
     "titleI": false,
     "lat": 39.506771,
     "lng": -119.860559,
-    "address": "4000 MAYBERRY DR",
-    "city": "RENO",
+    "address": "4000 Mayberry Dr",
+    "city": "Reno",
     "zip": "89519"
   },
   {
@@ -10575,8 +10575,8 @@
     "titleI": true,
     "lat": 39.479903,
     "lng": -119.782564,
-    "address": "4801 Neil Road",
-    "city": "RENO",
+    "address": "4801 Neil Rd",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -10596,7 +10596,7 @@
     "lat": 39.624001,
     "lng": -119.881033,
     "address": "10580 Stead Blvd",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89506"
   },
   {
@@ -10615,8 +10615,8 @@
     "titleI": true,
     "lat": 39.513371,
     "lng": -119.799598,
-    "address": "1200 Locust Street",
-    "city": "RENO",
+    "address": "1200 Locust St",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -10635,8 +10635,8 @@
     "titleI": true,
     "lat": 39.550667,
     "lng": -119.770544,
-    "address": "1900 Sullivan Lane",
-    "city": "SPARKS",
+    "address": "1900 Sullivan Ln",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -10656,7 +10656,7 @@
     "lat": 39.552183,
     "lng": -119.76139,
     "address": "2300 North Rock Blvd",
-    "city": "SPARKS",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -10675,8 +10675,8 @@
     "titleI": true,
     "lat": 39.555406,
     "lng": -119.748748,
-    "address": "2755 Fourth Street",
-    "city": "SPARKS",
+    "address": "2755 Fourth St",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -10695,8 +10695,8 @@
     "titleI": true,
     "lat": 39.548697,
     "lng": -119.747709,
-    "address": "1840 4TH STREET",
-    "city": "SPARKS",
+    "address": "1840 4th St",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -10715,8 +10715,8 @@
     "titleI": true,
     "lat": 39.538641,
     "lng": -119.769637,
-    "address": "1925 F STREET",
-    "city": "SPARKS",
+    "address": "1925 F St",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -10735,8 +10735,8 @@
     "titleI": false,
     "lat": 39.561051,
     "lng": -119.745071,
-    "address": "225 QUEEN WAY",
-    "city": "SPARKS",
+    "address": "225 Queen Way",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -10756,7 +10756,7 @@
     "lat": 39.538568,
     "lng": -119.745582,
     "address": "201 Lincoln Way",
-    "city": "SPARKS",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -10776,7 +10776,7 @@
     "lat": 39.539559,
     "lng": -119.758573,
     "address": "1216 Prater Way",
-    "city": "SPARKS",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -10795,8 +10795,8 @@
     "titleI": false,
     "lat": 39.403207,
     "lng": -119.725838,
-    "address": "13815 Spelling Court",
-    "city": "RENO",
+    "address": "13815 Spelling Ct",
+    "city": "Reno",
     "zip": "89521"
   },
   {
@@ -10815,8 +10815,8 @@
     "titleI": false,
     "lat": 39.470177,
     "lng": -119.804625,
-    "address": "980 WHEATLAND RD",
-    "city": "RENO",
+    "address": "980 Wheatland Rd",
+    "city": "Reno",
     "zip": "89511"
   },
   {
@@ -10835,8 +10835,8 @@
     "titleI": true,
     "lat": 39.546094,
     "lng": -119.80898,
-    "address": "2001 SOARING EAGLE DR",
-    "city": "RENO",
+    "address": "2001 Soaring Eagle Dr",
+    "city": "Reno",
     "zip": "89512"
   },
   {
@@ -10855,8 +10855,8 @@
     "titleI": true,
     "lat": 39.645936,
     "lng": -119.838422,
-    "address": "255 W Patrician Drive",
-    "city": "RENO",
+    "address": "255 W Patrician Dr",
+    "city": "Reno",
     "zip": "89506"
   },
   {
@@ -10875,8 +10875,8 @@
     "titleI": false,
     "lat": 39.351474,
     "lng": -119.781069,
-    "address": "405 SURREY DRIVE",
-    "city": "RENO",
+    "address": "405 Surrey Dr",
+    "city": "Reno",
     "zip": "89511"
   },
   {
@@ -10895,8 +10895,8 @@
     "titleI": true,
     "lat": 39.592073,
     "lng": -119.775148,
-    "address": "5490 LEON DRIVE",
-    "city": "SPARKS",
+    "address": "5490 Leon Dr",
+    "city": "Sparks",
     "zip": "89433"
   },
   {
@@ -10915,8 +10915,8 @@
     "titleI": false,
     "lat": 39.520949,
     "lng": -119.989747,
-    "address": "250 Bridge Street",
-    "city": "VERDI",
+    "address": "250 Bridge St",
+    "city": "Verdi",
     "zip": "89439"
   },
   {
@@ -10936,7 +10936,7 @@
     "lat": 39.635832,
     "lng": -119.28958,
     "address": "1 Hwy 447",
-    "city": "WADSWORTH",
+    "city": "Wadsworth",
     "zip": "89442"
   },
   {
@@ -10955,8 +10955,8 @@
     "titleI": false,
     "lat": 39.551966,
     "lng": -119.711222,
-    "address": "1735 DEL ROSA WAY",
-    "city": "SPARKS",
+    "address": "1735 Del Rosa Way",
+    "city": "Sparks",
     "zip": "89434"
   },
   {
@@ -10975,8 +10975,8 @@
     "titleI": true,
     "lat": 39.547642,
     "lng": -119.725781,
-    "address": "1135 O CALLAGHAN DR",
-    "city": "SPARKS",
+    "address": "1135 O Callaghan Dr",
+    "city": "Sparks",
     "zip": "89434"
   },
   {
@@ -10995,8 +10995,8 @@
     "titleI": true,
     "lat": 39.606459,
     "lng": -119.760796,
-    "address": "5890 KLONDIKE",
-    "city": "SPARKS",
+    "address": "5890 Klondike",
+    "city": "Sparks",
     "zip": "89433"
   },
   {
@@ -11015,8 +11015,8 @@
     "titleI": false,
     "lat": 39.634819,
     "lng": -119.734239,
-    "address": "185 SHELBY DRIVE",
-    "city": "SPARKS",
+    "address": "185 Shelby Dr",
+    "city": "Sparks",
     "zip": "89436"
   },
   {
@@ -11035,8 +11035,8 @@
     "titleI": false,
     "lat": 39.584004,
     "lng": -119.732229,
-    "address": "5075 ION DRIVE",
-    "city": "SPARKS",
+    "address": "5075 Ion Dr",
+    "city": "Sparks",
     "zip": "89436"
   },
   {
@@ -11055,8 +11055,8 @@
     "titleI": false,
     "lat": 39.447463,
     "lng": -119.722488,
-    "address": "9600 MOJAVE SKY DR",
-    "city": "RENO",
+    "address": "9600 Mojave Sky Dr",
+    "city": "Reno",
     "zip": "89521"
   },
   {
@@ -11075,8 +11075,8 @@
     "titleI": false,
     "lat": 39.610178,
     "lng": -119.724384,
-    "address": "1100 WINDMILL FARMS PKWY",
-    "city": "SPARKS",
+    "address": "1100 Windmill Farms Pkwy",
+    "city": "Sparks",
     "zip": "89436"
   },
   {
@@ -11095,8 +11095,8 @@
     "titleI": false,
     "lat": 39.695147,
     "lng": -119.972602,
-    "address": "18001 Briar Drive",
-    "city": "RENO",
+    "address": "18001 Briar Dr",
+    "city": "Reno",
     "zip": "89508"
   },
   {
@@ -11135,8 +11135,8 @@
     "titleI": false,
     "lat": 39.252372,
     "lng": -119.950349,
-    "address": "915 NORTHWOOD BLVD",
-    "city": "INCLINE VILLAGE",
+    "address": "915 Northwood Blvd",
+    "city": "Incline Village",
     "zip": "89451"
   },
   {
@@ -11155,8 +11155,8 @@
     "titleI": false,
     "lat": 39.680316,
     "lng": -119.96829,
-    "address": "3870 LIMKIN STREET",
-    "city": "RENO",
+    "address": "3870 Limkin St",
+    "city": "Reno",
     "zip": "89508"
   },
   {
@@ -11175,8 +11175,8 @@
     "titleI": false,
     "lat": 39.427158,
     "lng": -119.7755,
-    "address": "2500 HOMELAND DRIVE",
-    "city": "RENO",
+    "address": "2500 Homeland Dr",
+    "city": "Reno",
     "zip": "89511"
   },
   {
@@ -11195,8 +11195,8 @@
     "titleI": true,
     "lat": 39.489918,
     "lng": -119.750935,
-    "address": "4355 HOUSTON DR",
-    "city": "RENO",
+    "address": "4355 Houston Dr",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -11215,8 +11215,8 @@
     "titleI": false,
     "lat": 39.564568,
     "lng": -119.710867,
-    "address": "3570 WATERFALL DR",
-    "city": "SPARKS",
+    "address": "3570 Waterfall Dr",
+    "city": "Sparks",
     "zip": "89434"
   },
   {
@@ -11235,8 +11235,8 @@
     "titleI": true,
     "lat": 39.606793,
     "lng": -119.837161,
-    "address": "1070 Beckwourth Drive",
-    "city": "RENO",
+    "address": "1070 Beckwourth Dr",
+    "city": "Reno",
     "zip": "89506"
   },
   {
@@ -11255,8 +11255,8 @@
     "titleI": false,
     "lat": 39.482716,
     "lng": -119.857484,
-    "address": "4885 VILLAGE GREEN PKWY",
-    "city": "RENO",
+    "address": "4885 Village Green Pkwy",
+    "city": "Reno",
     "zip": "89519"
   },
   {
@@ -11275,8 +11275,8 @@
     "titleI": true,
     "lat": 39.499951,
     "lng": -119.716795,
-    "address": "2115 Alphabet Drive",
-    "city": "RENO",
+    "address": "2115 Alphabet Dr",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -11296,7 +11296,7 @@
     "lat": 39.633011,
     "lng": -119.901889,
     "address": "8719 Red Baron Blvd",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89506"
   },
   {
@@ -11315,8 +11315,8 @@
     "titleI": false,
     "lat": 39.526916,
     "lng": -119.892689,
-    "address": "1785 Ambassador Drive",
-    "city": "RENO",
+    "address": "1785 Ambassador Dr",
+    "city": "Reno",
     "zip": "89523"
   },
   {
@@ -11336,7 +11336,7 @@
     "lat": 39.653016,
     "lng": -119.710501,
     "address": "252 Egyptian Way",
-    "city": "SPARKS",
+    "city": "Sparks",
     "zip": "89441"
   },
   {
@@ -11355,8 +11355,8 @@
     "titleI": true,
     "lat": 39.579709,
     "lng": -119.786013,
-    "address": "5155 MCGUFFEY ROAD",
-    "city": "SPARKS",
+    "address": "5155 Mcguffey Rd",
+    "city": "Sparks",
     "zip": "89433"
   },
   {
@@ -11375,8 +11375,8 @@
     "titleI": false,
     "lat": 39.550638,
     "lng": -119.697476,
-    "address": "2200 PRIMIO WAY",
-    "city": "SPARKS",
+    "address": "2200 Primio Way",
+    "city": "Sparks",
     "zip": "89434"
   },
   {
@@ -11395,8 +11395,8 @@
     "titleI": true,
     "lat": 39.65359,
     "lng": -119.882579,
-    "address": "13948 MOUNT BISMARK STREET",
-    "city": "RENO",
+    "address": "13948 Mount Bismark St",
+    "city": "Reno",
     "zip": "89506"
   },
   {
@@ -11415,8 +11415,8 @@
     "titleI": false,
     "lat": 39.644254,
     "lng": -119.693216,
-    "address": "100 Marilyn Mae Drive",
-    "city": "SPARKS",
+    "address": "100 Marilyn Mae Dr",
+    "city": "Sparks",
     "zip": "89441"
   },
   {
@@ -11435,8 +11435,8 @@
     "titleI": false,
     "lat": 39.523417,
     "lng": -119.878932,
-    "address": "1349 BACKER WY",
-    "city": "RENO",
+    "address": "1349 Backer Wy",
+    "city": "Reno",
     "zip": "89523"
   },
   {
@@ -11455,8 +11455,8 @@
     "titleI": false,
     "lat": 39.580689,
     "lng": -119.706962,
-    "address": "2100 Canyon Parkway",
-    "city": "SPARKS",
+    "address": "2100 Canyon Pkwy",
+    "city": "Sparks",
     "zip": "89436"
   },
   {
@@ -11476,7 +11476,7 @@
     "lat": 39.476171,
     "lng": -119.744315,
     "address": "5125 Escuela Way",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -11495,8 +11495,8 @@
     "titleI": true,
     "lat": 39.541757,
     "lng": -119.779146,
-    "address": "2750 ELEMENTARY DR",
-    "city": "RENO",
+    "address": "2750 Elementary Dr",
+    "city": "Reno",
     "zip": "89512"
   },
   {
@@ -11516,7 +11516,7 @@
     "lat": 39.406497,
     "lng": -119.80073,
     "address": "2505 Crossbow",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89511"
   },
   {
@@ -11535,8 +11535,8 @@
     "titleI": true,
     "lat": 39.608009,
     "lng": -119.783997,
-    "address": "5900 Sidehill Drive",
-    "city": "SPARKS",
+    "address": "5900 Sidehill Dr",
+    "city": "Sparks",
     "zip": "89433"
   },
   {
@@ -11555,8 +11555,8 @@
     "titleI": false,
     "lat": 39.625191,
     "lng": -119.681866,
-    "address": "7650 CAMPELLO DRIVE",
-    "city": "SPARKS",
+    "address": "7650 Campello Dr",
+    "city": "Sparks",
     "zip": "89436"
   },
   {
@@ -11575,8 +11575,8 @@
     "titleI": true,
     "lat": 39.494547,
     "lng": -119.795007,
-    "address": "210 GENTRY WAY",
-    "city": "RENO",
+    "address": "210 Gentry Way",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -11635,8 +11635,8 @@
     "titleI": true,
     "lat": 39.488838,
     "lng": -119.778428,
-    "address": "3875 GLEN STREET",
-    "city": "RENO",
+    "address": "3875 Glen St",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -11655,8 +11655,8 @@
     "titleI": false,
     "lat": 39.548474,
     "lng": -119.784038,
-    "address": "101 FANTASTIC DR",
-    "city": "RENO",
+    "address": "101 Fantastic Dr",
+    "city": "Reno",
     "zip": "89512"
   },
   {
@@ -11675,8 +11675,8 @@
     "titleI": false,
     "lat": 39.548474,
     "lng": -119.784038,
-    "address": "101 FANTASTIC DR",
-    "city": "RENO",
+    "address": "101 Fantastic Dr",
+    "city": "Reno",
     "zip": "89512"
   },
   {
@@ -11695,8 +11695,8 @@
     "titleI": true,
     "lat": 39.536596,
     "lng": -119.84712,
-    "address": "1295 Wyoming Avenue",
-    "city": "RENO",
+    "address": "1295 Wyoming Ave",
+    "city": "Reno",
     "zip": "89503"
   },
   {
@@ -11715,8 +11715,8 @@
     "titleI": true,
     "lat": 39.479921,
     "lng": -119.780691,
-    "address": "4800 Neil Road",
-    "city": "RENO",
+    "address": "4800 Neil Rd",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -11735,8 +11735,8 @@
     "titleI": false,
     "lat": 39.51007,
     "lng": -119.847053,
-    "address": "901 Keele Drive",
-    "city": "RENO",
+    "address": "901 Keele Dr",
+    "city": "Reno",
     "zip": "89509"
   },
   {
@@ -11755,8 +11755,8 @@
     "titleI": true,
     "lat": 39.514125,
     "lng": -119.792125,
-    "address": "1200 Bresson Avenue",
-    "city": "RENO",
+    "address": "1200 Bresson Ave",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -11775,8 +11775,8 @@
     "titleI": true,
     "lat": 39.541394,
     "lng": -119.792507,
-    "address": "1700 Carville Drive",
-    "city": "RENO",
+    "address": "1700 Carville Dr",
+    "city": "Reno",
     "zip": "89512"
   },
   {
@@ -11795,8 +11795,8 @@
     "titleI": true,
     "lat": 39.540964,
     "lng": -119.74557,
-    "address": "255 PRATER WAY",
-    "city": "SPARKS",
+    "address": "255 Prater Way",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -11815,8 +11815,8 @@
     "titleI": true,
     "lat": 39.551923,
     "lng": -119.768564,
-    "address": "2275 18th Street",
-    "city": "SPARKS",
+    "address": "2275 18th St",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -11836,7 +11836,7 @@
     "lat": 39.622622,
     "lng": -119.879244,
     "address": "5000 Silver Lake Rd",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89506"
   },
   {
@@ -11855,8 +11855,8 @@
     "titleI": false,
     "lat": 39.246856,
     "lng": -119.946913,
-    "address": "931 SOUTHWOOD BLVD",
-    "city": "INCLINE VILLAGE",
+    "address": "931 Southwood Blvd",
+    "city": "Incline Village",
     "zip": "89451"
   },
   {
@@ -11875,8 +11875,8 @@
     "titleI": false,
     "lat": 39.521776,
     "lng": -119.894305,
-    "address": "6685 CHESTERFIELD LANE",
-    "city": "RENO",
+    "address": "6685 Chesterfield Ln",
+    "city": "Reno",
     "zip": "89523"
   },
   {
@@ -11895,8 +11895,8 @@
     "titleI": false,
     "lat": 39.551525,
     "lng": -119.70705,
-    "address": "1900 Whitewood Drive",
-    "city": "SPARKS",
+    "address": "1900 Whitewood Dr",
+    "city": "Sparks",
     "zip": "89434"
   },
   {
@@ -11915,8 +11915,8 @@
     "titleI": false,
     "lat": 39.46892,
     "lng": -119.783701,
-    "address": "6275 NEIL RD",
-    "city": "RENO",
+    "address": "6275 Neil Rd",
+    "city": "Reno",
     "zip": "89511"
   },
   {
@@ -11935,8 +11935,8 @@
     "titleI": false,
     "lat": 39.44853,
     "lng": -119.73473,
-    "address": "9300 WILBUR MAY PARKWAY",
-    "city": "RENO",
+    "address": "9300 Wilbur May Pkwy",
+    "city": "Reno",
     "zip": "89521"
   },
   {
@@ -11955,8 +11955,8 @@
     "titleI": false,
     "lat": 39.647609,
     "lng": -119.72318,
-    "address": "600 EAGLE CANYON DR",
-    "city": "SPARKS",
+    "address": "600 Eagle Canyon Dr",
+    "city": "Sparks",
     "zip": "89441"
   },
   {
@@ -11975,8 +11975,8 @@
     "titleI": false,
     "lat": 39.692494,
     "lng": -119.962765,
-    "address": "18235 CODY COURT",
-    "city": "RENO",
+    "address": "18235 Cody Ct",
+    "city": "Reno",
     "zip": "89508"
   },
   {
@@ -11995,8 +11995,8 @@
     "titleI": false,
     "lat": 39.543896,
     "lng": -119.80829,
-    "address": "1701 VALLEY ROAD",
-    "city": "RENO",
+    "address": "1701 Valley Rd",
+    "city": "Reno",
     "zip": "89512"
   },
   {
@@ -12015,8 +12015,8 @@
     "titleI": false,
     "lat": 39.61006,
     "lng": -119.722463,
-    "address": "1200 WINDMILL FARMS",
-    "city": "SPARKS",
+    "address": "1200 Windmill Farms",
+    "city": "Sparks",
     "zip": "89436"
   },
   {
@@ -12035,8 +12035,8 @@
     "titleI": false,
     "lat": 39.538214,
     "lng": -119.79657,
-    "address": "1350 E. NINTH ST",
-    "city": "RENO",
+    "address": "1350 E Ninth St",
+    "city": "Reno",
     "zip": "89512"
   },
   {
@@ -12055,8 +12055,8 @@
     "titleI": true,
     "lat": 39.622181,
     "lng": -119.764915,
-    "address": "7550 DONATELLO DR",
-    "city": "SUN VALLEY",
+    "address": "7550 Donatello Dr",
+    "city": "Sun Valley",
     "zip": "89433"
   },
   {
@@ -12075,8 +12075,8 @@
     "titleI": false,
     "lat": 39.406396,
     "lng": -119.793847,
-    "address": "13455 THOMAS CREEK RD",
-    "city": "RENO",
+    "address": "13455 Thomas Creek Rd",
+    "city": "Reno",
     "zip": "89511"
   },
   {
@@ -12095,8 +12095,8 @@
     "titleI": true,
     "lat": 39.506534,
     "lng": -119.782192,
-    "address": "1331 East Plumb Lane",
-    "city": "RENO",
+    "address": "1331 East Plumb Ln",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -12115,8 +12115,8 @@
     "titleI": false,
     "lat": 39.517456,
     "lng": -119.827985,
-    "address": "395 BOOTH STREET",
-    "city": "RENO",
+    "address": "395 Booth St",
+    "city": "Reno",
     "zip": "89509"
   },
   {
@@ -12135,8 +12135,8 @@
     "titleI": true,
     "lat": 39.540992,
     "lng": -119.761387,
-    "address": "820 15TH ST",
-    "city": "SPARKS",
+    "address": "820 15th St",
+    "city": "Sparks",
     "zip": "89431"
   },
   {
@@ -12155,7 +12155,7 @@
     "titleI": true,
     "lat": 39.564553,
     "lng": -119.768289,
-    "address": "3530 Sullivan Lane",
+    "address": "3530 Sullivan Ln",
     "city": "Sparks",
     "zip": "89431"
   },
@@ -12175,8 +12175,8 @@
     "titleI": false,
     "lat": 39.557595,
     "lng": -119.719752,
-    "address": "1350 Baring Blvd.",
-    "city": "SPARKS",
+    "address": "1350 Baring Blvd",
+    "city": "Sparks",
     "zip": "89434"
   },
   {
@@ -12195,8 +12195,8 @@
     "titleI": false,
     "lat": 39.534583,
     "lng": -119.883773,
-    "address": "6055 Lancer Street",
-    "city": "RENO",
+    "address": "6055 Lancer St",
+    "city": "Reno",
     "zip": "89523"
   },
   {
@@ -12216,7 +12216,7 @@
     "lat": 39.387879,
     "lng": -119.777268,
     "address": "3600 Butch Cassidy Way",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89511"
   },
   {
@@ -12235,8 +12235,8 @@
     "titleI": false,
     "lat": 40.652981,
     "lng": -119.35389,
-    "address": "555 E. Sunset Blvd",
-    "city": "GERLACH",
+    "address": "555 E Sunset Blvd",
+    "city": "Gerlach",
     "zip": "89412"
   },
   {
@@ -12255,8 +12255,8 @@
     "titleI": false,
     "lat": 40.652981,
     "lng": -119.35389,
-    "address": "555 E. Sunset Blvd",
-    "city": "GERLACH",
+    "address": "555 E Sunset Blvd",
+    "city": "Gerlach",
     "zip": "89412"
   },
   {
@@ -12275,8 +12275,8 @@
     "titleI": false,
     "lat": 39.255443,
     "lng": -119.952102,
-    "address": "499 VILLAGE BLVD",
-    "city": "INCLINE VILLAGE",
+    "address": "499 Village Blvd",
+    "city": "Incline Village",
     "zip": "89451"
   },
   {
@@ -12295,8 +12295,8 @@
     "titleI": false,
     "lat": 39.572311,
     "lng": -119.798208,
-    "address": "7000 DANDINI BLVD",
-    "city": "RENO",
+    "address": "7000 Dandini Blvd",
+    "city": "Reno",
     "zip": "89512"
   },
   {
@@ -12316,7 +12316,7 @@
     "lat": 39.651138,
     "lng": -119.882628,
     "address": "5600 Fox Ave",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89506"
   },
   {
@@ -12336,7 +12336,7 @@
     "lat": 39.651138,
     "lng": -119.882628,
     "address": "5600 Fox Ave",
-    "city": "RENO",
+    "city": "Reno",
     "zip": "89506"
   },
   {
@@ -12355,8 +12355,8 @@
     "titleI": false,
     "lat": 39.650052,
     "lng": -119.729515,
-    "address": "1065 EAGLE CANYON DRIVE",
-    "city": "SPARKS",
+    "address": "1065 Eagle Canyon Dr",
+    "city": "Sparks",
     "zip": "89441"
   },
   {
@@ -12375,8 +12375,8 @@
     "titleI": false,
     "lat": 39.60643,
     "lng": -119.823764,
-    "address": "1470 EAST GOLDEN VALLEY ROAD",
-    "city": "RENO",
+    "address": "1470 East Golden Valley Rd",
+    "city": "Reno",
     "zip": "89506"
   },
   {
@@ -12395,8 +12395,8 @@
     "titleI": false,
     "lat": 39.512539,
     "lng": -119.775077,
-    "address": "2800 VASSAR ST",
-    "city": "RENO",
+    "address": "2800 Vassar St",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -12415,8 +12415,8 @@
     "titleI": false,
     "lat": 39.424127,
     "lng": -119.713055,
-    "address": "10500 RIO WRANGLER PKWY",
-    "city": "RENO",
+    "address": "10500 Rio Wrangler Pkwy",
+    "city": "Reno",
     "zip": "89521"
   },
   {
@@ -12435,8 +12435,8 @@
     "titleI": true,
     "lat": 39.51569,
     "lng": -119.833011,
-    "address": "1300 FOSTER DR",
-    "city": "RENO",
+    "address": "1300 Foster Dr",
+    "city": "Reno",
     "zip": "89509"
   },
   {
@@ -12455,8 +12455,8 @@
     "titleI": false,
     "lat": 39.506095,
     "lng": -119.755057,
-    "address": "380 EDISON WAY",
-    "city": "RENO",
+    "address": "380 Edison Way",
+    "city": "Reno",
     "zip": "89502"
   },
   {
@@ -12495,7 +12495,7 @@
     "titleI": false,
     "lat": 39.010467,
     "lng": -114.125305,
-    "address": "120 Main Street",
+    "address": "120 Main St",
     "city": "Baker",
     "zip": "89311"
   },
@@ -12515,7 +12515,7 @@
     "titleI": true,
     "lat": 39.251452,
     "lng": -114.86539,
-    "address": "1001 E 11th ST",
+    "address": "1001 E 11th St",
     "city": "Ely",
     "zip": "89301"
   },
@@ -12535,8 +12535,8 @@
     "titleI": true,
     "lat": 39.397846,
     "lng": -114.780321,
-    "address": "25 Avenue F",
-    "city": "McGill",
+    "address": "25 Ave F",
+    "city": "Mcgill",
     "zip": "89318"
   },
   {
@@ -12555,7 +12555,7 @@
     "titleI": true,
     "lat": 39.248989,
     "lng": -114.889666,
-    "address": "844 Aultman Street",
+    "address": "844 Aultman St",
     "city": "Ely",
     "zip": "89301"
   },
@@ -12575,7 +12575,7 @@
     "titleI": true,
     "lat": 39.239137,
     "lng": -114.874701,
-    "address": "1800 Bobcat Drive",
+    "address": "1800 Bobcat Dr",
     "city": "Ely",
     "zip": "89301"
   },
@@ -12655,7 +12655,7 @@
     "titleI": true,
     "lat": 36.192023,
     "lng": -115.056877,
-    "address": "1780 Betty Lane",
+    "address": "1780 Betty Ln",
     "city": "Las Vegas",
     "zip": "89156"
   },
@@ -12675,7 +12675,7 @@
     "titleI": true,
     "lat": 36.192023,
     "lng": -115.056877,
-    "address": "1780 Betty Lane",
+    "address": "1780 Betty Ln",
     "city": "Las Vegas",
     "zip": "89156"
   },
@@ -12695,7 +12695,7 @@
     "titleI": false,
     "lat": 39.456247,
     "lng": -119.777671,
-    "address": "7530 Longley Lane Suite 103",
+    "address": "7530 Longley Ln Suite 103",
     "city": "Reno",
     "zip": "89511"
   },
@@ -12755,7 +12755,7 @@
     "titleI": false,
     "lat": 39.667693,
     "lng": -119.71411,
-    "address": "1150 Silent Sparrow Drive",
+    "address": "1150 Silent Sparrow Dr",
     "city": "Sparks",
     "zip": "89441"
   },
@@ -12775,7 +12775,7 @@
     "titleI": false,
     "lat": 39.667693,
     "lng": -119.71411,
-    "address": "1150 Silent Sparrow Drive",
+    "address": "1150 Silent Sparrow Dr",
     "city": "Sparks",
     "zip": "89441"
   },
@@ -12835,7 +12835,7 @@
     "titleI": true,
     "lat": 36.202713,
     "lng": -115.123987,
-    "address": "1501 E Carey Ave.",
+    "address": "1501 E Carey Ave",
     "city": "North Las Vegas",
     "zip": "89030"
   },
@@ -12855,7 +12855,7 @@
     "titleI": true,
     "lat": 36.202713,
     "lng": -115.123987,
-    "address": "1501 E Carey Ave.",
+    "address": "1501 E Carey Ave",
     "city": "North Las Vegas",
     "zip": "89030"
   },
@@ -12875,7 +12875,7 @@
     "titleI": true,
     "lat": 36.202713,
     "lng": -115.123987,
-    "address": "1501 E Carey Ave.",
+    "address": "1501 E Carey Ave",
     "city": "North Las Vegas",
     "zip": "89030"
   },
@@ -12895,7 +12895,7 @@
     "titleI": true,
     "lat": 36.159651,
     "lng": -115.196333,
-    "address": "4100 W. Charleston Blvd",
+    "address": "4100 W Charleston Blvd",
     "city": "Las Vegas",
     "zip": "89107"
   },
@@ -12915,7 +12915,7 @@
     "titleI": true,
     "lat": 36.159651,
     "lng": -115.196333,
-    "address": "4100 W. Charleston Blvd",
+    "address": "4100 W Charleston Blvd",
     "city": "Las Vegas",
     "zip": "89107"
   },
@@ -12975,7 +12975,7 @@
     "titleI": true,
     "lat": 36.215955,
     "lng": -115.097562,
-    "address": "3115 Las Vegas Blvd N.",
+    "address": "3115 Las Vegas Blvd N",
     "city": "Las Vegas",
     "zip": "89115"
   },
@@ -13015,7 +13015,7 @@
     "titleI": true,
     "lat": 36.187932,
     "lng": -115.119914,
-    "address": "2101 E. Owens Ave",
+    "address": "2101 E Owens Ave",
     "city": "Las Vegas",
     "zip": "89030"
   },
@@ -13035,7 +13035,7 @@
     "titleI": true,
     "lat": 36.187932,
     "lng": -115.119914,
-    "address": "2101 E. Owens Ave",
+    "address": "2101 E Owens Ave",
     "city": "Las Vegas",
     "zip": "89030"
   },
@@ -13055,7 +13055,7 @@
     "titleI": true,
     "lat": 36.260636,
     "lng": -115.13138,
-    "address": "777 E. Ann Rd",
+    "address": "777 E Ann Rd",
     "city": "North Las Vegas",
     "zip": "89031"
   },
@@ -13075,7 +13075,7 @@
     "titleI": true,
     "lat": 36.260636,
     "lng": -115.13138,
-    "address": "777 E. Ann Rd",
+    "address": "777 E Ann Rd",
     "city": "North Las Vegas",
     "zip": "89031"
   },
@@ -13135,7 +13135,7 @@
     "titleI": true,
     "lat": 36.060772,
     "lng": -114.967017,
-    "address": "325 Inflection Street",
+    "address": "325 Inflection St",
     "city": "Henderson",
     "zip": "89011"
   },
@@ -13155,7 +13155,7 @@
     "titleI": true,
     "lat": 36.060772,
     "lng": -114.967017,
-    "address": "325 Inflection Street",
+    "address": "325 Inflection St",
     "city": "Henderson",
     "zip": "89011"
   },
@@ -13175,7 +13175,7 @@
     "titleI": false,
     "lat": 36.033218,
     "lng": -115.24601,
-    "address": "7077 W. Wigwam Avenue",
+    "address": "7077 W Wigwam Ave",
     "city": "Las Vegas",
     "zip": "89113"
   },
@@ -13195,7 +13195,7 @@
     "titleI": false,
     "lat": 36.033218,
     "lng": -115.24601,
-    "address": "7077 W. Wigwam Avenue",
+    "address": "7077 W Wigwam Ave",
     "city": "Las Vegas",
     "zip": "89113"
   },
@@ -13215,7 +13215,7 @@
     "titleI": true,
     "lat": 36.181172,
     "lng": -115.080786,
-    "address": "920 N. Lamb Blvd",
+    "address": "920 N Lamb Blvd",
     "city": "Las Vegas",
     "zip": "89110"
   },
@@ -13235,7 +13235,7 @@
     "titleI": true,
     "lat": 39.538002,
     "lng": -119.780977,
-    "address": "2680 E. Ninth Street",
+    "address": "2680 E Ninth St",
     "city": "Reno",
     "zip": "89512"
   },
@@ -13255,7 +13255,7 @@
     "titleI": true,
     "lat": 39.538002,
     "lng": -119.780977,
-    "address": "2680 E. Ninth Street",
+    "address": "2680 E Ninth St",
     "city": "Reno",
     "zip": "89512"
   },
@@ -13335,7 +13335,7 @@
     "titleI": true,
     "lat": 36.081743,
     "lng": -115.042105,
-    "address": "1095 Fielders Street",
+    "address": "1095 Fielders St",
     "city": "Henderson",
     "zip": "89011"
   },
@@ -13355,7 +13355,7 @@
     "titleI": true,
     "lat": 36.081743,
     "lng": -115.042105,
-    "address": "1095 Fielders Street",
+    "address": "1095 Fielders St",
     "city": "Henderson",
     "zip": "89011"
   },
@@ -13375,7 +13375,7 @@
     "titleI": true,
     "lat": 36.081743,
     "lng": -115.042105,
-    "address": "1095 Fielders Street",
+    "address": "1095 Fielders St",
     "city": "Henderson",
     "zip": "89011"
   },
@@ -13395,7 +13395,7 @@
     "titleI": true,
     "lat": 36.172896,
     "lng": -115.086731,
-    "address": "4131 E. Bonanza Road",
+    "address": "4131 E Bonanza Rd",
     "city": "Las Vegas",
     "zip": "89110"
   },
@@ -13415,7 +13415,7 @@
     "titleI": true,
     "lat": 36.172896,
     "lng": -115.086731,
-    "address": "4131 E. Bonanza Road",
+    "address": "4131 E Bonanza Rd",
     "city": "Las Vegas",
     "zip": "89110"
   },
@@ -13435,7 +13435,7 @@
     "titleI": true,
     "lat": 36.127177,
     "lng": -115.074673,
-    "address": "3445 Mountain Vista Street",
+    "address": "3445 Mountain Vista St",
     "city": "Las Vegas",
     "zip": "89121"
   },
@@ -13455,7 +13455,7 @@
     "titleI": true,
     "lat": 36.127177,
     "lng": -115.074673,
-    "address": "3445 Mountain Vista Street",
+    "address": "3445 Mountain Vista St",
     "city": "Las Vegas",
     "zip": "89121"
   },
@@ -13475,7 +13475,7 @@
     "titleI": true,
     "lat": 36.174514,
     "lng": -115.07031,
-    "address": "4760 East Bonanza Road",
+    "address": "4760 East Bonanza Rd",
     "city": "Las Vegas",
     "zip": "89110"
   },
@@ -13495,7 +13495,7 @@
     "titleI": true,
     "lat": 36.174514,
     "lng": -115.07031,
-    "address": "4760 East Bonanza Road",
+    "address": "4760 East Bonanza Rd",
     "city": "Las Vegas",
     "zip": "89110"
   },
@@ -13515,7 +13515,7 @@
     "titleI": true,
     "lat": 36.174152,
     "lng": -115.091699,
-    "address": "3900 E. Bonanza Rd.",
+    "address": "3900 E Bonanza Rd",
     "city": "Las Vegas",
     "zip": "89110"
   },
@@ -13535,7 +13535,7 @@
     "titleI": true,
     "lat": 36.174152,
     "lng": -115.091699,
-    "address": "3900 E. Bonanza Rd.",
+    "address": "3900 E Bonanza Rd",
     "city": "Las Vegas",
     "zip": "89110"
   },
@@ -13555,7 +13555,7 @@
     "titleI": true,
     "lat": 36.174152,
     "lng": -115.091699,
-    "address": "3900 E. Bonanza Rd.",
+    "address": "3900 E Bonanza Rd",
     "city": "Las Vegas",
     "zip": "89110"
   },
@@ -13575,7 +13575,7 @@
     "titleI": false,
     "lat": 36.076905,
     "lng": -115.274184,
-    "address": "8377 W Patrick Lane",
+    "address": "8377 W Patrick Ln",
     "city": "Las Vegas",
     "zip": "89113"
   },
@@ -13595,7 +13595,7 @@
     "titleI": false,
     "lat": 36.076905,
     "lng": -115.274184,
-    "address": "8377 W Patrick Lane",
+    "address": "8377 W Patrick Ln",
     "city": "Las Vegas",
     "zip": "89113"
   },
@@ -13615,7 +13615,7 @@
     "titleI": false,
     "lat": 36.076905,
     "lng": -115.274184,
-    "address": "8377 W Patrick Lane",
+    "address": "8377 W Patrick Ln",
     "city": "Las Vegas",
     "zip": "89113"
   },
@@ -13635,7 +13635,7 @@
     "titleI": true,
     "lat": 36.076739,
     "lng": -115.245139,
-    "address": "7077 W Patrick Lane",
+    "address": "7077 W Patrick Ln",
     "city": "Las Vegas",
     "zip": "89118"
   },
@@ -13655,7 +13655,7 @@
     "titleI": false,
     "lat": 36.232595,
     "lng": -115.222292,
-    "address": "5730 W. Alexander Road",
+    "address": "5730 W Alexander Rd",
     "city": "Las Vegas",
     "zip": "89130"
   },
@@ -13675,7 +13675,7 @@
     "titleI": false,
     "lat": 36.232595,
     "lng": -115.222292,
-    "address": "5730 W. Alexander Road",
+    "address": "5730 W Alexander Rd",
     "city": "Las Vegas",
     "zip": "89130"
   },
@@ -13695,7 +13695,7 @@
     "titleI": false,
     "lat": 36.232595,
     "lng": -115.222292,
-    "address": "5730 W. Alexander Road",
+    "address": "5730 W Alexander Rd",
     "city": "Las Vegas",
     "zip": "89130"
   },
@@ -13715,7 +13715,7 @@
     "titleI": false,
     "lat": 36.274513,
     "lng": -115.259471,
-    "address": "7495 West Azure Drive Suite #120",
+    "address": "7495 West Azure Dr Suite #120",
     "city": "Las Vegas",
     "zip": "89130"
   },
@@ -13735,7 +13735,7 @@
     "titleI": false,
     "lat": 36.274513,
     "lng": -115.259471,
-    "address": "7495 West Azure Drive Suite #120",
+    "address": "7495 West Azure Dr Suite #120",
     "city": "Las Vegas",
     "zip": "89130"
   },
@@ -13755,7 +13755,7 @@
     "titleI": false,
     "lat": 39.250503,
     "lng": -114.85855,
-    "address": "1400 E 13th Street",
+    "address": "1400 E 13th St",
     "city": "Ely",
     "zip": "89301"
   },
@@ -13775,7 +13775,7 @@
     "titleI": false,
     "lat": 39.250503,
     "lng": -114.85855,
-    "address": "1400 E 13th Street",
+    "address": "1400 E 13th St",
     "city": "Ely",
     "zip": "89301"
   },
@@ -13795,7 +13795,7 @@
     "titleI": false,
     "lat": 35.99719,
     "lng": -115.289767,
-    "address": "9025 West Cactus Avenue",
+    "address": "9025 West Cactus Ave",
     "city": "Las Vegas",
     "zip": "89178"
   },
@@ -13815,7 +13815,7 @@
     "titleI": false,
     "lat": 35.99719,
     "lng": -115.289767,
-    "address": "9025 West Cactus Avenue",
+    "address": "9025 West Cactus Ave",
     "city": "Las Vegas",
     "zip": "89178"
   },
@@ -13835,7 +13835,7 @@
     "titleI": true,
     "lat": 36.207017,
     "lng": -115.257083,
-    "address": "2568 Fire Mesa Street",
+    "address": "2568 Fire Mesa St",
     "city": "Las Vegas",
     "zip": "89128"
   },
@@ -13855,7 +13855,7 @@
     "titleI": true,
     "lat": 36.207017,
     "lng": -115.257083,
-    "address": "2568 Fire Mesa Street",
+    "address": "2568 Fire Mesa St",
     "city": "Las Vegas",
     "zip": "89128"
   },
@@ -13875,7 +13875,7 @@
     "titleI": false,
     "lat": 36.168151,
     "lng": -115.369979,
-    "address": "610 Crossbridge Dr.",
+    "address": "610 Crossbridge Dr",
     "city": "Las Vegas",
     "zip": "89138"
   },
@@ -13895,7 +13895,7 @@
     "titleI": false,
     "lat": 36.168151,
     "lng": -115.369979,
-    "address": "610 Crossbridge Dr.",
+    "address": "610 Crossbridge Dr",
     "city": "Las Vegas",
     "zip": "89138"
   },
@@ -13915,7 +13915,7 @@
     "titleI": false,
     "lat": 36.168151,
     "lng": -115.369979,
-    "address": "610 Crossbridge Dr.",
+    "address": "610 Crossbridge Dr",
     "city": "Las Vegas",
     "zip": "89138"
   },
@@ -13975,7 +13975,7 @@
     "titleI": false,
     "lat": 36.026231,
     "lng": -115.232692,
-    "address": "6435 W. Pebble",
+    "address": "6435 W Pebble",
     "city": "Las Vegas",
     "zip": "89139"
   },
@@ -13995,7 +13995,7 @@
     "titleI": false,
     "lat": 36.026231,
     "lng": -115.232692,
-    "address": "6435 W. Pebble",
+    "address": "6435 W Pebble",
     "city": "Las Vegas",
     "zip": "89139"
   },
@@ -14015,7 +14015,7 @@
     "titleI": true,
     "lat": 39.52547,
     "lng": -119.817361,
-    "address": "195 N. Arlington Avenue",
+    "address": "195 N Arlington Ave",
     "city": "Reno",
     "zip": "89501"
   },
@@ -14035,7 +14035,7 @@
     "titleI": true,
     "lat": 39.52547,
     "lng": -119.817361,
-    "address": "195 N. Arlington Avenue",
+    "address": "195 N Arlington Ave",
     "city": "Reno",
     "zip": "89501"
   },
@@ -14075,7 +14075,7 @@
     "titleI": false,
     "lat": 36.045494,
     "lng": -114.980201,
-    "address": "225 Grand Cadence Dr.",
+    "address": "225 Grand Cadence Dr",
     "city": "Henderson",
     "zip": "89015"
   },
@@ -14095,7 +14095,7 @@
     "titleI": false,
     "lat": 36.045494,
     "lng": -114.980201,
-    "address": "225 Grand Cadence Dr.",
+    "address": "225 Grand Cadence Dr",
     "city": "Henderson",
     "zip": "89015"
   },
@@ -14115,7 +14115,7 @@
     "titleI": false,
     "lat": 36.045494,
     "lng": -114.980201,
-    "address": "225 Grand Cadence Dr.",
+    "address": "225 Grand Cadence Dr",
     "city": "Henderson",
     "zip": "89015"
   },
@@ -14175,7 +14175,7 @@
     "titleI": false,
     "lat": 35.998693,
     "lng": -115.133708,
-    "address": "1385 E. Cactus Ave.",
+    "address": "1385 E Cactus Ave",
     "city": "Las Vegas",
     "zip": "89183"
   },
@@ -14195,7 +14195,7 @@
     "titleI": false,
     "lat": 35.998693,
     "lng": -115.133708,
-    "address": "1385 E. Cactus Ave.",
+    "address": "1385 E Cactus Ave",
     "city": "Las Vegas",
     "zip": "89183"
   },
@@ -14215,7 +14215,7 @@
     "titleI": false,
     "lat": 35.961323,
     "lng": -115.148468,
-    "address": "675 E. Dale Ave.",
+    "address": "675 E Dale Ave",
     "city": "Henderson",
     "zip": "89044"
   },
@@ -14235,7 +14235,7 @@
     "titleI": false,
     "lat": 35.961323,
     "lng": -115.148468,
-    "address": "675 E. Dale Ave.",
+    "address": "675 E Dale Ave",
     "city": "Henderson",
     "zip": "89044"
   },
@@ -14255,7 +14255,7 @@
     "titleI": false,
     "lat": 35.961323,
     "lng": -115.148468,
-    "address": "675 E. Dale Ave.",
+    "address": "675 E Dale Ave",
     "city": "Henderson",
     "zip": "89044"
   },
@@ -14275,7 +14275,7 @@
     "titleI": true,
     "lat": 36.045494,
     "lng": -114.980201,
-    "address": "225 Grand Cadence Dr.",
+    "address": "225 Grand Cadence Dr",
     "city": "Henderson",
     "zip": "89015"
   },
@@ -14295,7 +14295,7 @@
     "titleI": true,
     "lat": 36.045494,
     "lng": -114.980201,
-    "address": "225 Grand Cadence Dr.",
+    "address": "225 Grand Cadence Dr",
     "city": "Henderson",
     "zip": "89015"
   },
@@ -14315,7 +14315,7 @@
     "titleI": true,
     "lat": 36.158116,
     "lng": -115.225279,
-    "address": "6151 W. Charleston Blvd",
+    "address": "6151 W Charleston Blvd",
     "city": "Las Vegas",
     "zip": "89146"
   },
@@ -14335,7 +14335,7 @@
     "titleI": true,
     "lat": 36.275172,
     "lng": -115.146038,
-    "address": "385 W. Centennial Parkway",
+    "address": "385 W Centennial Pkwy",
     "city": "North Las Vegas",
     "zip": "89084"
   },
@@ -14355,7 +14355,7 @@
     "titleI": true,
     "lat": 36.24428,
     "lng": -115.115011,
-    "address": "4650 Losee Road",
+    "address": "4650 Losee Rd",
     "city": "North Las Vegas",
     "zip": "89081"
   },
@@ -14375,7 +14375,7 @@
     "titleI": true,
     "lat": 36.24428,
     "lng": -115.115011,
-    "address": "4650 Losee Road",
+    "address": "4650 Losee Rd",
     "city": "North Las Vegas",
     "zip": "89081"
   },
@@ -14395,7 +14395,7 @@
     "titleI": true,
     "lat": 36.24428,
     "lng": -115.115011,
-    "address": "4650 Losee Road",
+    "address": "4650 Losee Rd",
     "city": "North Las Vegas",
     "zip": "89081"
   },
@@ -14415,7 +14415,7 @@
     "titleI": false,
     "lat": 36.242974,
     "lng": -115.243418,
-    "address": "4491 N. Rainbow Blvd.",
+    "address": "4491 N Rainbow Blvd",
     "city": "Las Vegas",
     "zip": "89108"
   },
@@ -14435,7 +14435,7 @@
     "titleI": false,
     "lat": 36.242974,
     "lng": -115.243418,
-    "address": "4491 N. Rainbow Blvd.",
+    "address": "4491 N Rainbow Blvd",
     "city": "Las Vegas",
     "zip": "89108"
   },
@@ -14455,7 +14455,7 @@
     "titleI": false,
     "lat": 36.288539,
     "lng": -115.275203,
-    "address": "7058 Sky Pointe Drive",
+    "address": "7058 Sky Pointe Dr",
     "city": "Las Vegas",
     "zip": "89131"
   },
@@ -14475,7 +14475,7 @@
     "titleI": false,
     "lat": 36.288539,
     "lng": -115.275203,
-    "address": "7058 Sky Pointe Drive",
+    "address": "7058 Sky Pointe Dr",
     "city": "Las Vegas",
     "zip": "89131"
   },
@@ -14495,7 +14495,7 @@
     "titleI": false,
     "lat": 36.288539,
     "lng": -115.275203,
-    "address": "7058 Sky Pointe Drive",
+    "address": "7058 Sky Pointe Dr",
     "city": "Las Vegas",
     "zip": "89131"
   },
@@ -14515,7 +14515,7 @@
     "titleI": true,
     "lat": 36.032438,
     "lng": -115.0442,
-    "address": "50 N Stephanie Street",
+    "address": "50 N Stephanie St",
     "city": "Henderson",
     "zip": "89074"
   },
@@ -14535,7 +14535,7 @@
     "titleI": true,
     "lat": 36.032438,
     "lng": -115.0442,
-    "address": "50 N Stephanie Street",
+    "address": "50 N Stephanie St",
     "city": "Henderson",
     "zip": "89074"
   },
@@ -14555,7 +14555,7 @@
     "titleI": false,
     "lat": 36.277697,
     "lng": -115.198617,
-    "address": "6475 Valley Drive",
+    "address": "6475 Valley Dr",
     "city": "North Las Vegas",
     "zip": "89084"
   },
@@ -14575,7 +14575,7 @@
     "titleI": false,
     "lat": 36.277697,
     "lng": -115.198617,
-    "address": "6475 Valley Drive",
+    "address": "6475 Valley Dr",
     "city": "North Las Vegas",
     "zip": "89084"
   },
@@ -14595,7 +14595,7 @@
     "titleI": false,
     "lat": 36.308205,
     "lng": -115.329929,
-    "address": "8151 N. Shaumber Road",
+    "address": "8151 N Shaumber Rd",
     "city": "Las Vegas",
     "zip": "89166"
   },
@@ -14615,7 +14615,7 @@
     "titleI": false,
     "lat": 36.308205,
     "lng": -115.329929,
-    "address": "8151 N. Shaumber Road",
+    "address": "8151 N Shaumber Rd",
     "city": "Las Vegas",
     "zip": "89166"
   },
@@ -14655,7 +14655,7 @@
     "titleI": true,
     "lat": 36.198028,
     "lng": -115.2905,
-    "address": "8941 Hillpointe Road",
+    "address": "8941 Hillpointe Rd",
     "city": "Las Vegas",
     "zip": "89134"
   },
@@ -14675,7 +14675,7 @@
     "titleI": true,
     "lat": 36.198028,
     "lng": -115.2905,
-    "address": "8941 Hillpointe Road",
+    "address": "8941 Hillpointe Rd",
     "city": "Las Vegas",
     "zip": "89134"
   },
@@ -14695,7 +14695,7 @@
     "titleI": false,
     "lat": 39.477236,
     "lng": -118.788766,
-    "address": "920 West Williams Avenue Ste 100",
+    "address": "920 West Williams Ave Ste 100",
     "city": "Fallon",
     "zip": "89406"
   },
@@ -14715,7 +14715,7 @@
     "titleI": false,
     "lat": 39.477236,
     "lng": -118.788766,
-    "address": "920 West Williams Avenue Ste 100",
+    "address": "920 West Williams Ave Ste 100",
     "city": "Fallon",
     "zip": "89406"
   },
@@ -14735,7 +14735,7 @@
     "titleI": false,
     "lat": 39.477236,
     "lng": -118.788766,
-    "address": "920 West Williams Avenue Ste 100",
+    "address": "920 West Williams Ave Ste 100",
     "city": "Fallon",
     "zip": "89406"
   },
@@ -14755,7 +14755,7 @@
     "titleI": false,
     "lat": 39.390735,
     "lng": -119.779402,
-    "address": "3725 Butch Cassidy Dr.",
+    "address": "3725 Butch Cassidy Dr",
     "city": "Reno",
     "zip": "89511"
   },
@@ -14775,7 +14775,7 @@
     "titleI": false,
     "lat": 39.390735,
     "lng": -119.779402,
-    "address": "3725 Butch Cassidy Dr.",
+    "address": "3725 Butch Cassidy Dr",
     "city": "Reno",
     "zip": "89511"
   },
@@ -14795,7 +14795,7 @@
     "titleI": false,
     "lat": 40.82521,
     "lng": -115.774354,
-    "address": "905 W Main Street",
+    "address": "905 W Main St",
     "city": "Elko",
     "zip": "89801"
   },
@@ -14815,7 +14815,7 @@
     "titleI": false,
     "lat": 40.82521,
     "lng": -115.774354,
-    "address": "905 W Main Street",
+    "address": "905 W Main St",
     "city": "Elko",
     "zip": "89801"
   },
@@ -14835,7 +14835,7 @@
     "titleI": true,
     "lat": 36.233164,
     "lng": -115.228562,
-    "address": "4025 N. Rancho Dr.",
+    "address": "4025 N Rancho Dr",
     "city": "Las Vegas",
     "zip": "89130"
   },
@@ -14855,7 +14855,7 @@
     "titleI": true,
     "lat": 36.233164,
     "lng": -115.228562,
-    "address": "4025 N. Rancho Dr.",
+    "address": "4025 N Rancho Dr",
     "city": "Las Vegas",
     "zip": "89130"
   },
@@ -14935,7 +14935,7 @@
     "titleI": true,
     "lat": 36.077061,
     "lng": -115.066379,
-    "address": "1841 Whitney Mesa Drive",
+    "address": "1841 Whitney Mesa Dr",
     "city": "Henderson",
     "zip": "89014"
   },
@@ -14955,7 +14955,7 @@
     "titleI": true,
     "lat": 36.077061,
     "lng": -115.066379,
-    "address": "1841 Whitney Mesa Drive",
+    "address": "1841 Whitney Mesa Dr",
     "city": "Henderson",
     "zip": "89014"
   },
@@ -15015,7 +15015,7 @@
     "titleI": false,
     "lat": 36.0439,
     "lng": -115.047161,
-    "address": "233 N. Stephanie St.",
+    "address": "233 N Stephanie St",
     "city": "Henderson",
     "zip": "89074"
   },
@@ -15035,7 +15035,7 @@
     "titleI": true,
     "lat": 36.203492,
     "lng": -115.080574,
-    "address": "2425 North Lamb Boulevard Suite 130",
+    "address": "2425 North Lamb Blvd Suite 130",
     "city": "Las Vegas",
     "zip": "89115"
   },
@@ -15055,7 +15055,7 @@
     "titleI": false,
     "lat": 36.069612,
     "lng": -115.262541,
-    "address": "7885 West Sunset Road Suite 170",
+    "address": "7885 West Sunset Rd Suite 170",
     "city": "Las Vegas",
     "zip": "89113"
   },
@@ -15075,7 +15075,7 @@
     "titleI": false,
     "lat": 36.029618,
     "lng": -114.979474,
-    "address": "303 S. Water St. Ste 120",
+    "address": "303 S Water St Ste 120",
     "city": "Henderson",
     "zip": "89015"
   },
@@ -15115,7 +15115,7 @@
     "titleI": false,
     "lat": 36.239642,
     "lng": -115.197836,
-    "address": "4280 West Craig Road Ste. 102/103",
+    "address": "4280 West Craig Rd Ste 102/103",
     "city": "North Las Vegas",
     "zip": "89031"
   },
@@ -15135,7 +15135,7 @@
     "titleI": true,
     "lat": 39.442153,
     "lng": -119.764137,
-    "address": "555 Double Eagle Court Suite 1000",
+    "address": "555 Double Eagle Ct Suite 1000",
     "city": "Reno",
     "zip": "89521"
   },
@@ -15155,7 +15155,7 @@
     "titleI": true,
     "lat": 36.032685,
     "lng": -115.120183,
-    "address": "8645 S. Eastern Ave. Suite 100",
+    "address": "8645 S Eastern Ave Suite 100",
     "city": "Las Vegas",
     "zip": "89123"
   },
@@ -15175,7 +15175,7 @@
     "titleI": true,
     "lat": 36.032685,
     "lng": -115.120183,
-    "address": "8645 S. Eastern Ave. Suite 100",
+    "address": "8645 S Eastern Ave Suite 100",
     "city": "Las Vegas",
     "zip": "89123"
   },
@@ -15455,7 +15455,7 @@
     "titleI": true,
     "lat": 36.11554,
     "lng": -115.252321,
-    "address": "7360 W. Flamingo Road",
+    "address": "7360 W Flamingo Rd",
     "city": "Las Vegas",
     "zip": "89147"
   },
@@ -15475,7 +15475,7 @@
     "titleI": true,
     "lat": 36.187811,
     "lng": -115.054531,
-    "address": "1580 Bledsoe Lane",
+    "address": "1580 Bledsoe Ln",
     "city": "Las Vegas",
     "zip": "89110"
   },
@@ -15518,45 +15518,5 @@
     "address": "5355 Madre Mesa Dr",
     "city": "Las Vegas",
     "zip": "89108"
-  },
-  {
-    "id": "84406.2",
-    "name": "Davidson Acad MS",
-    "type": "Regular",
-    "level": "Middle",
-    "county": "Washoe",
-    "starRating": 5,
-    "indexScore": 84.4,
-    "elaProficiency": null,
-    "mathProficiency": null,
-    "scienceProficiency": null,
-    "elaGrowth": null,
-    "mathGrowth": null,
-    "titleI": false,
-    "lat": 39.538754,
-    "lng": -119.816216,
-    "address": "1164 N. Virginia St. Jot Travis Building 048",
-    "city": "Reno",
-    "zip": "89503"
-  },
-  {
-    "id": "84406.3",
-    "name": "Davidson Acad HS",
-    "type": "Regular",
-    "level": "High",
-    "county": "Washoe",
-    "starRating": 5,
-    "indexScore": 98.8,
-    "elaProficiency": null,
-    "mathProficiency": null,
-    "scienceProficiency": null,
-    "elaGrowth": null,
-    "mathGrowth": null,
-    "titleI": false,
-    "lat": 39.538754,
-    "lng": -119.816216,
-    "address": "1164 N. Virginia St. Jot Travis Building 048",
-    "city": "Reno",
-    "zip": "89503"
   }
 ]
