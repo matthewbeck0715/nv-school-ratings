@@ -1,22 +1,32 @@
 'use client'
 
+import { useEffect, useRef } from 'react'
 import { Marker, Popup } from 'react-leaflet'
+import type L from 'leaflet'
 import { createMarkerIcon } from '@/utils/markerColors'
 import type { SchoolWithDistance } from '@/types/school'
 
 interface SchoolMarkerProps {
   school: SchoolWithDistance
+  isSelected?: boolean
 }
 
-export default function SchoolMarker({ school }: SchoolMarkerProps) {
+export default function SchoolMarker({ school, isSelected }: SchoolMarkerProps) {
   const icon = createMarkerIcon(school.starRating)
+  const markerRef = useRef<L.Marker>(null)
+
+  useEffect(() => {
+    if (isSelected && markerRef.current) {
+      markerRef.current.openPopup()
+    }
+  }, [isSelected])
 
   if (school.lat === null || school.lng === null) return null
 
   return (
-    <Marker position={[school.lat, school.lng]} icon={icon}>
+    <Marker ref={markerRef} position={[school.lat, school.lng]} icon={icon}>
       <Popup>
-        <div className="min-w-[180px]">
+        <div className="min-w-[220px]">
           <div className="flex items-baseline justify-between gap-2">
             <p className="font-semibold text-sm">{school.name}</p>
             {school.distanceMiles != null && (

@@ -5,11 +5,13 @@ import { MapContainer, TileLayer, Marker, Circle, useMap } from 'react-leaflet'
 import { useEffect } from 'react'
 import { useSchools } from '@/hooks/useSchools'
 import { createUserLocationIcon } from '@/utils/markerColors'
-import type { FilterState } from '@/types/school'
+import type { FilterState, School } from '@/types/school'
 import SchoolMarker from './SchoolMarker'
 
 interface MapInnerProps {
   filters: FilterState
+  selectedSchool?: School | null
+  isVisible?: boolean
 }
 
 const NEVADA_CENTER: [number, number] = [38.8, -116.8]
@@ -44,6 +46,26 @@ function RecenterMap({ lat, lng }: { lat: number; lng: number }) {
   return null
 }
 
+function FlyToSchool({ school }: { school: School }) {
+  const map = useMap()
+  useEffect(() => {
+    if (school.lat && school.lng) {
+      map.flyTo([school.lat, school.lng], 14)
+    }
+  }, [school, map])
+  return null
+}
+
+function InvalidateOnShow({ isVisible }: { isVisible: boolean }) {
+  const map = useMap()
+  useEffect(() => {
+    if (isVisible) {
+      requestAnimationFrame(() => map.invalidateSize())
+    }
+  }, [isVisible, map])
+  return null
+}
+
 function CountyFocus({ county }: { county: string | null }) {
   const map = useMap()
   useEffect(() => {
@@ -57,7 +79,7 @@ function CountyFocus({ county }: { county: string | null }) {
   return null
 }
 
-export default function MapInner({ filters }: MapInnerProps) {
+export default function MapInner({ filters, selectedSchool, isVisible }: MapInnerProps) {
   const { schools, loading, error } = useSchools(filters)
   const proximity = filters.proximity
 
@@ -88,6 +110,8 @@ export default function MapInner({ filters }: MapInnerProps) {
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       />
+      <InvalidateOnShow isVisible={isVisible ?? true} />
+      {selectedSchool && <FlyToSchool school={selectedSchool} />}
       {!proximity && <CountyFocus county={filters.county} />}
       {proximity && (
         <>
@@ -109,7 +133,7 @@ export default function MapInner({ filters }: MapInnerProps) {
         </>
       )}
       {schools.map((school) => (
-        <SchoolMarker key={school.id} school={school} />
+        <SchoolMarker key={school.id} school={school} isSelected={selectedSchool?.id === school.id} />
       ))}
     </MapContainer>
   )
