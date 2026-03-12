@@ -1,4 +1,4 @@
-export type SchoolType = 'Regular' | 'Charter'
+export type SchoolType = 'District' | 'Charter'
 export type SchoolLevel = 'Elementary' | 'Middle' | 'High'
 export type StarRating = 1 | 2 | 3 | 4 | 5
 

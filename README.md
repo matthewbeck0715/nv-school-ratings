@@ -8,7 +8,7 @@ A mobile-friendly data visualization tool for Nevada public school performance d
 
 - **Map view** — color-coded markers (red → green) by star rating; click a marker to see a school popup with address, scores, and a Google Maps link
 - **Table view** — sortable, paginated list of all 776 rated schools; click a school name to fly to it on the map
-- **Filters** — search by name, proximity search by address, county dropdown, school level (Elementary / Middle / High), school type (Regular / Charter), and star rating (1–5 or Not Rated)
+- **Filters** — search by name, proximity search by address, county dropdown, school level (Elementary / Middle / High), school type (District / Charter), and star rating (1–5 or Not Rated)
 - **Star rating colors** — NR gray, 1★ red, 2★ orange, 3★ yellow, 4★ light green, 5★ green
 
 ## Data
