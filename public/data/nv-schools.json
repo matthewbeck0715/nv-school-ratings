@@ -2,7 +2,7 @@
   {
     "id": "01205.1",
     "name": "Best ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Churchill",
     "starRating": null,
@@ -22,7 +22,7 @@
   {
     "id": "01206.1",
     "name": "Lahontan ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Churchill",
     "starRating": null,
@@ -42,7 +42,7 @@
   {
     "id": "01207.1",
     "name": "Numa ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Churchill",
     "starRating": 2,
@@ -62,7 +62,7 @@
   {
     "id": "01301.2",
     "name": "Churchill MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Churchill",
     "starRating": 1,
@@ -82,7 +82,7 @@
   {
     "id": "01401.3",
     "name": "Churchill HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Churchill",
     "starRating": 3,
@@ -102,7 +102,7 @@
   {
     "id": "02060.1",
     "name": "Thompson T ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -122,7 +122,7 @@
   {
     "id": "02061.1",
     "name": "Abston ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -142,7 +142,7 @@
   {
     "id": "02062.1",
     "name": "Jenkins ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -162,7 +162,7 @@
   {
     "id": "02064.1",
     "name": "Ellis ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -182,7 +182,7 @@
   {
     "id": "02065.1",
     "name": "Ortwein ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -202,7 +202,7 @@
   {
     "id": "02066.1",
     "name": "Barber ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -222,7 +222,7 @@
   {
     "id": "02067.1",
     "name": "Divich ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -242,7 +242,7 @@
   {
     "id": "02068.1",
     "name": "Jones Blackhurst ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -262,7 +262,7 @@
   {
     "id": "02069.1",
     "name": "Vassiliadis ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -282,7 +282,7 @@
   {
     "id": "02070.1",
     "name": "Berkley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -302,7 +302,7 @@
   {
     "id": "02071.1",
     "name": "Stevens ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -322,7 +322,7 @@
   {
     "id": "02072.1",
     "name": "Mathis ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -342,7 +342,7 @@
   {
     "id": "02073.1",
     "name": "Heard ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -362,7 +362,7 @@
   {
     "id": "02074.1",
     "name": "Snyder D ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -382,7 +382,7 @@
   {
     "id": "02075.1",
     "name": "NWCTA ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": null,
@@ -402,7 +402,7 @@
   {
     "id": "02076.1",
     "name": "Duncan ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -422,7 +422,7 @@
   {
     "id": "02077.1",
     "name": "Wallin ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -442,7 +442,7 @@
   {
     "id": "02078.1",
     "name": "Stuckey ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -462,7 +462,7 @@
   {
     "id": "02079.1",
     "name": "Keller  ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -482,7 +482,7 @@
   {
     "id": "02080.1",
     "name": "Fine  ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -502,7 +502,7 @@
   {
     "id": "02081.1",
     "name": "Bozarth ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -522,7 +522,7 @@
   {
     "id": "02082.1",
     "name": "Triggs ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -542,7 +542,7 @@
   {
     "id": "02083.1",
     "name": "ORoarke ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -562,7 +562,7 @@
   {
     "id": "02084.1",
     "name": "Reedom ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -582,7 +582,7 @@
   {
     "id": "02085.1",
     "name": "Diaz ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -602,7 +602,7 @@
   {
     "id": "02086.1",
     "name": "Scott ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -642,7 +642,7 @@
   {
     "id": "02089.1",
     "name": "West Prep ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -662,7 +662,7 @@
   {
     "id": "02090.1",
     "name": "Smalley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -682,7 +682,7 @@
   {
     "id": "02091.1",
     "name": "Perkins C ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -742,7 +742,7 @@
   {
     "id": "02094.1",
     "name": "Dickens ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -762,7 +762,7 @@
   {
     "id": "02095.1",
     "name": "Bailey ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -782,7 +782,7 @@
   {
     "id": "02096.1",
     "name": "Roundy ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -802,7 +802,7 @@
   {
     "id": "02097.1",
     "name": "Forbuss ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -822,7 +822,7 @@
   {
     "id": "02098.1",
     "name": "Steele ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -842,7 +842,7 @@
   {
     "id": "02099.1",
     "name": "Schorr ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -862,7 +862,7 @@
   {
     "id": "02100.1",
     "name": "Ward Kitty ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -882,7 +882,7 @@
   {
     "id": "02101.1",
     "name": "Blue Diamond ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -902,7 +902,7 @@
   {
     "id": "02102.1",
     "name": "Goodsprings ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": null,
@@ -922,7 +922,7 @@
   {
     "id": "02104.1",
     "name": "Reid ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": null,
@@ -942,7 +942,7 @@
   {
     "id": "02105.1",
     "name": "King Martin ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -962,7 +962,7 @@
   {
     "id": "02106.1",
     "name": "Deskin ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -982,7 +982,7 @@
   {
     "id": "02107.1",
     "name": "Kim ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -1002,7 +1002,7 @@
   {
     "id": "02108.1",
     "name": "Beatty J ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1022,7 +1022,7 @@
   {
     "id": "02109.1",
     "name": "Christensen ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1042,7 +1042,7 @@
   {
     "id": "02110.1",
     "name": "Parson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -1062,7 +1062,7 @@
   {
     "id": "02111.1",
     "name": "Dooley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -1082,7 +1082,7 @@
   {
     "id": "02112.1",
     "name": "Mendoza ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1102,7 +1102,7 @@
   {
     "id": "02113.1",
     "name": "McMillan ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1122,7 +1122,7 @@
   {
     "id": "02114.1",
     "name": "Perkins U ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -1142,7 +1142,7 @@
   {
     "id": "02115.1",
     "name": "Lynch ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -1162,7 +1162,7 @@
   {
     "id": "02116.1",
     "name": "Woolley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1182,7 +1182,7 @@
   {
     "id": "02117.1",
     "name": "Lunt  ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -1202,7 +1202,7 @@
   {
     "id": "02118.1",
     "name": "Eisenberg ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -1222,7 +1222,7 @@
   {
     "id": "02119.1",
     "name": "Fong ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1242,7 +1242,7 @@
   {
     "id": "02120.1",
     "name": "Gibson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -1262,7 +1262,7 @@
   {
     "id": "02121.1",
     "name": "Wynn ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -1282,7 +1282,7 @@
   {
     "id": "02122.1",
     "name": "Hill ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -1302,7 +1302,7 @@
   {
     "id": "02123.1",
     "name": "Jacobson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1322,7 +1322,7 @@
   {
     "id": "02124.1",
     "name": "Derfelt ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1342,7 +1342,7 @@
   {
     "id": "02125.1",
     "name": "Cunningham ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1362,7 +1362,7 @@
   {
     "id": "02126.1",
     "name": "Cox D ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -1382,7 +1382,7 @@
   {
     "id": "02127.1",
     "name": "Treem ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -1402,7 +1402,7 @@
   {
     "id": "02128.1",
     "name": "Rundle ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -1422,7 +1422,7 @@
   {
     "id": "02129.1",
     "name": "Herr ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1442,7 +1442,7 @@
   {
     "id": "02130.1",
     "name": "Dailey ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1462,7 +1462,7 @@
   {
     "id": "02131.1",
     "name": "Adams ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -1482,7 +1482,7 @@
   {
     "id": "02132.1",
     "name": "May ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -1502,7 +1502,7 @@
   {
     "id": "02133.1",
     "name": "Kahre ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1522,7 +1522,7 @@
   {
     "id": "02134.1",
     "name": "Katz ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -1542,7 +1542,7 @@
   {
     "id": "02135.1",
     "name": "Jydstrup ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -1562,7 +1562,7 @@
   {
     "id": "02136.1",
     "name": "King Martha ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -1582,7 +1582,7 @@
   {
     "id": "02137.1",
     "name": "Bartlett ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -1602,7 +1602,7 @@
   {
     "id": "02138.1",
     "name": "Bendorf ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1622,7 +1622,7 @@
   {
     "id": "02139.1",
     "name": "Thorpe ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1642,7 +1642,7 @@
   {
     "id": "02140.1",
     "name": "Antonello ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -1662,7 +1662,7 @@
   {
     "id": "02141.1",
     "name": "Lummis ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -1682,7 +1682,7 @@
   {
     "id": "02142.1",
     "name": "Wiener ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1702,7 +1702,7 @@
   {
     "id": "02143.1",
     "name": "Fitzgerald ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1722,7 +1722,7 @@
   {
     "id": "02144.1",
     "name": "Lowman ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -1742,7 +1742,7 @@
   {
     "id": "02145.1",
     "name": "Piggott ACAD ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -1762,7 +1762,7 @@
   {
     "id": "02146.1",
     "name": "Newton ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -1782,7 +1782,7 @@
   {
     "id": "02147.1",
     "name": "Bruner ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -1802,7 +1802,7 @@
   {
     "id": "02148.1",
     "name": "Bryan Richard ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -1822,7 +1822,7 @@
   {
     "id": "02149.1",
     "name": "Wilhelm ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1842,7 +1842,7 @@
   {
     "id": "02150.1",
     "name": "Roberts ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -1862,7 +1862,7 @@
   {
     "id": "02151.1",
     "name": "Allen ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -1882,7 +1882,7 @@
   {
     "id": "02152.1",
     "name": "Wolfe ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -1902,7 +1902,7 @@
   {
     "id": "02153.1",
     "name": "Goldfarb ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -1922,7 +1922,7 @@
   {
     "id": "02154.1",
     "name": "Vanderburg ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -1942,7 +1942,7 @@
   {
     "id": "02155.1",
     "name": "Cambeiro ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -1962,7 +1962,7 @@
   {
     "id": "02156.1",
     "name": "Bryan Roger ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -1982,7 +1982,7 @@
   {
     "id": "02157.1",
     "name": "Bonner ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -2002,7 +2002,7 @@
   {
     "id": "02158.1",
     "name": "Cartwright ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2022,7 +2022,7 @@
   {
     "id": "02159.1",
     "name": "Bowler Joseph ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2042,7 +2042,7 @@
   {
     "id": "02160.1",
     "name": "Rhodes ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2062,7 +2062,7 @@
   {
     "id": "02161.1",
     "name": "Guy ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2082,7 +2082,7 @@
   {
     "id": "02162.1",
     "name": "Morrow ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -2102,7 +2102,7 @@
   {
     "id": "02163.1",
     "name": "Bunker ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -2122,7 +2122,7 @@
   {
     "id": "02164.1",
     "name": "Elizondo ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -2142,7 +2142,7 @@
   {
     "id": "02165.1",
     "name": "Cortez ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2162,7 +2162,7 @@
   {
     "id": "02166.1",
     "name": "Lamping ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -2182,7 +2182,7 @@
   {
     "id": "02167.1",
     "name": "Garehime ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2202,7 +2202,7 @@
   {
     "id": "02168.1",
     "name": "Hayes ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -2222,7 +2222,7 @@
   {
     "id": "02169.1",
     "name": "Kesterson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2242,7 +2242,7 @@
   {
     "id": "02170.1",
     "name": "Neal ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2262,7 +2262,7 @@
   {
     "id": "02171.1",
     "name": "Carl ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2282,7 +2282,7 @@
   {
     "id": "02172.1",
     "name": "Darnell ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -2302,7 +2302,7 @@
   {
     "id": "02173.1",
     "name": "Heckethorn ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2322,7 +2322,7 @@
   {
     "id": "02174.1",
     "name": "Rogers ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -2342,7 +2342,7 @@
   {
     "id": "02175.1",
     "name": "Snyder W ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2362,7 +2362,7 @@
   {
     "id": "02176.1",
     "name": "Twitchell ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -2382,7 +2382,7 @@
   {
     "id": "02177.1",
     "name": "Watson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2402,7 +2402,7 @@
   {
     "id": "02178.1",
     "name": "Alamo ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2422,7 +2422,7 @@
   {
     "id": "02179.1",
     "name": "Brookman ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2442,7 +2442,7 @@
   {
     "id": "02180.1",
     "name": "Cozine ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2462,7 +2462,7 @@
   {
     "id": "02181.1",
     "name": "Gehring ACAD ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -2482,7 +2482,7 @@
   {
     "id": "02182.1",
     "name": "Iverson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2502,7 +2502,7 @@
   {
     "id": "02183.1",
     "name": "Walker ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2522,7 +2522,7 @@
   {
     "id": "02184.1",
     "name": "Conners ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2542,7 +2542,7 @@
   {
     "id": "02185.1",
     "name": "Givens ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -2562,7 +2562,7 @@
   {
     "id": "02186.1",
     "name": "Goolsby ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -2582,7 +2582,7 @@
   {
     "id": "02187.1",
     "name": "Hummel ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2602,7 +2602,7 @@
   {
     "id": "02188.1",
     "name": "Scherkenbach ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -2622,7 +2622,7 @@
   {
     "id": "02189.1",
     "name": "Simmons ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2642,7 +2642,7 @@
   {
     "id": "02190.1",
     "name": "Tanaka ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2662,7 +2662,7 @@
   {
     "id": "02191.1",
     "name": "Tartan ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -2682,7 +2682,7 @@
   {
     "id": "02192.1",
     "name": "Thiriot ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2702,7 +2702,7 @@
   {
     "id": "02193.1",
     "name": "Batterman ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -2722,7 +2722,7 @@
   {
     "id": "02194.1",
     "name": "Ries ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2742,7 +2742,7 @@
   {
     "id": "02195.1",
     "name": "Hickey ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -2762,7 +2762,7 @@
   {
     "id": "02196.1",
     "name": "Jeffers ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2782,7 +2782,7 @@
   {
     "id": "02197.1",
     "name": "Goynes ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2802,7 +2802,7 @@
   {
     "id": "02198.1",
     "name": "Thompson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2822,7 +2822,7 @@
   {
     "id": "02199.1",
     "name": "Hayden ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -2842,7 +2842,7 @@
   {
     "id": "02200.1",
     "name": "Wright ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2862,7 +2862,7 @@
   {
     "id": "02201.1",
     "name": "Ronzone ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2882,7 +2882,7 @@
   {
     "id": "02202.1",
     "name": "Hoggard ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2902,7 +2902,7 @@
   {
     "id": "02203.1",
     "name": "Ronnow ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2922,7 +2922,7 @@
   {
     "id": "02204.1",
     "name": "Squires ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -2942,7 +2942,7 @@
   {
     "id": "02205.1",
     "name": "Crestwood ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -2962,7 +2962,7 @@
   {
     "id": "02206.1",
     "name": "Gilbert ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -2982,7 +2982,7 @@
   {
     "id": "02207.1",
     "name": "Hancock ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3002,7 +3002,7 @@
   {
     "id": "02208.1",
     "name": "Griffith ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3022,7 +3022,7 @@
   {
     "id": "02209.1",
     "name": "Herron ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3042,7 +3042,7 @@
   {
     "id": "02210.1",
     "name": "Hewetson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3062,7 +3062,7 @@
   {
     "id": "02211.1",
     "name": "Booker ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3082,7 +3082,7 @@
   {
     "id": "02212.1",
     "name": "Earl I ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3102,7 +3102,7 @@
   {
     "id": "02213.1",
     "name": "Manch ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3122,7 +3122,7 @@
   {
     "id": "02214.1",
     "name": "Ullom ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -3142,7 +3142,7 @@
   {
     "id": "02216.1",
     "name": "Park ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3162,7 +3162,7 @@
   {
     "id": "02217.1",
     "name": "Mackey ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3182,7 +3182,7 @@
   {
     "id": "02218.1",
     "name": "McWilliams ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3202,7 +3202,7 @@
   {
     "id": "02219.1",
     "name": "Toland ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -3222,7 +3222,7 @@
   {
     "id": "02220.1",
     "name": "Dearing ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3242,7 +3242,7 @@
   {
     "id": "02221.1",
     "name": "Rowe ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3262,7 +3262,7 @@
   {
     "id": "02222.1",
     "name": "Lincoln ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3282,7 +3282,7 @@
   {
     "id": "02223.1",
     "name": "Craig ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3302,7 +3302,7 @@
   {
     "id": "02224.1",
     "name": "Williams W ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3322,7 +3322,7 @@
   {
     "id": "02225.1",
     "name": "Cahlan ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3342,7 +3342,7 @@
   {
     "id": "02226.1",
     "name": "Kelly ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3362,7 +3362,7 @@
   {
     "id": "02228.1",
     "name": "Mountain View ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3382,7 +3382,7 @@
   {
     "id": "02230.1",
     "name": "Taylor G ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -3402,7 +3402,7 @@
   {
     "id": "02231.1",
     "name": "Adcock ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -3422,7 +3422,7 @@
   {
     "id": "02232.1",
     "name": "Paradise ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3442,7 +3442,7 @@
   {
     "id": "02233.1",
     "name": "Culley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3462,7 +3462,7 @@
   {
     "id": "02234.1",
     "name": "McCall ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -3482,7 +3482,7 @@
   {
     "id": "02235.1",
     "name": "Red Rock ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3502,7 +3502,7 @@
   {
     "id": "02236.1",
     "name": "Bell ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3522,7 +3522,7 @@
   {
     "id": "02237.1",
     "name": "Lake ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3542,7 +3542,7 @@
   {
     "id": "02238.1",
     "name": "Warren ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3562,7 +3562,7 @@
   {
     "id": "02239.1",
     "name": "Thomas ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3582,7 +3582,7 @@
   {
     "id": "02241.1",
     "name": "Sunrise Acres ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3602,7 +3602,7 @@
   {
     "id": "02242.1",
     "name": "Williams T ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3622,7 +3622,7 @@
   {
     "id": "02243.1",
     "name": "Twin Lakes ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -3642,7 +3642,7 @@
   {
     "id": "02244.1",
     "name": "Pittman ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3662,7 +3662,7 @@
   {
     "id": "02245.1",
     "name": "Vegas Verdes ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -3682,7 +3682,7 @@
   {
     "id": "02246.1",
     "name": "Bracken ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -3702,7 +3702,7 @@
   {
     "id": "02247.1",
     "name": "Wasden ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3722,7 +3722,7 @@
   {
     "id": "02248.1",
     "name": "Beckley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3742,7 +3742,7 @@
   {
     "id": "02249.1",
     "name": "McCaw ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -3762,7 +3762,7 @@
   {
     "id": "02250.1",
     "name": "Mitchell ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": null,
@@ -3782,7 +3782,7 @@
   {
     "id": "02251.1",
     "name": "Sewell ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3802,7 +3802,7 @@
   {
     "id": "02252.1",
     "name": "Indian Springs ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3822,7 +3822,7 @@
   {
     "id": "02253.1",
     "name": "Priest ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3842,7 +3842,7 @@
   {
     "id": "02254.1",
     "name": "Taylor R ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3862,7 +3862,7 @@
   {
     "id": "02255.1",
     "name": "Virgin Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -3882,7 +3882,7 @@
   {
     "id": "02256.1",
     "name": "Whitney ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3902,7 +3902,7 @@
   {
     "id": "02257.1",
     "name": "Ferron ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -3922,7 +3922,7 @@
   {
     "id": "02258.1",
     "name": "Gene Ward ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -3942,7 +3942,7 @@
   {
     "id": "02259.1",
     "name": "Wengert ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3962,7 +3962,7 @@
   {
     "id": "02260.1",
     "name": "Tate ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3982,7 +3982,7 @@
   {
     "id": "02261.1",
     "name": "Harmon ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4002,7 +4002,7 @@
   {
     "id": "02262.1",
     "name": "Harris ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -4022,7 +4022,7 @@
   {
     "id": "02263.1",
     "name": "Diskin ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4042,7 +4042,7 @@
   {
     "id": "02264.1",
     "name": "Smith Helen ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4062,7 +4062,7 @@
   {
     "id": "02265.1",
     "name": "Tomiyasu ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4082,7 +4082,7 @@
   {
     "id": "02266.1",
     "name": "Dondero ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4102,7 +4102,7 @@
   {
     "id": "02267.1",
     "name": "Edwards ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4122,7 +4122,7 @@
   {
     "id": "02268.1",
     "name": "French ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4142,7 +4142,7 @@
   {
     "id": "02269.1",
     "name": "Decker ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4162,7 +4162,7 @@
   {
     "id": "02270.1",
     "name": "Long ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -4182,7 +4182,7 @@
   {
     "id": "02271.1",
     "name": "Bilbray ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4202,7 +4202,7 @@
   {
     "id": "02272.1",
     "name": "Frias ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -4222,7 +4222,7 @@
   {
     "id": "02273.1",
     "name": "Hollingsworth ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4242,7 +4242,7 @@
   {
     "id": "02274.1",
     "name": "Miller Sandy ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -4262,7 +4262,7 @@
   {
     "id": "02275.1",
     "name": "Gragson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4282,7 +4282,7 @@
   {
     "id": "02276.1",
     "name": "Galloway ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4302,7 +4302,7 @@
   {
     "id": "02277.1",
     "name": "Mack ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -4322,7 +4322,7 @@
   {
     "id": "02278.1",
     "name": "Gray ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4342,7 +4342,7 @@
   {
     "id": "02279.1",
     "name": "Bowler Grant ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4362,7 +4362,7 @@
   {
     "id": "02280.1",
     "name": "Bass ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4382,7 +4382,7 @@
   {
     "id": "02281.1",
     "name": "Martinez ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4402,7 +4402,7 @@
   {
     "id": "02282.1",
     "name": "Moore ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4422,7 +4422,7 @@
   {
     "id": "02283.1",
     "name": "Ober ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4442,7 +4442,7 @@
   {
     "id": "02284.1",
     "name": "Smith Hal ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -4462,7 +4462,7 @@
   {
     "id": "02285.1",
     "name": "Tarr ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4482,7 +4482,7 @@
   {
     "id": "02286.1",
     "name": "Staton ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -4502,7 +4502,7 @@
   {
     "id": "02287.1",
     "name": "Wolff ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -4522,7 +4522,7 @@
   {
     "id": "02289.1",
     "name": "Petersen ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -4542,7 +4542,7 @@
   {
     "id": "02290.1",
     "name": "Tobler ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4562,7 +4562,7 @@
   {
     "id": "02291.1",
     "name": "Sandy Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4582,7 +4582,7 @@
   {
     "id": "02292.1",
     "name": "Bennett William ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -4602,7 +4602,7 @@
   {
     "id": "02293.1",
     "name": "Cox C ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -4622,7 +4622,7 @@
   {
     "id": "02294.1",
     "name": "Stanford ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4642,7 +4642,7 @@
   {
     "id": "02295.1",
     "name": "Reed ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4662,7 +4662,7 @@
   {
     "id": "02296.1",
     "name": "Earl M ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4682,7 +4682,7 @@
   {
     "id": "02297.1",
     "name": "Hinman ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4702,7 +4702,7 @@
   {
     "id": "02298.1",
     "name": "McDoniel ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -4742,7 +4742,7 @@
   {
     "id": "02300.1",
     "name": "Detwiler ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -4762,7 +4762,7 @@
   {
     "id": "02301.2",
     "name": "Von Tobel MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -4782,7 +4782,7 @@
   {
     "id": "02302.2",
     "name": "Garside MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -4802,7 +4802,7 @@
   {
     "id": "02303.2",
     "name": "Hyde Park MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -4822,7 +4822,7 @@
   {
     "id": "02304.2",
     "name": "Cashman MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -4842,7 +4842,7 @@
   {
     "id": "02305.2",
     "name": "Smith MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -4862,7 +4862,7 @@
   {
     "id": "02306.2",
     "name": "Brinley MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -4882,7 +4882,7 @@
   {
     "id": "02307.2",
     "name": "Bridger MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -4902,7 +4902,7 @@
   {
     "id": "02308.2",
     "name": "Fremont MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 4,
@@ -4922,7 +4922,7 @@
   {
     "id": "02309.2",
     "name": "Knudson MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -4942,7 +4942,7 @@
   {
     "id": "02310.2",
     "name": "Gibson MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -4962,7 +4962,7 @@
   {
     "id": "02311.2",
     "name": "Martin MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -4982,7 +4982,7 @@
   {
     "id": "02312.2",
     "name": "Orr MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5002,7 +5002,7 @@
   {
     "id": "02313.2",
     "name": "Burkholder MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5022,7 +5022,7 @@
   {
     "id": "02314.2",
     "name": "Woodbury MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5042,7 +5042,7 @@
   {
     "id": "02315.2",
     "name": "Robison MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5062,7 +5062,7 @@
   {
     "id": "02316.2",
     "name": "Cannon JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5082,7 +5082,7 @@
   {
     "id": "02317.2",
     "name": "Guinn MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5102,7 +5102,7 @@
   {
     "id": "02318.2",
     "name": "Garrett MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5122,7 +5122,7 @@
   {
     "id": "02319.2",
     "name": "Brown JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5142,7 +5142,7 @@
   {
     "id": "02320.2",
     "name": "Sandy Valley JSHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5162,7 +5162,7 @@
   {
     "id": "02320.3",
     "name": "Sandy Valley JSHS HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -5182,7 +5182,7 @@
   {
     "id": "02321.2",
     "name": "Laughlin JSHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5202,7 +5202,7 @@
   {
     "id": "02321.3",
     "name": "Laughlin JSHS HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 3,
@@ -5222,7 +5222,7 @@
   {
     "id": "02322.2",
     "name": "OCallaghan i3 ACAD MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5242,7 +5242,7 @@
   {
     "id": "02323.2",
     "name": "Johnson JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5262,7 +5262,7 @@
   {
     "id": "02324.2",
     "name": "Greenspun JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5282,7 +5282,7 @@
   {
     "id": "02325.2",
     "name": "Swainston MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5302,7 +5302,7 @@
   {
     "id": "02326.2",
     "name": "White MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5322,7 +5322,7 @@
   {
     "id": "02327.2",
     "name": "Becker MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5342,7 +5342,7 @@
   {
     "id": "02328.2",
     "name": "Sawyer MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5362,7 +5362,7 @@
   {
     "id": "02329.2",
     "name": "Lyon MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5382,7 +5382,7 @@
   {
     "id": "02330.2",
     "name": "West Prep JSHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5402,7 +5402,7 @@
   {
     "id": "02330.3",
     "name": "West Prep JSHS HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 3,
@@ -5422,7 +5422,7 @@
   {
     "id": "02331.2",
     "name": "Lied STEM ACAD MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5442,7 +5442,7 @@
   {
     "id": "02332.2",
     "name": "Keller MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5462,7 +5462,7 @@
   {
     "id": "02333.2",
     "name": "Molasky JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5482,7 +5482,7 @@
   {
     "id": "02334.2",
     "name": "Silvestri JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5502,7 +5502,7 @@
   {
     "id": "02335.2",
     "name": "Cortney JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5522,7 +5522,7 @@
   {
     "id": "02336.2",
     "name": "Indian Springs MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5542,7 +5542,7 @@
   {
     "id": "02337.2",
     "name": "Lawrence JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5562,7 +5562,7 @@
   {
     "id": "02338.2",
     "name": "Miller MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5582,7 +5582,7 @@
   {
     "id": "02339.2",
     "name": "Rogich MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5602,7 +5602,7 @@
   {
     "id": "02341.2",
     "name": "Leavitt MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5622,7 +5622,7 @@
   {
     "id": "02342.2",
     "name": "Cram MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5642,7 +5642,7 @@
   {
     "id": "02343.2",
     "name": "Monaco MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5662,7 +5662,7 @@
   {
     "id": "02344.2",
     "name": "Schofield MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5682,7 +5682,7 @@
   {
     "id": "02345.2",
     "name": "Sedway MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5702,7 +5702,7 @@
   {
     "id": "02346.2",
     "name": "Harney MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5722,7 +5722,7 @@
   {
     "id": "02347.2",
     "name": "Fertitta MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5742,7 +5742,7 @@
   {
     "id": "02348.2",
     "name": "Cadwallader MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 4,
@@ -5762,7 +5762,7 @@
   {
     "id": "02349.2",
     "name": "Canarelli MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5782,7 +5782,7 @@
   {
     "id": "02350.2",
     "name": "Hughes MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5802,7 +5802,7 @@
   {
     "id": "02352.2",
     "name": "Findlay MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5822,7 +5822,7 @@
   {
     "id": "02353.2",
     "name": "Mannion MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5842,7 +5842,7 @@
   {
     "id": "02354.2",
     "name": "Saville MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5862,7 +5862,7 @@
   {
     "id": "02355.2",
     "name": "Webb MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5882,7 +5882,7 @@
   {
     "id": "02356.2",
     "name": "Mack MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -5902,7 +5902,7 @@
   {
     "id": "02357.2",
     "name": "Bailey MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -5942,7 +5942,7 @@
   {
     "id": "02359.2",
     "name": "Johnston MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5962,7 +5962,7 @@
   {
     "id": "02360.2",
     "name": "Tarkanian MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5982,7 +5982,7 @@
   {
     "id": "02361.2",
     "name": "Escobedo MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 2,
@@ -6002,7 +6002,7 @@
   {
     "id": "02362.2",
     "name": "Faiss MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 4,
@@ -6082,7 +6082,7 @@
   {
     "id": "02368.2",
     "name": "Gunderson MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -6102,7 +6102,7 @@
   {
     "id": "02369.2",
     "name": "Mackey MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -6122,7 +6122,7 @@
   {
     "id": "02401.3",
     "name": "Clark HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6142,7 +6142,7 @@
   {
     "id": "02402.3",
     "name": "Las Vegas HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 3,
@@ -6162,7 +6162,7 @@
   {
     "id": "02403.3",
     "name": "Rancho HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 3,
@@ -6182,7 +6182,7 @@
   {
     "id": "02404.3",
     "name": "Valley HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6202,7 +6202,7 @@
   {
     "id": "02405.3",
     "name": "Western HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6222,7 +6222,7 @@
   {
     "id": "02406.3",
     "name": "Basic ACAD HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 3,
@@ -6242,7 +6242,7 @@
   {
     "id": "02409.3",
     "name": "Chaparral HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6262,7 +6262,7 @@
   {
     "id": "02410.3",
     "name": "Eldorado HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6282,7 +6282,7 @@
   {
     "id": "02411.3",
     "name": "Bonanza HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6302,7 +6302,7 @@
   {
     "id": "02412.3",
     "name": "SECTA HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6322,7 +6322,7 @@
   {
     "id": "02414.3",
     "name": "Cimarron Mem HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 3,
@@ -6342,7 +6342,7 @@
   {
     "id": "02415.3",
     "name": "Cheyenne HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6362,7 +6362,7 @@
   {
     "id": "02416.3",
     "name": "Green Valley HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 3,
@@ -6382,7 +6382,7 @@
   {
     "id": "02417.3",
     "name": "Durango HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 3,
@@ -6402,7 +6402,7 @@
   {
     "id": "02418.3",
     "name": "Las Vegas ACAD HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6422,7 +6422,7 @@
   {
     "id": "02420.3",
     "name": "Adv Tech ACAD HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6442,7 +6442,7 @@
   {
     "id": "02421.3",
     "name": "Silverado HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -6462,7 +6462,7 @@
   {
     "id": "02422.3",
     "name": "CSN East HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6482,7 +6482,7 @@
   {
     "id": "02423.3",
     "name": "CSN West HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6502,7 +6502,7 @@
   {
     "id": "02424.3",
     "name": "Mojave HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6522,7 +6522,7 @@
   {
     "id": "02425.3",
     "name": "Palo Verde HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6542,7 +6542,7 @@
   {
     "id": "02426.3",
     "name": "CSN South HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6562,7 +6562,7 @@
   {
     "id": "02427.3",
     "name": "Shadow Ridge HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -6582,7 +6582,7 @@
   {
     "id": "02428.3",
     "name": "Liberty HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -6602,7 +6602,7 @@
   {
     "id": "02429.3",
     "name": "Canyon Springs HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6622,7 +6622,7 @@
   {
     "id": "02430.3",
     "name": "Del Sol ACAD HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 3,
@@ -6642,7 +6642,7 @@
   {
     "id": "02431.3",
     "name": "Spring Valley HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6662,7 +6662,7 @@
   {
     "id": "02432.3",
     "name": "VTCTA HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6682,7 +6682,7 @@
   {
     "id": "02433.3",
     "name": "SWCTA HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6702,7 +6702,7 @@
   {
     "id": "02434.3",
     "name": "Sunrise Mountain HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6722,7 +6722,7 @@
   {
     "id": "02435.3",
     "name": "WCTA HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6742,7 +6742,7 @@
   {
     "id": "02501.1",
     "name": "Brown H M ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -6762,7 +6762,7 @@
   {
     "id": "02601.3",
     "name": "Boulder City HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -6782,7 +6782,7 @@
   {
     "id": "02602.3",
     "name": "Moapa Valley HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6802,7 +6802,7 @@
   {
     "id": "02603.3",
     "name": "Virgin Valley HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -6822,7 +6822,7 @@
   {
     "id": "02604.3",
     "name": "Indian Springs HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -6842,7 +6842,7 @@
   {
     "id": "02607.3",
     "name": "Centennial HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 3,
@@ -6862,7 +6862,7 @@
   {
     "id": "02608.3",
     "name": "Foothill HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -6882,7 +6882,7 @@
   {
     "id": "02609.3",
     "name": "Desert Pines HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -6902,7 +6902,7 @@
   {
     "id": "02611.3",
     "name": "Sierra Vista HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -6922,7 +6922,7 @@
   {
     "id": "02612.3",
     "name": "Coronado HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -7022,7 +7022,7 @@
   {
     "id": "02618.3",
     "name": "Arbor View HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -7042,7 +7042,7 @@
   {
     "id": "02619.3",
     "name": "Legacy HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 2,
@@ -7062,7 +7062,7 @@
   {
     "id": "02620.3",
     "name": "NWCTA HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -7122,7 +7122,7 @@
   {
     "id": "02623.3",
     "name": "Desert Oasis HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -7142,7 +7142,7 @@
   {
     "id": "02624.3",
     "name": "ECTA HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -7162,7 +7162,7 @@
   {
     "id": "02625.2",
     "name": "NV LRN Academy MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Clark",
     "starRating": 1,
@@ -7182,7 +7182,7 @@
   {
     "id": "02625.3",
     "name": "NV LRN Academy HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 1,
@@ -7202,7 +7202,7 @@
   {
     "id": "02626.1",
     "name": "NV LRN ACAD ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 1,
@@ -7222,7 +7222,7 @@
   {
     "id": "02627.3",
     "name": "CTTA HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -7242,7 +7242,7 @@
   {
     "id": "02628.3",
     "name": "NECTA HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Clark",
     "starRating": null,
@@ -7262,7 +7262,7 @@
   {
     "id": "03201.1",
     "name": "Gardnerville ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Douglas",
     "starRating": 2,
@@ -7282,7 +7282,7 @@
   {
     "id": "03202.1",
     "name": "Zephyr Cove ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Douglas",
     "starRating": 3,
@@ -7302,7 +7302,7 @@
   {
     "id": "03205.1",
     "name": "Meneley  ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Douglas",
     "starRating": 2,
@@ -7322,7 +7322,7 @@
   {
     "id": "03206.1",
     "name": "Jacks Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Douglas",
     "starRating": 2,
@@ -7342,7 +7342,7 @@
   {
     "id": "03207.1",
     "name": "Scarselli ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Douglas",
     "starRating": 4,
@@ -7362,7 +7362,7 @@
   {
     "id": "03209.1",
     "name": "Pinon Hills ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Douglas",
     "starRating": 5,
@@ -7382,7 +7382,7 @@
   {
     "id": "03210.1",
     "name": "Minden ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Douglas",
     "starRating": 3,
@@ -7402,7 +7402,7 @@
   {
     "id": "03301.2",
     "name": "Carson Valley MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Douglas",
     "starRating": 3,
@@ -7422,7 +7422,7 @@
   {
     "id": "03302.2",
     "name": "Pau Wa Lu MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Douglas",
     "starRating": 2,
@@ -7442,7 +7442,7 @@
   {
     "id": "03501.3",
     "name": "Douglas HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Douglas",
     "starRating": 4,
@@ -7462,7 +7462,7 @@
   {
     "id": "03502.2",
     "name": "Whittell MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Douglas",
     "starRating": 5,
@@ -7482,7 +7482,7 @@
   {
     "id": "03502.3",
     "name": "Whittell HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Douglas",
     "starRating": 5,
@@ -7502,7 +7502,7 @@
   {
     "id": "04104.1",
     "name": "Independence Vly ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": null,
@@ -7522,7 +7522,7 @@
   {
     "id": "04105.1",
     "name": "Jackpot ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 2,
@@ -7542,7 +7542,7 @@
   {
     "id": "04107.1",
     "name": "Montello ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": null,
@@ -7562,7 +7562,7 @@
   {
     "id": "04108.1",
     "name": "Mound Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": null,
@@ -7582,7 +7582,7 @@
   {
     "id": "04108.2",
     "name": "Mound Valley MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Elko",
     "starRating": null,
@@ -7602,7 +7602,7 @@
   {
     "id": "04111.1",
     "name": "Ruby Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": null,
@@ -7622,7 +7622,7 @@
   {
     "id": "04111.2",
     "name": "Ruby Valley MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Elko",
     "starRating": null,
@@ -7642,7 +7642,7 @@
   {
     "id": "04120.1",
     "name": "Liberty Peak ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 2,
@@ -7662,7 +7662,7 @@
   {
     "id": "04202.1",
     "name": "Elko Grammar ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 3,
@@ -7682,7 +7682,7 @@
   {
     "id": "04203.1",
     "name": "Northside ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 1,
@@ -7702,7 +7702,7 @@
   {
     "id": "04204.1",
     "name": "Southside ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 3,
@@ -7722,7 +7722,7 @@
   {
     "id": "04205.1",
     "name": "Carlin ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 2,
@@ -7742,7 +7742,7 @@
   {
     "id": "04206.1",
     "name": "Owyhee ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 1,
@@ -7762,7 +7762,7 @@
   {
     "id": "04207.1",
     "name": "Wells ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 2,
@@ -7782,7 +7782,7 @@
   {
     "id": "04208.1",
     "name": "W Wendover ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 2,
@@ -7802,7 +7802,7 @@
   {
     "id": "04209.1",
     "name": "Mtn View ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -7822,7 +7822,7 @@
   {
     "id": "04210.1",
     "name": "Spring Creek ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 2,
@@ -7842,7 +7842,7 @@
   {
     "id": "04211.1",
     "name": "Sage ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 1,
@@ -7862,7 +7862,7 @@
   {
     "id": "04213.1",
     "name": "Flagview Intermediate ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": 2,
@@ -7882,7 +7882,7 @@
   {
     "id": "04501.2",
     "name": "Carlin JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Elko",
     "starRating": 2,
@@ -7902,7 +7902,7 @@
   {
     "id": "04502.2",
     "name": "Wells JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Elko",
     "starRating": 2,
@@ -7922,7 +7922,7 @@
   {
     "id": "04503.2",
     "name": "Adobe MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Elko",
     "starRating": 1,
@@ -7942,7 +7942,7 @@
   {
     "id": "04504.2",
     "name": "Spring Creek MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Elko",
     "starRating": 1,
@@ -7962,7 +7962,7 @@
   {
     "id": "04505.2",
     "name": "Jackpot JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Elko",
     "starRating": 5,
@@ -7982,7 +7982,7 @@
   {
     "id": "04506.2",
     "name": "Owyhee JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Elko",
     "starRating": 1,
@@ -8002,7 +8002,7 @@
   {
     "id": "04507.2",
     "name": "W Wendover MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Elko",
     "starRating": 1,
@@ -8022,7 +8022,7 @@
   {
     "id": "04601.3",
     "name": "Carlin HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Elko",
     "starRating": 3,
@@ -8042,7 +8042,7 @@
   {
     "id": "04602.3",
     "name": "Wells HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Elko",
     "starRating": 4,
@@ -8062,7 +8062,7 @@
   {
     "id": "04603.3",
     "name": "Elko HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Elko",
     "starRating": 3,
@@ -8082,7 +8082,7 @@
   {
     "id": "04604.3",
     "name": "Owyhee HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Elko",
     "starRating": 1,
@@ -8102,7 +8102,7 @@
   {
     "id": "04605.3",
     "name": "Jackpot HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Elko",
     "starRating": 3,
@@ -8122,7 +8122,7 @@
   {
     "id": "04606.3",
     "name": "Spring Creek HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Elko",
     "starRating": 3,
@@ -8142,7 +8142,7 @@
   {
     "id": "04607.3",
     "name": "W Wendover HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Elko",
     "starRating": 3,
@@ -8162,7 +8162,7 @@
   {
     "id": "04610.1",
     "name": "NE NV Virtual ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Elko",
     "starRating": null,
@@ -8182,7 +8182,7 @@
   {
     "id": "04610.2",
     "name": "NE NV Virtual MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Elko",
     "starRating": 1,
@@ -8202,7 +8202,7 @@
   {
     "id": "04610.3",
     "name": "NE NV Virtual HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Elko",
     "starRating": 1,
@@ -8222,7 +8222,7 @@
   {
     "id": "05101.1",
     "name": "Dyer ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Esmeralda",
     "starRating": 2,
@@ -8242,7 +8242,7 @@
   {
     "id": "05101.2",
     "name": "Dyer MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Esmeralda",
     "starRating": 2,
@@ -8262,7 +8262,7 @@
   {
     "id": "05102.1",
     "name": "Goldfield ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Esmeralda",
     "starRating": 1,
@@ -8282,7 +8282,7 @@
   {
     "id": "05102.2",
     "name": "Goldfield MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Esmeralda",
     "starRating": 1,
@@ -8302,7 +8302,7 @@
   {
     "id": "05103.1",
     "name": "Silver Peak ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Esmeralda",
     "starRating": null,
@@ -8322,7 +8322,7 @@
   {
     "id": "05103.2",
     "name": "Silver Peak MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Esmeralda",
     "starRating": null,
@@ -8342,7 +8342,7 @@
   {
     "id": "06101.1",
     "name": "Crescent Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Eureka",
     "starRating": 3,
@@ -8362,7 +8362,7 @@
   {
     "id": "06103.1",
     "name": "Eureka ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Eureka",
     "starRating": 4,
@@ -8382,7 +8382,7 @@
   {
     "id": "06601.2",
     "name": "Eureka MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Eureka",
     "starRating": 3,
@@ -8402,7 +8402,7 @@
   {
     "id": "06601.3",
     "name": "Eureka HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Eureka",
     "starRating": 5,
@@ -8422,7 +8422,7 @@
   {
     "id": "07101.1",
     "name": "Denio ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Humboldt",
     "starRating": null,
@@ -8442,7 +8442,7 @@
   {
     "id": "07103.1",
     "name": "Kings River ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Humboldt",
     "starRating": null,
@@ -8462,7 +8462,7 @@
   {
     "id": "07103.2",
     "name": "Kings River MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Humboldt",
     "starRating": null,
@@ -8482,7 +8482,7 @@
   {
     "id": "07104.1",
     "name": "Orovada ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Humboldt",
     "starRating": 4,
@@ -8502,7 +8502,7 @@
   {
     "id": "07104.2",
     "name": "Orovada MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Humboldt",
     "starRating": 4,
@@ -8522,7 +8522,7 @@
   {
     "id": "07105.1",
     "name": "Paradise Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Humboldt",
     "starRating": 3,
@@ -8542,7 +8542,7 @@
   {
     "id": "07105.2",
     "name": "Paradise Valley MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Humboldt",
     "starRating": 3,
@@ -8562,7 +8562,7 @@
   {
     "id": "07201.1",
     "name": "Sonoma Heights ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Humboldt",
     "starRating": 2,
@@ -8582,7 +8582,7 @@
   {
     "id": "07202.1",
     "name": "Winnemucca GS ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Humboldt",
     "starRating": 4,
@@ -8602,7 +8602,7 @@
   {
     "id": "07203.1",
     "name": "McDermitt ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Humboldt",
     "starRating": 2,
@@ -8622,7 +8622,7 @@
   {
     "id": "07205.1",
     "name": "Grass Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Humboldt",
     "starRating": 3,
@@ -8642,7 +8642,7 @@
   {
     "id": "07206.1",
     "name": "French Ford ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Humboldt",
     "starRating": 1,
@@ -8662,7 +8662,7 @@
   {
     "id": "07301.2",
     "name": "Winnemucca JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Humboldt",
     "starRating": 2,
@@ -8682,7 +8682,7 @@
   {
     "id": "07302.2",
     "name": "McDermitt JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Humboldt",
     "starRating": 1,
@@ -8702,7 +8702,7 @@
   {
     "id": "07501.3",
     "name": "Lowry HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Humboldt",
     "starRating": 3,
@@ -8722,7 +8722,7 @@
   {
     "id": "07601.3",
     "name": "McDermitt HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Humboldt",
     "starRating": 1,
@@ -8742,7 +8742,7 @@
   {
     "id": "08201.1",
     "name": "Battle Mtn ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lander",
     "starRating": 1,
@@ -8762,7 +8762,7 @@
   {
     "id": "08302.2",
     "name": "Lemaire JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Lander",
     "starRating": 1,
@@ -8782,7 +8782,7 @@
   {
     "id": "08601.3",
     "name": "Battle Mtn HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Lander",
     "starRating": 3,
@@ -8802,7 +8802,7 @@
   {
     "id": "08602.1",
     "name": "Austin Combined ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lander",
     "starRating": null,
@@ -8822,7 +8822,7 @@
   {
     "id": "08602.2",
     "name": "Austin Combined MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Lander",
     "starRating": null,
@@ -8842,7 +8842,7 @@
   {
     "id": "09102.1",
     "name": "Pahranagat Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lincoln",
     "starRating": 3,
@@ -8862,7 +8862,7 @@
   {
     "id": "09201.1",
     "name": "Caliente ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lincoln",
     "starRating": 5,
@@ -8882,7 +8882,7 @@
   {
     "id": "09202.1",
     "name": "Panaca ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lincoln",
     "starRating": 2,
@@ -8902,7 +8902,7 @@
   {
     "id": "09203.1",
     "name": "Pioche ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lincoln",
     "starRating": 4,
@@ -8922,7 +8922,7 @@
   {
     "id": "09301.2",
     "name": "Meadow Valley MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Lincoln",
     "starRating": 3,
@@ -8942,7 +8942,7 @@
   {
     "id": "09302.2",
     "name": "Pahranagat Valley MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Lincoln",
     "starRating": 3,
@@ -8962,7 +8962,7 @@
   {
     "id": "09501.3",
     "name": "Lincoln HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Lincoln",
     "starRating": 3,
@@ -8982,7 +8982,7 @@
   {
     "id": "09601.3",
     "name": "Pahranagat Valley HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Lincoln",
     "starRating": 4,
@@ -9002,7 +9002,7 @@
   {
     "id": "10201.1",
     "name": "Dayton ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lyon",
     "starRating": 1,
@@ -9022,7 +9022,7 @@
   {
     "id": "10202.1",
     "name": "Yerington ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lyon",
     "starRating": 2,
@@ -9042,7 +9042,7 @@
   {
     "id": "10203.1",
     "name": "Fernley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lyon",
     "starRating": 2,
@@ -9062,7 +9062,7 @@
   {
     "id": "10205.1",
     "name": "Silver Stage ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lyon",
     "starRating": 2,
@@ -9082,7 +9082,7 @@
   {
     "id": "10206.1",
     "name": "East Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lyon",
     "starRating": 2,
@@ -9102,7 +9102,7 @@
   {
     "id": "10208.2",
     "name": "Dayton Intermediate MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Lyon",
     "starRating": 1,
@@ -9122,7 +9122,7 @@
   {
     "id": "10209.1",
     "name": "Cottonwood ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lyon",
     "starRating": 2,
@@ -9142,7 +9142,7 @@
   {
     "id": "10210.1",
     "name": "Sutro ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lyon",
     "starRating": 1,
@@ -9162,7 +9162,7 @@
   {
     "id": "10211.1",
     "name": "Riverview ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lyon",
     "starRating": 2,
@@ -9182,7 +9182,7 @@
   {
     "id": "10302.2",
     "name": "Yerington Intermediate MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Lyon",
     "starRating": 2,
@@ -9202,7 +9202,7 @@
   {
     "id": "10303.1",
     "name": "Fernley Intermediate ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lyon",
     "starRating": 1,
@@ -9222,7 +9222,7 @@
   {
     "id": "10304.2",
     "name": "Silver Stage MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Lyon",
     "starRating": 2,
@@ -9242,7 +9242,7 @@
   {
     "id": "10305.2",
     "name": "Silverland MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Lyon",
     "starRating": 1,
@@ -9262,7 +9262,7 @@
   {
     "id": "10601.3",
     "name": "Fernley HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Lyon",
     "starRating": 2,
@@ -9282,7 +9282,7 @@
   {
     "id": "10602.1",
     "name": "Smith Valley Combined ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Lyon",
     "starRating": 2,
@@ -9302,7 +9302,7 @@
   {
     "id": "10602.2",
     "name": "Smith Valley Combined MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Lyon",
     "starRating": 2,
@@ -9322,7 +9322,7 @@
   {
     "id": "10602.3",
     "name": "Smith Valley Combined HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Lyon",
     "starRating": 3,
@@ -9342,7 +9342,7 @@
   {
     "id": "10603.3",
     "name": "Yerington HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Lyon",
     "starRating": 3,
@@ -9362,7 +9362,7 @@
   {
     "id": "10604.3",
     "name": "Dayton HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Lyon",
     "starRating": 3,
@@ -9382,7 +9382,7 @@
   {
     "id": "10605.3",
     "name": "Silver Stage HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Lyon",
     "starRating": 3,
@@ -9402,7 +9402,7 @@
   {
     "id": "11201.1",
     "name": "Hawthorne ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Mineral",
     "starRating": 1,
@@ -9422,7 +9422,7 @@
   {
     "id": "11202.1",
     "name": "Schurz ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Mineral",
     "starRating": 2,
@@ -9442,7 +9442,7 @@
   {
     "id": "11203.2",
     "name": "Hawthorne JHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Mineral",
     "starRating": 1,
@@ -9462,7 +9462,7 @@
   {
     "id": "11601.3",
     "name": "Mineral HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Mineral",
     "starRating": 2,
@@ -9482,7 +9482,7 @@
   {
     "id": "12102.1",
     "name": "Manse ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Nye",
     "starRating": 3,
@@ -9502,7 +9502,7 @@
   {
     "id": "12103.1",
     "name": "Round Mtn ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Nye",
     "starRating": 1,
@@ -9522,7 +9522,7 @@
   {
     "id": "12105.1",
     "name": "Gabbs ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Nye",
     "starRating": null,
@@ -9542,7 +9542,7 @@
   {
     "id": "12106.1",
     "name": "Amargosa Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Nye",
     "starRating": 2,
@@ -9562,7 +9562,7 @@
   {
     "id": "12108.1",
     "name": "JG Johnson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Nye",
     "starRating": 2,
@@ -9582,7 +9582,7 @@
   {
     "id": "12201.1",
     "name": "Beatty ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Nye",
     "starRating": 1,
@@ -9602,7 +9602,7 @@
   {
     "id": "12202.1",
     "name": "Tonopah ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Nye",
     "starRating": 2,
@@ -9622,7 +9622,7 @@
   {
     "id": "12207.1",
     "name": "Hafen ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Nye",
     "starRating": 2,
@@ -9642,7 +9642,7 @@
   {
     "id": "12210.1",
     "name": "Floyd ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Nye",
     "starRating": 3,
@@ -9662,7 +9662,7 @@
   {
     "id": "12301.2",
     "name": "Rosemary Clarke MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Nye",
     "starRating": 2,
@@ -9682,7 +9682,7 @@
   {
     "id": "12311.2",
     "name": "Beatty MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Nye",
     "starRating": 3,
@@ -9702,7 +9702,7 @@
   {
     "id": "12312.2",
     "name": "Tonopah MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Nye",
     "starRating": 3,
@@ -9722,7 +9722,7 @@
   {
     "id": "12313.2",
     "name": "Round Mtn MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Nye",
     "starRating": 3,
@@ -9742,7 +9742,7 @@
   {
     "id": "12315.2",
     "name": "Gabbs MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Nye",
     "starRating": 2,
@@ -9762,7 +9762,7 @@
   {
     "id": "12316.2",
     "name": "Amargosa Valley MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Nye",
     "starRating": 1,
@@ -9782,7 +9782,7 @@
   {
     "id": "12601.3",
     "name": "Beatty HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Nye",
     "starRating": 4,
@@ -9802,7 +9802,7 @@
   {
     "id": "12603.3",
     "name": "Tonopah HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Nye",
     "starRating": 3,
@@ -9822,7 +9822,7 @@
   {
     "id": "12604.3",
     "name": "Pahrump Valley HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Nye",
     "starRating": 3,
@@ -9842,7 +9842,7 @@
   {
     "id": "12605.3",
     "name": "Round Mtn HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Nye",
     "starRating": 2,
@@ -9862,7 +9862,7 @@
   {
     "id": "13201.1",
     "name": "Bordewich Bray ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Carson City",
     "starRating": 3,
@@ -9882,7 +9882,7 @@
   {
     "id": "13203.1",
     "name": "Fritsch ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Carson City",
     "starRating": 4,
@@ -9902,7 +9902,7 @@
   {
     "id": "13204.1",
     "name": "Fremont ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Carson City",
     "starRating": 3,
@@ -9922,7 +9922,7 @@
   {
     "id": "13207.1",
     "name": "Seeliger ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Carson City",
     "starRating": 4,
@@ -9942,7 +9942,7 @@
   {
     "id": "13209.1",
     "name": "Empire ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Carson City",
     "starRating": 2,
@@ -9962,7 +9962,7 @@
   {
     "id": "13211.1",
     "name": "Mark Twain ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Carson City",
     "starRating": 2,
@@ -10002,7 +10002,7 @@
   {
     "id": "13301.2",
     "name": "Carson MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Carson City",
     "starRating": 2,
@@ -10022,7 +10022,7 @@
   {
     "id": "13302.2",
     "name": "Eagle Valley MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Carson City",
     "starRating": 2,
@@ -10042,7 +10042,7 @@
   {
     "id": "13501.3",
     "name": "Carson HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Carson City",
     "starRating": 3,
@@ -10062,7 +10062,7 @@
   {
     "id": "14101.1",
     "name": "Imlay ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Pershing",
     "starRating": 2,
@@ -10082,7 +10082,7 @@
   {
     "id": "14201.1",
     "name": "Lovelock ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Pershing",
     "starRating": 2,
@@ -10102,7 +10102,7 @@
   {
     "id": "14301.2",
     "name": "Pershing MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Pershing",
     "starRating": 1,
@@ -10122,7 +10122,7 @@
   {
     "id": "14601.3",
     "name": "Pershing HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Pershing",
     "starRating": 4,
@@ -10142,7 +10142,7 @@
   {
     "id": "15101.1",
     "name": "Gallagher ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Storey",
     "starRating": 3,
@@ -10162,7 +10162,7 @@
   {
     "id": "15102.1",
     "name": "Hillside ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Storey",
     "starRating": 2,
@@ -10182,7 +10182,7 @@
   {
     "id": "15301.2",
     "name": "Virginia City MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Storey",
     "starRating": 3,
@@ -10202,7 +10202,7 @@
   {
     "id": "15601.3",
     "name": "Virginia City HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Storey",
     "starRating": 3,
@@ -10222,7 +10222,7 @@
   {
     "id": "16201.1",
     "name": "Anderson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -10242,7 +10242,7 @@
   {
     "id": "16202.1",
     "name": "Loder ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -10262,7 +10262,7 @@
   {
     "id": "16203.1",
     "name": "Elmcrest ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -10282,7 +10282,7 @@
   {
     "id": "16204.1",
     "name": "Duncan ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -10302,7 +10302,7 @@
   {
     "id": "16205.1",
     "name": "Warner ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 1,
@@ -10322,7 +10322,7 @@
   {
     "id": "16206.1",
     "name": "Hunter Lake ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -10342,7 +10342,7 @@
   {
     "id": "16207.1",
     "name": "Beck ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -10362,7 +10362,7 @@
   {
     "id": "16208.1",
     "name": "Booth ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 1,
@@ -10382,7 +10382,7 @@
   {
     "id": "16209.1",
     "name": "Towles ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -10402,7 +10402,7 @@
   {
     "id": "16210.1",
     "name": "Melton ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -10422,7 +10422,7 @@
   {
     "id": "16211.1",
     "name": "Mount Rose K-8 ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Other",
     "county": "Washoe",
     "starRating": 5,
@@ -10442,7 +10442,7 @@
   {
     "id": "16211.2",
     "name": "Mount Rose K-8 MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Other",
     "county": "Washoe",
     "starRating": 5,
@@ -10462,7 +10462,7 @@
   {
     "id": "16212.1",
     "name": "Double Diamond ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -10482,7 +10482,7 @@
   {
     "id": "16213.1",
     "name": "Peavine ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -10502,7 +10502,7 @@
   {
     "id": "16214.1",
     "name": "Cannan ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -10522,7 +10522,7 @@
   {
     "id": "16215.1",
     "name": "Corbett ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 1,
@@ -10542,7 +10542,7 @@
   {
     "id": "16216.1",
     "name": "Gomm ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -10562,7 +10562,7 @@
   {
     "id": "16218.1",
     "name": "Smithridge ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -10582,7 +10582,7 @@
   {
     "id": "16219.1",
     "name": "Stead ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -10602,7 +10602,7 @@
   {
     "id": "16220.1",
     "name": "Veterans Memorial STEM ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 1,
@@ -10622,7 +10622,7 @@
   {
     "id": "16221.1",
     "name": "Risley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -10642,7 +10642,7 @@
   {
     "id": "16222.1",
     "name": "Maxwell ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -10662,7 +10662,7 @@
   {
     "id": "16223.1",
     "name": "Drake ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -10682,7 +10682,7 @@
   {
     "id": "16224.1",
     "name": "Greenbrae ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -10702,7 +10702,7 @@
   {
     "id": "16225.1",
     "name": "Smith Kate ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -10722,7 +10722,7 @@
   {
     "id": "16226.1",
     "name": "Juniper ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -10742,7 +10742,7 @@
   {
     "id": "16227.1",
     "name": "Lincoln Park ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 1,
@@ -10762,7 +10762,7 @@
   {
     "id": "16228.1",
     "name": "Mitchell ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -10782,7 +10782,7 @@
   {
     "id": "16229.1",
     "name": "Brown ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -10802,7 +10802,7 @@
   {
     "id": "16230.1",
     "name": "Huffaker ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -10822,7 +10822,7 @@
   {
     "id": "16231.1",
     "name": "Lemelson STEM ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -10842,7 +10842,7 @@
   {
     "id": "16232.1",
     "name": "Lemmon Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -10862,7 +10862,7 @@
   {
     "id": "16233.1",
     "name": "Pleasant Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -10882,7 +10882,7 @@
   {
     "id": "16234.1",
     "name": "Sun Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -10902,7 +10902,7 @@
   {
     "id": "16235.1",
     "name": "Verdi ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -10922,7 +10922,7 @@
   {
     "id": "16237.1",
     "name": "Natchez ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -10942,7 +10942,7 @@
   {
     "id": "16238.1",
     "name": "Diedrichsen ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -10962,7 +10962,7 @@
   {
     "id": "16239.1",
     "name": "Dunn ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -10982,7 +10982,7 @@
   {
     "id": "16240.1",
     "name": "Palmer ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11002,7 +11002,7 @@
   {
     "id": "16241.1",
     "name": "Hall ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -11022,7 +11022,7 @@
   {
     "id": "16242.1",
     "name": "Sepulveda ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11042,7 +11042,7 @@
   {
     "id": "16243.1",
     "name": "Poulakidas ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -11062,7 +11062,7 @@
   {
     "id": "16244.1",
     "name": "JOHN BOHACH ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -11082,7 +11082,7 @@
   {
     "id": "16245.1",
     "name": "Inskeep ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -11102,7 +11102,7 @@
   {
     "id": "16246.1",
     "name": "Raw ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -11122,7 +11122,7 @@
   {
     "id": "16251.1",
     "name": "Incline ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11142,7 +11142,7 @@
   {
     "id": "16256.1",
     "name": "Gomes ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11162,7 +11162,7 @@
   {
     "id": "16257.1",
     "name": "Lenz ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -11182,7 +11182,7 @@
   {
     "id": "16258.1",
     "name": "Dodson ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11202,7 +11202,7 @@
   {
     "id": "16259.1",
     "name": "Whitehead ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11222,7 +11222,7 @@
   {
     "id": "16260.1",
     "name": "Smith Alice ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11242,7 +11242,7 @@
   {
     "id": "16261.1",
     "name": "Caughlin Ranch ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -11262,7 +11262,7 @@
   {
     "id": "16262.1",
     "name": "Hidden Valley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11282,7 +11282,7 @@
   {
     "id": "16263.1",
     "name": "Silver Lake ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11302,7 +11302,7 @@
   {
     "id": "16264.1",
     "name": "Westergard ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -11322,7 +11322,7 @@
   {
     "id": "16265.1",
     "name": "Taylor ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -11342,7 +11342,7 @@
   {
     "id": "16266.1",
     "name": "Allen ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 1,
@@ -11362,7 +11362,7 @@
   {
     "id": "16267.1",
     "name": "Moss ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -11382,7 +11382,7 @@
   {
     "id": "16268.1",
     "name": "Desert Heights ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 1,
@@ -11402,7 +11402,7 @@
   {
     "id": "16269.1",
     "name": "Spanish Spgs ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -11422,7 +11422,7 @@
   {
     "id": "16270.1",
     "name": "Winnemucca ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 3,
@@ -11442,7 +11442,7 @@
   {
     "id": "16271.1",
     "name": "Beasley ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -11462,7 +11462,7 @@
   {
     "id": "16272.1",
     "name": "Donner Springs ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 1,
@@ -11482,7 +11482,7 @@
   {
     "id": "16273.1",
     "name": "Mathews ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11502,7 +11502,7 @@
   {
     "id": "16274.1",
     "name": "Hunsberger ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 5,
@@ -11522,7 +11522,7 @@
   {
     "id": "16275.1",
     "name": "Bennett ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 2,
@@ -11542,7 +11542,7 @@
   {
     "id": "16276.1",
     "name": "Van Gorder ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": 4,
@@ -11682,7 +11682,7 @@
   {
     "id": "16301.2",
     "name": "Clayton Academy MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 2,
@@ -11702,7 +11702,7 @@
   {
     "id": "16302.2",
     "name": "Pine MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 1,
@@ -11722,7 +11722,7 @@
   {
     "id": "16303.2",
     "name": "Swope MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 3,
@@ -11742,7 +11742,7 @@
   {
     "id": "16304.2",
     "name": "Vaughn MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 1,
@@ -11762,7 +11762,7 @@
   {
     "id": "16305.2",
     "name": "Traner MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 2,
@@ -11782,7 +11782,7 @@
   {
     "id": "16306.2",
     "name": "Dilworth MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 1,
@@ -11802,7 +11802,7 @@
   {
     "id": "16307.2",
     "name": "Sparks MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 1,
@@ -11822,7 +11822,7 @@
   {
     "id": "16308.2",
     "name": "OBrien MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 1,
@@ -11842,7 +11842,7 @@
   {
     "id": "16309.2",
     "name": "Incline MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 3,
@@ -11862,7 +11862,7 @@
   {
     "id": "16310.2",
     "name": "Billinghurst MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 3,
@@ -11882,7 +11882,7 @@
   {
     "id": "16311.2",
     "name": "Mendive MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 3,
@@ -11922,7 +11922,7 @@
   {
     "id": "16315.2",
     "name": "Depoali MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 5,
@@ -11942,7 +11942,7 @@
   {
     "id": "16316.2",
     "name": "Shaw MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 3,
@@ -11962,7 +11962,7 @@
   {
     "id": "16317.2",
     "name": "Cold Springs MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 1,
@@ -12002,7 +12002,7 @@
   {
     "id": "16319.2",
     "name": "Sky Ranch MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 3,
@@ -12042,7 +12042,7 @@
   {
     "id": "16321.2",
     "name": "Desert Skies MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 2,
@@ -12062,7 +12062,7 @@
   {
     "id": "16322.2",
     "name": "Herz MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": 4,
@@ -12082,7 +12082,7 @@
   {
     "id": "16501.3",
     "name": "Wooster HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 2,
@@ -12102,7 +12102,7 @@
   {
     "id": "16502.3",
     "name": "Reno HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 4,
@@ -12122,7 +12122,7 @@
   {
     "id": "16503.3",
     "name": "Sparks HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 2,
@@ -12142,7 +12142,7 @@
   {
     "id": "16504.3",
     "name": "Hug HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 2,
@@ -12162,7 +12162,7 @@
   {
     "id": "16505.3",
     "name": "Reed HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 3,
@@ -12182,7 +12182,7 @@
   {
     "id": "16508.3",
     "name": "McQueen HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 4,
@@ -12202,7 +12202,7 @@
   {
     "id": "16509.3",
     "name": "Galena HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 5,
@@ -12222,7 +12222,7 @@
   {
     "id": "16601.1",
     "name": "Gerlach K 12 ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "Washoe",
     "starRating": null,
@@ -12242,7 +12242,7 @@
   {
     "id": "16601.2",
     "name": "Gerlach K 12 MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "Washoe",
     "starRating": null,
@@ -12262,7 +12262,7 @@
   {
     "id": "16602.3",
     "name": "Incline HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 5,
@@ -12282,7 +12282,7 @@
   {
     "id": "16603.3",
     "name": "TMCC Magnet HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 5,
@@ -12342,7 +12342,7 @@
   {
     "id": "16606.3",
     "name": "Spanish Springs HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 3,
@@ -12362,7 +12362,7 @@
   {
     "id": "16607.3",
     "name": "North Valleys HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 2,
@@ -12402,7 +12402,7 @@
   {
     "id": "16609.3",
     "name": "Damonte Ranch HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 3,
@@ -12442,7 +12442,7 @@
   {
     "id": "16611.3",
     "name": "Arts Careers Tech HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "Washoe",
     "starRating": 5,
@@ -12462,7 +12462,7 @@
   {
     "id": "17101.1",
     "name": "Lund ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "White Pine",
     "starRating": 1,
@@ -12482,7 +12482,7 @@
   {
     "id": "17103.1",
     "name": "Baker ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "White Pine",
     "starRating": 2,
@@ -12502,7 +12502,7 @@
   {
     "id": "17201.1",
     "name": "Norman ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "White Pine",
     "starRating": 2,
@@ -12522,7 +12522,7 @@
   {
     "id": "17203.1",
     "name": "McGill ES",
-    "type": "Regular",
+    "type": "District",
     "level": "Elementary",
     "county": "White Pine",
     "starRating": 1,
@@ -12542,7 +12542,7 @@
   {
     "id": "17301.2",
     "name": "White Pine MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "White Pine",
     "starRating": 2,
@@ -12562,7 +12562,7 @@
   {
     "id": "17502.3",
     "name": "White Pine HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "White Pine",
     "starRating": 5,
@@ -12582,7 +12582,7 @@
   {
     "id": "17601.2",
     "name": "Lund JSHS MS",
-    "type": "Regular",
+    "type": "District",
     "level": "Middle",
     "county": "White Pine",
     "starRating": 3,
@@ -12602,7 +12602,7 @@
   {
     "id": "17601.3",
     "name": "Lund JSHS HS",
-    "type": "Regular",
+    "type": "District",
     "level": "High",
     "county": "White Pine",
     "starRating": 4,

@@ -4,7 +4,7 @@ import type { FilterState, SchoolType, SchoolLevel, StarRating } from '@/types/s
 import { getMarkerColor } from '@/utils/markerColors'
 import ProximitySearch from './ProximitySearch'
 
-const ALL_TYPES: SchoolType[] = ['Regular', 'Charter']
+const ALL_TYPES: SchoolType[] = ['District', 'Charter']
 const ALL_LEVELS: SchoolLevel[] = ['Elementary', 'Middle', 'High']
 const ALL_STARS: (StarRating | null)[] = [null, 1, 2, 3, 4, 5]
 const ALL_COUNTIES = [
