@@ -428,7 +428,7 @@ for (const row of ratingsRows) {
   if (indexScore === null) { filtered++; continue }
 
   const name = row['School Name'].trim()
-  const schoolType = type === 'District Charter' || type === 'SPCSA' ? 'Charter' : 'Regular'
+  const schoolType = type === 'District Charter' || type === 'SPCSA' ? 'Charter' : 'District'
   const level = inferLevel(name)
 
   // 1. Exact name match
