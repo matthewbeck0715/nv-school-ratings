@@ -60,7 +60,7 @@ export function useSchools(filters: FilterState) {
 
       let distanceMiles: number | null = null
 
-      if (filters.proximity) {
+      if (filters.proximity && filters.proximity.radiusMiles > 0) {
         if (school.lat === null || school.lng === null) continue
         distanceMiles = haversineDistanceMiles(
           filters.proximity.lat,
@@ -69,6 +69,8 @@ export function useSchools(filters: FilterState) {
           school.lng
         )
         if (distanceMiles > filters.proximity.radiusMiles) continue
+      } else if (filters.proximity && filters.proximity.radiusMiles === 0 && filters.zonedSchoolIds) {
+        if (!filters.zonedSchoolIds.includes(school.id)) continue
       }
 
       result.push({ ...school, distanceMiles })

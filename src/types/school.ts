@@ -37,6 +37,7 @@ export interface FilterState {
   starRatings: (StarRating | null)[]
   county: string | null
   proximity: ProximityFilter | null
+  zonedSchoolIds: string[] | null
 }
 
 export interface SchoolWithDistance extends School {

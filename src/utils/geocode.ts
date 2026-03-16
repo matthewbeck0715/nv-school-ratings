@@ -2,6 +2,10 @@ interface NominatimResult {
   lat: string
   lon: string
   display_name: string
+  address?: {
+    house_number?: string
+    road?: string
+  }
 }
 
 export async function geocodeAddress(
@@ -13,6 +17,7 @@ export async function geocodeAddress(
     limit: '1',
     countrycodes: 'us',
     viewbox: '-120.0,42.0,-114.0,35.0',
+    addressdetails: '1',
   })
 
   const res = await fetch(
@@ -30,6 +35,6 @@ export async function geocodeAddress(
   return {
     lat: parseFloat(data[0].lat),
     lng: parseFloat(data[0].lon),
-    label: address,
+    label: [data[0].address?.house_number, data[0].address?.road].filter(Boolean).join(' ') || address.split(',')[0].trim(),
   }
 }

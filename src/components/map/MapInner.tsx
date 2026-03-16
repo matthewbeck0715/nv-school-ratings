@@ -116,7 +116,7 @@ export default function MapInner({ filters, selectedSchool, isVisible }: MapInne
       {proximity && (
         <>
           <RecenterMap lat={proximity.lat} lng={proximity.lng} />
-          <Circle
+          {proximity.radiusMiles > 0 && <Circle
             center={[proximity.lat, proximity.lng]}
             radius={proximity.radiusMiles * MILES_TO_METERS}
             pathOptions={{
@@ -125,7 +125,7 @@ export default function MapInner({ filters, selectedSchool, isVisible }: MapInne
               fillOpacity: 0.08,
               weight: 2,
             }}
-          />
+          />}
           <Marker
             position={[proximity.lat, proximity.lng]}
             icon={createUserLocationIcon()}

@@ -3,7 +3,7 @@
 import { useEffect, useRef } from 'react'
 import { Marker, Popup } from 'react-leaflet'
 import type L from 'leaflet'
-import { createMarkerIcon } from '@/utils/markerColors'
+import { createMarkerIcon, getMarkerColor } from '@/utils/markerColors'
 import type { SchoolWithDistance } from '@/types/school'
 
 interface SchoolMarkerProps {
@@ -48,7 +48,7 @@ export default function SchoolMarker({ school, isSelected }: SchoolMarkerProps) 
           <div className="grid grid-cols-2 gap-x-4 gap-y-1 text-xs mt-0">
             <div>
               <div className="text-gray-400">Stars</div>
-              <div className="font-medium">{school.starRating !== null ? '★'.repeat(school.starRating) : 'NR'}</div>
+              <div className="font-medium" style={{ color: getMarkerColor(school.starRating) }}>{school.starRating !== null ? '★'.repeat(school.starRating) : 'NR'}</div>
             </div>
             <div>
               <div className="text-gray-400">Score</div>

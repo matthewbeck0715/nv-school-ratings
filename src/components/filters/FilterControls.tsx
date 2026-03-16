@@ -50,7 +50,7 @@ export default function FilterControls({ filters, onChange }: FilterControlsProp
   }
 
   function clearAll() {
-    onChange({ search: '', schoolTypes: [], schoolLevels: [], starRatings: [], county: null, proximity: null })
+    onChange({ search: '', schoolTypes: [], schoolLevels: [], starRatings: [], county: null, proximity: null, zonedSchoolIds: null })
   }
 
   return (
@@ -164,14 +164,14 @@ export default function FilterControls({ filters, onChange }: FilterControlsProp
 
         {/* Proximity status */}
         {filters.proximity && (
-          <div className="flex flex-wrap gap-1 items-center">
+          <div className="flex flex-nowrap gap-1 items-center min-w-0">
             <button
-              onClick={() => onChange({ ...filters, proximity: null })}
-              className="text-xs font-bold border rounded px-2.5 py-0.5 bg-blue-600 text-white border-blue-600 hover:bg-blue-700 transition-colors"
+              onClick={() => onChange({ ...filters, proximity: null, zonedSchoolIds: null })}
+              className="text-xs font-bold border rounded px-2.5 py-0.5 bg-blue-600 text-white border-blue-600 hover:bg-blue-700 transition-colors truncate max-w-[160px] sm:max-w-xs"
             >
               {filters.proximity.label}
             </button>
-            {([3, 5, 10] as const).map((r) => (
+            {([0, 3, 5, 10] as const).map((r) => (
               <button
                 key={r}
                 onClick={() => onChange({ ...filters, proximity: { ...filters.proximity!, radiusMiles: r } })}
@@ -181,7 +181,7 @@ export default function FilterControls({ filters, onChange }: FilterControlsProp
                     : 'bg-white text-gray-600 border-gray-300 hover:border-gray-400'
                 }`}
               >
-                {r} mi
+                {r === 0 ? 'Zone' : `${r} mi`}
               </button>
             ))}
           </div>
