@@ -13,6 +13,7 @@ export function getMarkerColor(starRating: StarRating | null): string {
 }
 
 export function createUserLocationIcon() {
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
   const L = require('leaflet')
   return L.divIcon({
     className: '',
@@ -32,6 +33,7 @@ export function createUserLocationIcon() {
 
 export function createMarkerIcon(starRating: StarRating | null) {
   // Use require to avoid top-level import (SSR-safe when called client-side only)
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
   const L = require('leaflet')
   const color = getMarkerColor(starRating)
   return L.divIcon({
