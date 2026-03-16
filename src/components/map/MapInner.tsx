@@ -50,7 +50,7 @@ function FlyToSchool({ school }: { school: School }) {
   const map = useMap()
   useEffect(() => {
     if (school.lat && school.lng) {
-      map.flyTo([school.lat, school.lng], 14)
+      map.flyTo([school.lat, school.lng], 12)
     }
   }, [school, map])
   return null

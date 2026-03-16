@@ -12,7 +12,7 @@ import ProximitySearch from '@/components/filters/ProximitySearch'
 import ProximityStatus from '@/components/filters/ProximityStatus'
 import MapView from '@/components/map/MapView'
 import TableView from '@/components/table/TableView'
-import ProximityResults from '@/components/panel/ProximityResults'
+import FilterResults from '@/components/panel/FilterResults'
 
 const DEFAULT_FILTERS: FilterState = {
   search: '',
@@ -128,29 +128,23 @@ export default function Home() {
 
       {/* Main content */}
       <main className="flex-1 overflow-hidden">
-        {filters.proximity && view === 'map' ? (
-          <div className="flex flex-col sm:flex-row h-full">
+        <div className={view === 'map' ? 'flex flex-col sm:flex-row h-full' : 'hidden'}>
+          {hasActive && (
             <div className="shrink-0 sm:w-1/3 sm:border-r border-gray-200 overflow-y-auto">
-              <ProximityResults
+              <FilterResults
                 filters={filters}
                 onSelectSchool={handleSelectSchool}
                 onZoneResult={(ids) => setFilters((f) => ({ ...f, zonedSchoolIds: ids }))}
               />
             </div>
-            <div className="flex-1 min-h-0">
-              <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} />
-            </div>
+          )}
+          <div className="flex-1 min-h-0">
+            <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} />
           </div>
-        ) : (
-          <>
-            <div className={view === 'map' ? 'h-full' : 'hidden'}>
-              <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} />
-            </div>
-            <div className={view === 'table' ? 'h-full' : 'hidden'}>
-              <TableView filters={filters} onSelectSchool={handleSelectSchool} />
-            </div>
-          </>
-        )}
+        </div>
+        <div className={view === 'table' ? 'h-full' : 'hidden'}>
+          <TableView filters={filters} onSelectSchool={handleSelectSchool} />
+        </div>
       </main>
     </div>
   )

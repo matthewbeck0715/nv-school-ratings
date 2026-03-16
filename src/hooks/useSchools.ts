@@ -78,6 +78,8 @@ export function useSchools(filters: FilterState) {
 
     if (filters.proximity) {
       result.sort((a, b) => (a.distanceMiles ?? 0) - (b.distanceMiles ?? 0))
+    } else {
+      result.sort((a, b) => b.indexScore - a.indexScore)
     }
 
     return result
