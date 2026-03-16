@@ -61,7 +61,7 @@ export default function SchoolZoneCard({ level, school, onSelect }: SchoolZoneCa
     </div>
   ) : (
     <p className="text-xs text-gray-400 leading-snug">
-      No zone found — this address may be outside Clark County or has no zone data.
+      No zone data for this address.
     </p>
   )
 

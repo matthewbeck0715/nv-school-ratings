@@ -11,7 +11,7 @@ export function useSchools(filters: FilterState) {
 
   useEffect(() => {
     const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? ''
-    fetch(`${basePath}/data/nv-schools.json`)
+    fetch(`${basePath}/data/nv-school-data.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`Failed to fetch: ${res.status}`)
         return res.json()

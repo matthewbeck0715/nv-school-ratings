@@ -13,7 +13,7 @@ export function useSchoolZones(enabled: boolean) {
     if (!enabled || cached) return
     setLoading(true)
     const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? ''
-    fetch(`${basePath}/data/school-zones.geojson`)
+    fetch(`${basePath}/data/nv-school-zones.geojson`)
       .then(r => r.json())
       .then(data => {
         cached = data

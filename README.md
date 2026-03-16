@@ -15,7 +15,7 @@ A mobile-friendly data visualization tool for Nevada public school performance d
 
 Performance data comes from the Nevada Department of Education's [Star Rating system](https://nevadareportcard.nv.gov). Location data (coordinates, addresses) is sourced from the NCES Common Core of Data.
 
-The build script (`scripts/build-nv-schools.mjs`) joins the two sources and outputs `public/data/nv-schools.json`.
+The build script (`scripts/build-school-data.mjs`) joins the two sources and outputs `public/data/nv-school-data.json`.
 
 ## Development
 
@@ -36,7 +36,7 @@ npx serve out
 To regenerate the school data after updating source CSVs:
 
 ```bash
-node scripts/build-nv-schools.mjs
+node scripts/build-school-data.mjs
 ```
 
 ## Stack

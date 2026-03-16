@@ -486,7 +486,7 @@ for (const row of ratingsRows) {
 }
 
 // --- Step F: Output ---
-writeFileSync(join(dataDir, 'nv-schools.json'), JSON.stringify(schools, null, 2))
+writeFileSync(join(dataDir, 'nv-school-data.json'), JSON.stringify(schools, null, 2))
 
 console.log(`Done. Kept: ${schools.length}, Filtered: ${filtered}`)
 console.log(`  Exact match: ${exactMatched}, Manual: ${manualMatched}, Auto-match: ${autoMatched}, Unmatched: ${unmatched}`)
