@@ -5,6 +5,7 @@ import type { FilterState, School } from '@/types/school'
 import FilterControls from '@/components/filters/FilterControls'
 import MapView from '@/components/map/MapView'
 import TableView from '@/components/table/TableView'
+import SchoolZoneResults from '@/components/zones/SchoolZoneResults'
 
 const DEFAULT_FILTERS: FilterState = {
   search: '',
@@ -13,13 +14,13 @@ const DEFAULT_FILTERS: FilterState = {
   starRatings: [],
   county: null,
   proximity: null,
+  zonedSchoolIds: null,
 }
 
 export default function Home() {
   const [view, setView] = useState<'map' | 'table'>('map')
   const [filters, setFilters] = useState<FilterState>(DEFAULT_FILTERS)
   const [selectedSchool, setSelectedSchool] = useState<School | null>(null)
-
   function handleSelectSchool(school: School) {
     setSelectedSchool(school)
     setView('map')
@@ -67,6 +68,15 @@ export default function Home() {
 
       {/* Filters */}
       <FilterControls filters={filters} onChange={setFilters} />
+      {filters.proximity && (
+        <div className="hidden sm:block">
+          <SchoolZoneResults
+            proximity={filters.proximity}
+            onSelectSchool={handleSelectSchool}
+            onResult={(ids) => setFilters(f => ({ ...f, zonedSchoolIds: ids }))}
+          />
+        </div>
+      )}
 
       {/* Main content */}
       <main className="flex-1 overflow-hidden">

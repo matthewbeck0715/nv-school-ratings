@@ -21,7 +21,7 @@ export default function ProximitySearch({ proximity, onChange }: ProximitySearch
     setError(null)
     try {
       const result = await geocodeAddress(trimmed)
-      onChange({ ...result, radiusMiles: proximity?.radiusMiles ?? 3 })
+      onChange({ ...result, radiusMiles: proximity?.radiusMiles ?? 0 })
       setAddress('')
     } catch (e) {
       setError(e instanceof Error ? e.message : 'Geocoding failed')
@@ -42,7 +42,7 @@ export default function ProximitySearch({ proximity, onChange }: ProximitySearch
         onChange({
           lat: pos.coords.latitude,
           lng: pos.coords.longitude,
-          radiusMiles: proximity?.radiusMiles ?? 3,
+          radiusMiles: proximity?.radiusMiles ?? 0,
           label: 'My location',
         })
         setSearching(false)
