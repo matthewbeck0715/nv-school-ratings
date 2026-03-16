@@ -5,7 +5,7 @@ import type { FilterState, School } from '@/types/school'
 import FilterControls from '@/components/filters/FilterControls'
 import MapView from '@/components/map/MapView'
 import TableView from '@/components/table/TableView'
-import SchoolZoneResults from '@/components/zones/SchoolZoneResults'
+import ProximityResults from '@/components/zones/ProximityResults'
 
 const DEFAULT_FILTERS: FilterState = {
   search: '',
@@ -68,24 +68,32 @@ export default function Home() {
 
       {/* Filters */}
       <FilterControls filters={filters} onChange={setFilters} />
-      {filters.proximity && (
-        <div className="hidden sm:block">
-          <SchoolZoneResults
-            proximity={filters.proximity}
-            onSelectSchool={handleSelectSchool}
-            onResult={(ids) => setFilters(f => ({ ...f, zonedSchoolIds: ids }))}
-          />
-        </div>
-      )}
 
       {/* Main content */}
       <main className="flex-1 overflow-hidden">
-        <div className={view === 'map' ? 'h-full' : 'hidden'}>
-          <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} />
-        </div>
-        <div className={view === 'table' ? 'h-full' : 'hidden'}>
-          <TableView filters={filters} onSelectSchool={handleSelectSchool} />
-        </div>
+        {filters.proximity && view === 'map' ? (
+          <div className="flex flex-col sm:flex-row h-full">
+            <div className="shrink-0 sm:w-1/3 sm:border-r border-gray-200 overflow-y-auto">
+              <ProximityResults
+                filters={filters}
+                onSelectSchool={handleSelectSchool}
+                onZoneResult={(ids) => setFilters(f => ({ ...f, zonedSchoolIds: ids }))}
+              />
+            </div>
+            <div className="flex-1 min-h-0">
+              <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} />
+            </div>
+          </div>
+        ) : (
+          <>
+            <div className={view === 'map' ? 'h-full' : 'hidden'}>
+              <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} />
+            </div>
+            <div className={view === 'table' ? 'h-full' : 'hidden'}>
+              <TableView filters={filters} onSelectSchool={handleSelectSchool} />
+            </div>
+          </>
+        )}
       </main>
     </div>
   )
