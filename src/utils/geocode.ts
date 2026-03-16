@@ -5,12 +5,21 @@ interface NominatimResult {
   address?: {
     house_number?: string
     road?: string
+    county?: string
+    city?: string
   }
+}
+
+function parseCounty(address?: NominatimResult['address']): string | null {
+  if (!address) return null
+  if (address.county) return address.county.replace(/ County$/, '')
+  if (address.city === 'Carson City') return 'Carson City'
+  return null
 }
 
 export async function geocodeAddress(
   address: string
-): Promise<{ lat: number; lng: number; label: string }> {
+): Promise<{ lat: number; lng: number; label: string; county: string | null }> {
   const params = new URLSearchParams({
     q: `${address}, Nevada`,
     format: 'json',
@@ -36,5 +45,30 @@ export async function geocodeAddress(
     lat: parseFloat(data[0].lat),
     lng: parseFloat(data[0].lon),
     label: [data[0].address?.house_number, data[0].address?.road].filter(Boolean).join(' ') || address.split(',')[0].trim(),
+    county: parseCounty(data[0].address),
   }
+}
+
+export async function reverseGeocode(
+  lat: number,
+  lng: number
+): Promise<{ county: string | null }> {
+  const params = new URLSearchParams({
+    lat: String(lat),
+    lon: String(lng),
+    format: 'json',
+    addressdetails: '1',
+  })
+
+  const res = await fetch(
+    `https://nominatim.openstreetmap.org/reverse?${params}`,
+    {
+      headers: { 'User-Agent': 'nv-school-ratings/1.0' },
+    }
+  )
+
+  if (!res.ok) return { county: null }
+
+  const data: NominatimResult = await res.json()
+  return { county: parseCounty(data.address) }
 }

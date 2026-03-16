@@ -2,11 +2,11 @@
 
 import { useState } from 'react'
 import type { ProximityFilter } from '@/types/school'
-import { geocodeAddress } from '@/utils/geocode'
+import { geocodeAddress, reverseGeocode } from '@/utils/geocode'
 
 interface ProximitySearchProps {
   proximity: ProximityFilter | null
-  onChange: (proximity: ProximityFilter | null) => void
+  onChange: (proximity: ProximityFilter | null, county: string | null) => void
 }
 
 export default function ProximitySearch({ proximity, onChange }: ProximitySearchProps) {
@@ -21,7 +21,7 @@ export default function ProximitySearch({ proximity, onChange }: ProximitySearch
     setError(null)
     try {
       const result = await geocodeAddress(trimmed)
-      onChange({ ...result, radiusMiles: proximity?.radiusMiles ?? 0 })
+      onChange({ ...result, radiusMiles: proximity?.radiusMiles ?? 0 }, result.county)
       setAddress('')
     } catch (e) {
       setError(e instanceof Error ? e.message : 'Geocoding failed')
@@ -38,13 +38,15 @@ export default function ProximitySearch({ proximity, onChange }: ProximitySearch
     setSearching(true)
     setError(null)
     navigator.geolocation.getCurrentPosition(
-      (pos) => {
+      async (pos) => {
+        const { latitude: lat, longitude: lng } = pos.coords
+        const { county } = await reverseGeocode(lat, lng)
         onChange({
-          lat: pos.coords.latitude,
-          lng: pos.coords.longitude,
+          lat,
+          lng,
           radiusMiles: proximity?.radiusMiles ?? 0,
           label: 'My location',
-        })
+        }, county)
         setSearching(false)
       },
       (err) => {

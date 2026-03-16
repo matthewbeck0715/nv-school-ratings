@@ -42,7 +42,7 @@ When the user runs `/pr <branch-name>`, execute the following workflow. Stop and
 - Use `gh pr create` targeting `main` with this format:
 
 ```
-gh pr create --title "<short title>" --body "$(cat <<'EOF'
+gh pr create --title "<short title>" --assignee @me --body "$(cat <<'EOF'
 ## Summary
 <1-3 bullet points describing the changes>
 
