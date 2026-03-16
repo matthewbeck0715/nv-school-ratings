@@ -40,7 +40,7 @@ export default function TableView({ filters, onSelectSchool }: TableViewProps) {
       setSortAsc(true)
       setPage(0)
     }
-  }, [hasProximity]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [hasProximity])
 
   const sorted = useMemo(() => {
     return [...schools].sort((a, b) => {
