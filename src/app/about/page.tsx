@@ -62,7 +62,7 @@ export default function AboutPage() {
         <section className="mb-8">
           <h3 className="text-lg font-semibold text-gray-900 mb-2">Proficiency Metrics</h3>
           <p className="text-gray-700 leading-relaxed">
-            ELA Proficiency, Math Proficiency, and Science Proficiency represent the percentage of
+            ELA Proficiency and Math Proficiency represent the percentage of
             students at a school who met grade-level standards on Nevada state assessments. These
             percentages reflect how well students are performing against established academic
             benchmarks in each subject area.
@@ -86,16 +86,16 @@ export default function AboutPage() {
           <h3 className="text-lg font-semibold text-gray-900 mb-2">Data Source</h3>
           <p className="text-gray-700 leading-relaxed">
             All school performance data is sourced from the Nevada Department of Education (NDE).
-            The most recent data available on this site is from the <strong>2022–23 school year</strong>.
-            For the latest official reports and additional detail, visit NDE&apos;s accountability page:
+            The most recent data available on this site is from the <strong>2024–25 school year</strong>.
+            For the latest official reports and additional detail, visit the Nevada Accountability Portal:
           </p>
           <a
-            href="https://doe.nv.gov/accountability/Accountability_Reports/"
+            href="https://nevadareportcard.nv.gov/di/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-2 text-blue-600 hover:text-blue-800 hover:underline break-all"
           >
-            https://doe.nv.gov/accountability/Accountability_Reports/
+            https://nevadareportcard.nv.gov/di/
           </a>
         </section>
 
