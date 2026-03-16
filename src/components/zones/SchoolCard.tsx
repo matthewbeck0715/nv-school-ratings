@@ -22,7 +22,7 @@ export default function SchoolCard({ school, distanceMiles, onSelect }: SchoolCa
       <div className="flex gap-4 items-start">
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2">
-            <p className="font-semibold text-gray-900 text-sm leading-tight">{school.name}</p>
+            <p className="font-semibold text-gray-900 text-sm leading-tight truncate">{school.name}</p>
             {distanceMiles != null && (
               <span className="text-xs text-gray-400 shrink-0">{distanceMiles.toFixed(1)} mi</span>
             )}
