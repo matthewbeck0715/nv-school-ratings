@@ -38,7 +38,7 @@ export default function Home() {
             height={28}
           />
           <h1 className="text-base font-semibold text-gray-900 leading-tight">
-            NV School Ratings
+            Nevada School Ratings
           </h1>
         </div>
         {/* View toggle */}

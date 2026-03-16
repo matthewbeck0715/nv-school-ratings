@@ -5,7 +5,7 @@ const basePath = process.env.NEXT_PUBLIC_BASE_PATH || ''
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://nevadaschoolratings.com'),
-  title: 'Nevada School Ratings — Star Ratings & Performance Data for Every School',
+  title: 'Nevada School Ratings',
   description:
     'Explore Nevada school star ratings, performance data, and school zone information. Search, filter, and compare schools across the state with interactive maps and tables.',
   keywords: [
