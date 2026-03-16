@@ -28,7 +28,7 @@ export default function SchoolMarker({ school, isSelected }: SchoolMarkerProps) 
       <Popup>
         <div className="min-w-[220px]">
           <div className="flex items-baseline justify-between gap-2">
-            <p className="font-semibold text-sm">{school.name}</p>
+            <p className="font-semibold text-sm truncate min-w-0">{school.name}</p>
             {school.distanceMiles != null && (
               <span className="text-xs font-medium text-gray-500 shrink-0">{school.distanceMiles.toFixed(1)} mi</span>
             )}
