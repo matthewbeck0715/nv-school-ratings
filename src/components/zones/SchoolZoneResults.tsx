@@ -37,7 +37,7 @@ export default function SchoolZoneResults({ proximity, onSelectSchool, onResult 
     </div>
   )
 
-  if (!result) return null
+  if (!result || (!result.Elementary && !result.Middle && !result.High)) return null
 
   return (
     <div className="bg-white border-b border-gray-200 px-4 py-3">
