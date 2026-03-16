@@ -68,7 +68,7 @@ export default function FilterControls({ filters, onChange }: FilterControlsProp
         {/* Address / proximity search */}
         <ProximitySearch
           proximity={filters.proximity}
-          onChange={(proximity) => onChange({ ...filters, proximity })}
+          onChange={(proximity, county) => onChange({ ...filters, proximity, county })}
         />
 
         {/* Clear */}
