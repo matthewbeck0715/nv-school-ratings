@@ -54,7 +54,7 @@ export default function FilterControls({ filters, onChange }: FilterControlsProp
   }
 
   return (
-    <div className="bg-white border-b border-gray-200 px-4 py-3 space-y-3">
+    <div className="px-4 py-3 space-y-3">
       <div className="flex items-center gap-3 flex-wrap">
         {/* School name search */}
         <input

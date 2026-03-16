@@ -18,6 +18,8 @@ export const metadata: Metadata = {
     'Nevada school zones',
     'Clark County schools',
     'Washoe County schools',
+    'Nevada school rating methodology',
+    'about Nevada school ratings',
   ],
   icons: { icon: `${basePath}/favicon.svg` },
   alternates: {
