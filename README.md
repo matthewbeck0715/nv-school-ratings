@@ -1,8 +1,8 @@
-# NV School Ratings
+# Nevada School Ratings
 
 A mobile-friendly data visualization tool for Nevada public school performance data. Browse all rated schools on an interactive map or sortable table, and filter by name, location, star rating, school level, type, and county.
 
-**Live site:** https://matthewbeck0715.github.io/nv-school-ratings/
+**Live site:** https://nevadaschoolratings.com/
 
 ## Features
 
