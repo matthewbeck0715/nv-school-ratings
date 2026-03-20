@@ -81,8 +81,8 @@ export function useSchools(filters: FilterState, { showAll = false } = {}) {
           school.lng
         )
         if (distanceMiles > filters.proximity.radiusMiles) continue
-      } else if (filters.proximity && filters.proximity.radiusMiles === 0 && filters.zonedSchoolIds.length > 0) {
-        if (!filters.zonedSchoolIds.includes(school.id)) continue
+      } else if (filters.proximity && filters.proximity.radiusMiles === 0) {
+        if (filters.zonedSchoolIds.length === 0 || !filters.zonedSchoolIds.includes(school.id)) continue
       }
 
       result.push({ ...school, distanceMiles })
