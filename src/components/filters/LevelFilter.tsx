@@ -19,7 +19,6 @@ export default function LevelFilter({ value, onChange }: LevelFilterProps) {
 
   return (
     <div className="flex flex-wrap gap-1 items-center">
-      <span className="text-xs text-gray-500 font-medium mr-1">Level:</span>
       {ALL_LEVELS.map((level) => {
         const active = value.includes(level)
         return (

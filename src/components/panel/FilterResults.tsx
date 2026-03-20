@@ -7,31 +7,29 @@ import { useSchoolZones } from '@/hooks/useSchoolZones'
 import { findSchoolZonesForPoint, type ZoneLookupResult } from '@/utils/findSchoolZones'
 import SchoolCard from './SchoolCard'
 
-const EMPTY_FILTERS: FilterState = { search: '', schoolTypes: [], schoolLevels: [], starRatings: [], county: null, proximity: null, zonedSchoolIds: null }
 
 interface FilterResultsProps {
   filters: FilterState
   onSelectSchool: (school: School) => void
-  onZoneResult: (ids: string[] | null) => void
+  onZoneResult: (ids: string[]) => void
 }
 
 function ProximityPanel({ filters, onSelectSchool, onZoneResult }: FilterResultsProps) {
   const proximity = filters.proximity!
   const isZone = proximity.radiusMiles === 0
 
-  const { schools: allSchools } = useSchools(EMPTY_FILTERS)
+  const { schools: allSchools } = useSchools({ ...filters, proximity: null, zonedSchoolIds: [] }, { showAll: true })
   const { geojson, loading: zonesLoading } = useSchoolZones(true)
   const [zoneResult, setZoneResult] = useState<ZoneLookupResult | null>(null)
   const onZoneResultRef = useRef(onZoneResult)
   onZoneResultRef.current = onZoneResult
 
   useEffect(() => {
-    onZoneResultRef.current(null)
     if (!geojson || !allSchools.length) return
     const r = findSchoolZonesForPoint(proximity.lat, proximity.lng, geojson as never, allSchools)
     setZoneResult(r)
     const ids = [r.Elementary?.id, r.Middle?.id, r.High?.id].filter((id): id is string => id != null)
-    onZoneResultRef.current(ids.length > 0 ? ids : null)
+    onZoneResultRef.current(ids)
   }, [proximity.lat, proximity.lng, geojson, allSchools])
 
   const { schools: nearbySchools, loading: nearbyLoading } = useSchools(filters)

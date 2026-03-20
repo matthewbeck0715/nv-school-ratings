@@ -37,9 +37,19 @@ export interface FilterState {
   starRatings: (StarRating | null)[]
   county: string | null
   proximity: ProximityFilter | null
-  zonedSchoolIds: string[] | null
+  zonedSchoolIds: string[]
 }
 
 export interface SchoolWithDistance extends School {
   distanceMiles: number | null
+}
+
+export const DEFAULT_FILTERS: FilterState = {
+  search: '',
+  schoolTypes: [],
+  schoolLevels: [],
+  starRatings: [],
+  county: null,
+  proximity: null,
+  zonedSchoolIds: [],
 }

@@ -15,7 +15,6 @@ interface CountyFilterProps {
 export default function CountyFilter({ value, onChange }: CountyFilterProps) {
   return (
     <div className="flex items-center gap-1">
-      <span className="text-xs text-gray-500 font-medium mr-1">County:</span>
       <select
         value={value ?? ''}
         onChange={(e) => onChange(e.target.value || null)}
