@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from 'react'
 import type { FilterState, School } from '@/types/school'
+import { DEFAULT_FILTERS } from '@/types/school'
 import { useSchools } from '@/hooks/useSchools'
 import { useSchoolZones } from '@/hooks/useSchoolZones'
 import { findSchoolZonesForPoint, type ZoneLookupResult } from '@/utils/findSchoolZones'
@@ -18,7 +19,7 @@ function ProximityPanel({ filters, onSelectSchool, onZoneResult }: FilterResults
   const proximity = filters.proximity!
   const isZone = proximity.radiusMiles === 0
 
-  const { schools: allSchools } = useSchools({ ...filters, proximity: null, zonedSchoolIds: [] }, { showAll: true })
+  const { schools: allSchools } = useSchools(DEFAULT_FILTERS, { showAll: true })
   const { geojson, loading: zonesLoading } = useSchoolZones(true)
   const [zoneResult, setZoneResult] = useState<ZoneLookupResult | null>(null)
   const onZoneResultRef = useRef(onZoneResult)
