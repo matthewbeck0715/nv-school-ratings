@@ -1,8 +1,7 @@
 {
   "name": "nv-school-ratings",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Mobile-friendly data visualization website for Nevada school performance data",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -33,9 +32,9 @@
     "@types/react-dom": "^19.2.3",
     "csv-parse": "^6.1.0",
     "eslint": "^9.39.4",
-    "eslint-config-next": "^16.1.6",
     "globals": "^17.4.0",
     "jiti": "^2.6.1",
+    "knip": "^6.0.1",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.57.0"
   }

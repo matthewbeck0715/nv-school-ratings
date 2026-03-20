@@ -19,7 +19,6 @@ export default function TypeFilter({ value, onChange }: TypeFilterProps) {
 
   return (
     <div className="flex flex-wrap gap-1 items-center">
-      <span className="text-xs text-gray-500 font-medium mr-1">Type:</span>
       {ALL_TYPES.map((type) => {
         const active = value.includes(type)
         return (

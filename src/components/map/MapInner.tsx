@@ -41,6 +41,7 @@ const COUNTY_VIEWS: Record<string, { center: [number, number]; zoom: number }> =
 function RecenterMap({ lat, lng }: { lat: number; lng: number }) {
   const map = useMap()
   useEffect(() => {
+    map.invalidateSize()
     map.setView([lat, lng], 12)
   }, [map, lat, lng])
   return null
@@ -50,6 +51,7 @@ function FlyToSchool({ school }: { school: School }) {
   const map = useMap()
   useEffect(() => {
     if (school.lat && school.lng) {
+      map.invalidateSize()
       map.flyTo([school.lat, school.lng], 12)
     }
   }, [school, map])
@@ -69,6 +71,7 @@ function InvalidateOnShow({ isVisible }: { isVisible: boolean }) {
 function CountyFocus({ county }: { county: string | null }) {
   const map = useMap()
   useEffect(() => {
+    map.invalidateSize()
     if (county && COUNTY_VIEWS[county]) {
       const { center, zoom } = COUNTY_VIEWS[county]
       map.flyTo(center, zoom)

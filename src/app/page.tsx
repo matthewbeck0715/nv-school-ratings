@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import type { FilterState, School } from '@/types/school'
+import { DEFAULT_FILTERS } from '@/types/school'
 import SchoolSearch from '@/components/filters/SchoolSearch'
 import CountyFilter from '@/components/filters/CountyFilter'
 import LevelFilter from '@/components/filters/LevelFilter'
@@ -10,19 +11,12 @@ import TypeFilter from '@/components/filters/TypeFilter'
 import StarFilter from '@/components/filters/StarFilter'
 import ProximitySearch from '@/components/filters/ProximitySearch'
 import ProximityStatus from '@/components/filters/ProximityStatus'
+import FilterDrawer from '@/components/filters/FilterDrawer'
+import { useSchools } from '@/hooks/useSchools'
 import MapView from '@/components/map/MapView'
 import TableView from '@/components/table/TableView'
 import FilterResults from '@/components/panel/FilterResults'
 
-const DEFAULT_FILTERS: FilterState = {
-  search: '',
-  schoolTypes: [],
-  schoolLevels: [],
-  starRatings: [],
-  county: null,
-  proximity: null,
-  zonedSchoolIds: null,
-}
 
 export default function Home() {
   const [view, setView] = useState<'map' | 'table'>('map')
@@ -41,6 +35,15 @@ export default function Home() {
     filters.starRatings.length > 0 ||
     filters.county !== null ||
     filters.proximity !== null
+
+  const { schools: filteredSchools } = useSchools(filters)
+
+  const filterCount =
+    filters.schoolTypes.length +
+    filters.schoolLevels.length +
+    filters.starRatings.length +
+    (filters.county !== null ? 1 : 0) +
+    (filters.proximity !== null ? 1 : 0)
 
   function clearFilters() {
     setFilters(DEFAULT_FILTERS)
@@ -74,15 +77,11 @@ export default function Home() {
             value={filters.search}
             onChange={(search) => setFilters((f) => ({ ...f, search }))}
           />
+
           <ProximitySearch
             proximity={filters.proximity}
             onChange={(proximity, county) => setFilters((f) => ({ ...f, proximity, county }))}
           />
-          {hasActive && (
-            <button onClick={clearFilters} className="text-sm text-blue-600 hover:underline whitespace-nowrap">
-              Clear filters
-            </button>
-          )}
           <div className="flex rounded-lg border border-gray-300 overflow-hidden text-sm shrink-0 ml-auto">
             <button
               onClick={() => setView('map')}
@@ -99,38 +98,73 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Row 2: filter pills */}
-        <div className="flex flex-wrap gap-4">
-          <CountyFilter
-            value={filters.county}
-            onChange={(county) => setFilters((f) => ({ ...f, county }))}
-          />
-          <LevelFilter
-            value={filters.schoolLevels}
-            onChange={(schoolLevels) => setFilters((f) => ({ ...f, schoolLevels }))}
-          />
-          <TypeFilter
-            value={filters.schoolTypes}
-            onChange={(schoolTypes) => setFilters((f) => ({ ...f, schoolTypes }))}
-          />
-          <StarFilter
-            value={filters.starRatings}
-            onChange={(starRatings) => setFilters((f) => ({ ...f, starRatings }))}
-          />
-          {filters.proximity && (
-            <ProximityStatus
-              proximity={filters.proximity}
-              onChange={(proximity, zonedSchoolIds) => setFilters((f) => ({ ...f, proximity, zonedSchoolIds }))}
+        {/* Row 2: filter pills — desktop only */}
+        <div className="hidden sm:flex flex-wrap gap-4">
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">County</span>
+            <CountyFilter
+              value={filters.county}
+              onChange={(county) => setFilters((f) => ({ ...f, county }))}
             />
+          </div>
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Level</span>
+            <LevelFilter
+              value={filters.schoolLevels}
+              onChange={(schoolLevels) => setFilters((f) => ({ ...f, schoolLevels }))}
+            />
+          </div>
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Type</span>
+            <TypeFilter
+              value={filters.schoolTypes}
+              onChange={(schoolTypes) => setFilters((f) => ({ ...f, schoolTypes }))}
+            />
+          </div>
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Stars</span>
+            <StarFilter
+              value={filters.starRatings}
+              onChange={(starRatings) => setFilters((f) => ({ ...f, starRatings }))}
+            />
+          </div>
+          {filters.proximity && (
+            <div className="flex flex-col gap-1">
+              <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Distance</span>
+              <ProximityStatus
+                proximity={filters.proximity}
+                onChange={(proximity) => setFilters((f) => ({ ...f, proximity, zonedSchoolIds: proximity === null ? [] : f.zonedSchoolIds }))}
+              />
+            </div>
+          )}
+          {hasActive && (
+            <div className="flex flex-col gap-1">
+              <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide invisible">Clear</span>
+              <button
+                onClick={clearFilters}
+                className="px-2.5 py-0.5 rounded text-xs font-bold border bg-white text-gray-600 border-gray-300 hover:border-gray-400 transition-colors"
+              >
+                Clear All
+              </button>
+            </div>
           )}
         </div>
       </div>
 
+      {/* Mobile filter drawer — always mounted, manages its own open/close */}
+      <FilterDrawer
+        filters={filters}
+        onChange={setFilters}
+        onClear={clearFilters}
+        filterCount={filterCount}
+        schoolCount={filteredSchools.length}
+      />
+
       {/* Main content */}
       <main className="flex-1 overflow-hidden">
-        <div className={view === 'map' ? 'flex flex-col sm:flex-row h-full' : 'hidden'}>
+        <div className={view === 'map' ? 'flex sm:flex-row h-full' : 'hidden'}>
           {hasActive && (
-            <div className="shrink-0 sm:w-1/3 sm:border-r border-gray-200 overflow-y-auto">
+            <div className="hidden sm:block shrink-0 sm:w-1/3 sm:border-r border-gray-200 overflow-y-auto">
               <FilterResults
                 filters={filters}
                 onSelectSchool={handleSelectSchool}

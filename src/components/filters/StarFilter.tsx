@@ -20,7 +20,6 @@ export default function StarFilter({ value, onChange }: StarFilterProps) {
 
   return (
     <div className="flex flex-wrap gap-1 items-center">
-      <span className="text-xs text-gray-500 font-medium mr-1">Stars:</span>
       {ALL_STARS.map((star) => {
         const active = value.includes(star)
         const color = getMarkerColor(star)
@@ -29,7 +28,7 @@ export default function StarFilter({ value, onChange }: StarFilterProps) {
             key={star ?? 'nr'}
             onClick={() => toggle(star)}
             title={star !== null ? `${star} star${star !== 1 ? 's' : ''}` : 'Not Rated'}
-            className={`w-8 h-7 rounded text-xs font-bold border transition-colors ${
+            className={`w-8 py-0.5 rounded text-xs font-bold border transition-colors ${
               active ? 'text-white border-transparent' : 'bg-white border-gray-300 hover:border-gray-400'
             }`}
             style={active ? { backgroundColor: color, borderColor: color } : { color }}
