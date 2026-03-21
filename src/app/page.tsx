@@ -70,30 +70,39 @@ export default function Home() {
       </header>
 
       {/* Filter bar */}
-      <div className="bg-white border-b border-gray-200 px-4 py-3 space-y-3 shrink-0">
+      <div className="bg-white border-b border-gray-200 px-4 py-3 sm:space-y-3 shrink-0">
         {/* Row 1: search + proximity + clear + view toggle */}
         <div className="flex items-center gap-3 flex-wrap">
-          <SchoolSearch
-            value={filters.search}
-            onChange={(search) => setFilters((f) => ({ ...f, search }))}
-          />
+          <div className="hidden sm:flex sm:flex-col sm:gap-1">
+            <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">School</span>
+            <SchoolSearch
+              value={filters.search}
+              onChange={(search) => setFilters((f) => ({ ...f, search }))}
+            />
+          </div>
 
-          <ProximitySearch
-            proximity={filters.proximity}
-            onChange={(proximity, county) => setFilters((f) => ({ ...f, proximity, county }))}
-          />
-          <div className="flex rounded-lg border border-gray-300 overflow-hidden text-sm shrink-0 ml-auto">
+          <div className="hidden sm:flex sm:flex-col sm:gap-1">
+            <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Address</span>
+            <div className="flex items-center gap-3">
+              <ProximitySearch
+                proximity={filters.proximity}
+                onChange={(proximity, county) => setFilters((f) => ({ ...f, proximity, county }))}
+              />
+            </div>
+          </div>
+          <div className="flex rounded border border-gray-300 overflow-hidden shrink-0 ml-auto">
             <button
               onClick={() => setView('map')}
-              className={`px-3 py-1.5 transition-colors ${view === 'map' ? 'bg-blue-600 text-white' : 'bg-white text-gray-600 hover:bg-gray-50'}`}
+              className={`px-2.5 py-0.5 text-xs font-bold transition-colors ${view === 'map' ? 'bg-blue-600 text-white' : 'bg-white text-gray-600 hover:border-gray-400'}`}
             >
               Map
             </button>
             <button
               onClick={() => { setView('table'); setSelectedSchool(null) }}
-              className={`px-3 py-1.5 border-l border-gray-300 transition-colors ${view === 'table' ? 'bg-blue-600 text-white' : 'bg-white text-gray-600 hover:bg-gray-50'}`}
+              className={`px-2.5 py-0.5 text-xs font-bold border-l border-gray-300 transition-colors ${view === 'table' ? 'bg-blue-600 text-white' : 'bg-white text-gray-600 hover:border-gray-400'}`}
             >
-              Table
+              <span className="sm:hidden">List</span>
+              <span className="hidden sm:inline">Table</span>
             </button>
           </div>
         </div>
@@ -177,7 +186,18 @@ export default function Home() {
           </div>
         </div>
         <div className={view === 'table' ? 'h-full' : 'hidden'}>
-          <TableView filters={filters} onSelectSchool={handleSelectSchool} />
+          {/* Desktop: full table */}
+          <div className="hidden sm:block h-full">
+            <TableView filters={filters} onSelectSchool={handleSelectSchool} />
+          </div>
+          {/* Mobile: scrollable card list */}
+          <div className="sm:hidden h-full overflow-y-auto">
+            <FilterResults
+              filters={filters}
+              onSelectSchool={handleSelectSchool}
+              onZoneResult={(ids) => setFilters((f) => ({ ...f, zonedSchoolIds: ids }))}
+            />
+          </div>
         </div>
       </main>
     </div>
