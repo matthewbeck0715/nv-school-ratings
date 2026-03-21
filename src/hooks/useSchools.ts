@@ -4,7 +4,7 @@ import { useState, useEffect, useMemo } from 'react'
 import type { School, FilterState, SchoolWithDistance } from '@/types/school'
 import { haversineDistanceMiles } from '@/utils/haversine'
 
-export function useSchools(filters: FilterState, { showAll = false } = {}) {
+export function useSchools(filters: FilterState) {
   const [schools, setSchools] = useState<School[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
@@ -27,18 +27,6 @@ export function useSchools(filters: FilterState, { showAll = false } = {}) {
   }, [])
 
   const filtered = useMemo(() => {
-    const hasFilters =
-      filters.search !== '' ||
-      filters.schoolTypes.length > 0 ||
-      filters.schoolLevels.length > 0 ||
-      filters.starRatings.length > 0 ||
-      filters.county !== null ||
-      filters.proximity !== null ||
-      filters.zonedSchoolIds.length > 0
-
-
-    if (!showAll && !hasFilters) return []
-
     const result: SchoolWithDistance[] = []
 
     for (const school of schools) {
