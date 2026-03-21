@@ -116,7 +116,7 @@ export default function TableView({ filters, onSelectSchool }: TableViewProps) {
             {pageSlice.length === 0 ? (
               <tr>
                 <td colSpan={colCount} className="px-4 py-8 text-center text-gray-400">
-                  No schools match your filters.
+                  No schools matched
                 </td>
               </tr>
             ) : (
@@ -176,7 +176,7 @@ export default function TableView({ filters, onSelectSchool }: TableViewProps) {
           </div>
           {/* Desktop: count label on left. Hidden on mobile. */}
           <span className="hidden sm:inline text-gray-500">
-            {sorted.length} schools{totalPages > 1 && ` · Page ${page + 1} of ${totalPages}`}
+            {sorted.length === 0 ? 'No' : sorted.length} {sorted.length === 1 ? 'school' : 'schools'} matched{totalPages > 1 && ` · Page ${page + 1} of ${totalPages}`}
           </span>
           {/* Right: size selector (desktop only) + Prev/Next */}
           <div className="flex items-center gap-3">

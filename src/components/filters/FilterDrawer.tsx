@@ -2,6 +2,8 @@
 
 import { useState, useEffect } from 'react'
 import type { FilterState } from '@/types/school'
+import SchoolSearch from './SchoolSearch'
+import ProximitySearch from './ProximitySearch'
 import CountyFilter from './CountyFilter'
 import LevelFilter from './LevelFilter'
 import TypeFilter from './TypeFilter'
@@ -34,8 +36,8 @@ export default function FilterDrawer({ filters, onChange, onClear, filterCount, 
       )}
 
       <div
-        className="fixed bottom-0 left-0 right-0 z-50 bg-white rounded-t-2xl shadow-xl sm:hidden flex flex-col overflow-hidden max-h-[85vh] transition-transform duration-300 ease-out"
-        style={{ transform: isOpen ? 'translateY(0)' : 'translateY(calc(100% - 4.5rem))' }}
+        className="fixed bottom-0 left-0 right-0 z-50 bg-white rounded-t-2xl sm:hidden flex flex-col overflow-hidden max-h-[85vh] transition-transform duration-300 ease-out"
+        style={{ transform: isOpen ? 'translateY(0)' : 'translateY(calc(100% - 4.5rem))', boxShadow: '0 -3px 10px rgba(0, 0, 0, 0.1)' }}
       >
         {/* Drag handle + header row */}
         <div
@@ -63,7 +65,7 @@ export default function FilterDrawer({ filters, onChange, onClear, filterCount, 
                 </svg>
               </button>
             ) : (
-              <span className="text-sm text-gray-600">{schoolCount} schools</span>
+              <span className="text-sm text-gray-600">{schoolCount === 0 ? 'No' : schoolCount} {schoolCount === 1 ? 'school' : 'schools'} matched</span>
             )}
           </div>
         </div>
@@ -72,6 +74,24 @@ export default function FilterDrawer({ filters, onChange, onClear, filterCount, 
 
         {/* Scrollable body */}
         <div className="overflow-y-auto px-4 py-4 space-y-6">
+
+          <section>
+            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">School</p>
+            <SchoolSearch
+              value={filters.search}
+              onChange={(search) => onChange({ ...filters, search })}
+            />
+          </section>
+
+          <section>
+            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">Address</p>
+            <div className="flex flex-wrap items-center gap-2">
+              <ProximitySearch
+                proximity={filters.proximity}
+                onChange={(proximity, county) => onChange({ ...filters, proximity: proximity ?? null, county: county ?? filters.county })}
+              />
+            </div>
+          </section>
 
           {filters.proximity && (
             <section>
@@ -131,7 +151,7 @@ export default function FilterDrawer({ filters, onChange, onClear, filterCount, 
             onClick={() => setIsOpen(false)}
             className="flex-1 py-2.5 text-sm font-semibold text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors"
           >
-            View {schoolCount} schools
+            View {schoolCount} {schoolCount === 1 ? 'School' : 'Schools'}
           </button>
         </div>
 

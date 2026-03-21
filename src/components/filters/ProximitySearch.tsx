@@ -65,7 +65,7 @@ export default function ProximitySearch({ proximity, onChange }: ProximitySearch
         onChange={(e) => setAddress(e.target.value)}
         onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
         disabled={searching}
-        className="border border-gray-300 rounded px-3 py-1.5 text-sm flex-1 min-w-[160px] max-w-xs focus:outline-none focus:ring-2 focus:ring-blue-400 disabled:opacity-50"
+        className="border border-gray-300 rounded px-3 py-1.5 text-sm flex-1 min-w-[160px] max-w-md focus:outline-none focus:ring-2 focus:ring-blue-400 disabled:opacity-50"
       />
       <button
         onClick={handleSearch}

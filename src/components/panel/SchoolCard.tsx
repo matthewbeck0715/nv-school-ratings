@@ -19,15 +19,18 @@ export default function SchoolCard({ school, distanceMiles, onSelect }: SchoolCa
       onClick={() => onSelect(school)}
       className="rounded-lg border border-gray-200 p-3 bg-white text-left hover:border-blue-400 hover:shadow-sm transition-colors"
     >
+      {/* Title row */}
+      <div className="flex items-baseline gap-2 mb-1">
+        <p className="font-semibold text-gray-900 text-sm leading-tight">{school.name}</p>
+        {distanceMiles != null && (
+          <span className="text-xs text-gray-400 shrink-0">{distanceMiles.toFixed(1)} mi</span>
+        )}
+      </div>
+
+      {/* Details + metrics */}
       <div className="flex gap-4 items-start">
         <div className="flex-1 min-w-0">
-          <div className="flex items-center gap-2">
-            <p className="font-semibold text-gray-900 text-sm leading-tight truncate">{school.name}</p>
-            {distanceMiles != null && (
-              <span className="text-xs text-gray-400 shrink-0">{distanceMiles.toFixed(1)} mi</span>
-            )}
-          </div>
-          <p className="text-xs text-gray-500 mt-0.5">{school.level} · {school.type}</p>
+          <p className="text-xs text-gray-500">{school.level} · {school.type}</p>
           {school.address && school.city && (
             <a
               href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${school.name}, ${school.address}, ${school.city}, NV ${school.zip ?? ''}`.trim())}`}
