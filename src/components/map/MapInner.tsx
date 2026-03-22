@@ -5,40 +5,22 @@ import { MapContainer, TileLayer, Marker, Circle, useMap } from 'react-leaflet'
 import { useCallback, useEffect } from 'react'
 import { useSchools } from '@/hooks/useSchools'
 import { createUserLocationIcon } from '@/utils/markerColors'
+import { COUNTY_VIEWS } from '@/utils/countyViews'
 import type { FilterState, School } from '@/types/school'
-import SchoolMarker from './SchoolMarker'
 import ZoneBoundaries from './ZoneBoundaries'
+import CountyClusterMarkers from './CountyClusterMarkers'
 
 interface MapInnerProps {
   filters: FilterState
   selectedSchool?: School | null
   isVisible?: boolean
   onSelectSchool?: (school: School) => void
+  onCountyFilter?: (county: string) => void
 }
 
 const NEVADA_CENTER: [number, number] = [38.8, -116.8]
 const MILES_TO_METERS = 1609.344
 
-// County seat coordinates
-const COUNTY_VIEWS: Record<string, { center: [number, number]; zoom: number }> = {
-  'Carson City':  { center: [39.164,  -119.767], zoom: 12 }, // Carson City
-  'Churchill':    { center: [39.474,  -118.777], zoom: 12 }, // Fallon
-  'Clark':        { center: [36.170,  -115.139], zoom: 11 }, // Las Vegas
-  'Douglas':      { center: [38.954,  -119.767], zoom: 12 }, // Minden
-  'Elko':         { center: [40.832,  -115.763], zoom: 12 }, // Elko
-  'Esmeralda':    { center: [37.707,  -117.232], zoom: 13 }, // Goldfield
-  'Eureka':       { center: [39.512,  -115.961], zoom: 13 }, // Eureka
-  'Humboldt':     { center: [40.973,  -117.736], zoom: 12 }, // Winnemucca
-  'Lander':       { center: [40.641,  -116.934], zoom: 12 }, // Battle Mountain
-  'Lincoln':      { center: [37.931,  -114.453], zoom: 13 }, // Pioche
-  'Lyon':         { center: [38.987,  -119.163], zoom: 12 }, // Yerington
-  'Mineral':      { center: [38.524,  -118.625], zoom: 12 }, // Hawthorne
-  'Nye':          { center: [38.068,  -117.230], zoom: 12 }, // Tonopah
-  'Pershing':     { center: [40.180,  -118.474], zoom: 12 }, // Lovelock
-  'Storey':       { center: [39.310,  -119.648], zoom: 13 }, // Virginia City
-  'Washoe':       { center: [39.530,  -119.814], zoom: 11 }, // Reno
-  'White Pine':   { center: [39.248,  -114.893], zoom: 12 }, // Ely
-}
 
 function RecenterMap({ lat, lng }: { lat: number; lng: number }) {
   const map = useMap()
@@ -88,7 +70,7 @@ function CountyFocus({ county }: { county: string | null }) {
   return null
 }
 
-export default function MapInner({ filters, selectedSchool, isVisible, onSelectSchool }: MapInnerProps) {
+export default function MapInner({ filters, selectedSchool, isVisible, onSelectSchool, onCountyFilter }: MapInnerProps) {
   const { schools, loading, error } = useSchools(filters)
 
   const handleZoneClick = useCallback((schoolId: string) => {
@@ -150,9 +132,13 @@ export default function MapInner({ filters, selectedSchool, isVisible, onSelectS
       {proximity && proximity.radiusMiles === 0 && filters.zonedSchoolIds.length > 0 && (
         <ZoneBoundaries zonedSchoolIds={filters.zonedSchoolIds} selectedSchoolId={selectedSchool?.id ?? null} onZoneClick={handleZoneClick} />
       )}
-      {schools.map((school) => (
-        <SchoolMarker key={school.id} school={school} isSelected={selectedSchool?.id === school.id} onSelect={onSelectSchool} />
-      ))}
+      <CountyClusterMarkers
+        schools={schools}
+        selectedSchool={selectedSchool}
+        onSelectSchool={onSelectSchool}
+        forceIndividual={!!filters.county || !!filters.proximity}
+        onCountyFilter={onCountyFilter}
+      />
     </MapContainer>
   )
 }

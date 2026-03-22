@@ -12,3 +12,15 @@ button:not(:disabled) {
 .leaflet-popup-content p {
   margin: 0 !important;
 }
+
+.county-label {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  color: #312e81;
+  font-weight: 600;
+  font-size: 12px;
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 1px 1px 2px white, -1px -1px 2px white, 1px -1px 2px white, -1px 1px 2px white;
+}

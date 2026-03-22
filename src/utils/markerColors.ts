@@ -1,3 +1,4 @@
+import type L from 'leaflet'
 import type { SchoolLevel, StarRating } from '@/types/school'
 
 const STAR_COLORS: Record<StarRating, string> = {
@@ -12,10 +13,13 @@ export function getMarkerColor(starRating: StarRating | null): string {
   return starRating !== null ? STAR_COLORS[starRating] : '#9ca3af'
 }
 
-export function createUserLocationIcon() {
+let userLocationIconCache: L.DivIcon | undefined
+
+export function createUserLocationIcon(): L.DivIcon {
+  if (userLocationIconCache) return userLocationIconCache
   // eslint-disable-next-line @typescript-eslint/no-require-imports
   const L = require('leaflet')
-  return L.divIcon({
+  const icon: L.DivIcon = L.divIcon({
     className: '',
     html: `<div style="
       width: 18px;
@@ -29,6 +33,8 @@ export function createUserLocationIcon() {
     iconAnchor: [9, 9],
     popupAnchor: [0, -12],
   })
+  userLocationIconCache = icon
+  return icon
 }
 
 const ZONE_BOUNDARY_COLORS: Record<SchoolLevel, string> = {
@@ -41,12 +47,16 @@ export function getZoneBoundaryColor(level: SchoolLevel): string {
   return ZONE_BOUNDARY_COLORS[level] ?? '#6b7280'
 }
 
+const markerIconCache = new Map<StarRating | null, L.DivIcon>()
+
 export function createMarkerIcon(starRating: StarRating | null) {
+  const cached = markerIconCache.get(starRating)
+  if (cached) return cached
   // Use require to avoid top-level import (SSR-safe when called client-side only)
   // eslint-disable-next-line @typescript-eslint/no-require-imports
   const L = require('leaflet')
   const color = getMarkerColor(starRating)
-  return L.divIcon({
+  const icon = L.divIcon({
     className: '',
     html: `<div style="
       width: 28px;
@@ -67,4 +77,6 @@ export function createMarkerIcon(starRating: StarRating | null) {
     iconAnchor: [14, 14],
     popupAnchor: [0, -16],
   })
+  markerIconCache.set(starRating, icon)
+  return icon
 }
