@@ -35,12 +35,7 @@ function FlyToSchool({ school }: { school: School }) {
   const map = useMap()
   useEffect(() => {
     if (school.lat && school.lng) {
-      const target: [number, number] = [school.lat, school.lng]
-      if (map.getZoom() === 12) {
-        map.panTo(target, { animate: true, duration: 0.5 })
-      } else {
-        map.flyTo(target, 12)
-      }
+      map.flyTo([school.lat, school.lng], 12)
     }
   }, [school, map])
   return null
