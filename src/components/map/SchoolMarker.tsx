@@ -9,9 +9,10 @@ import type { SchoolWithDistance } from '@/types/school'
 interface SchoolMarkerProps {
   school: SchoolWithDistance
   isSelected?: boolean
+  onSelect?: (school: SchoolWithDistance) => void
 }
 
-export default function SchoolMarker({ school, isSelected }: SchoolMarkerProps) {
+export default function SchoolMarker({ school, isSelected, onSelect }: SchoolMarkerProps) {
   const icon = createMarkerIcon(school.starRating)
   const markerRef = useRef<L.Marker>(null)
 
@@ -24,7 +25,7 @@ export default function SchoolMarker({ school, isSelected }: SchoolMarkerProps) 
   if (school.lat === null || school.lng === null) return null
 
   return (
-    <Marker ref={markerRef} position={[school.lat, school.lng]} icon={icon}>
+    <Marker ref={markerRef} position={[school.lat, school.lng]} icon={icon} eventHandlers={{ click: () => onSelect?.(school) }}>
       <Popup>
         <div className="min-w-[220px]">
           <div className="flex items-baseline justify-between gap-2">
