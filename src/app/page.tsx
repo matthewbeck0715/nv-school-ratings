@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useCallback, useState } from 'react'
 import Link from 'next/link'
 import type { FilterState, School } from '@/types/school'
 import { DEFAULT_FILTERS } from '@/types/school'
@@ -23,10 +23,10 @@ export default function Home() {
   const [filters, setFilters] = useState<FilterState>(DEFAULT_FILTERS)
   const [selectedSchool, setSelectedSchool] = useState<School | null>(null)
 
-  function handleSelectSchool(school: School) {
+  const handleSelectSchool = useCallback((school: School) => {
     setSelectedSchool(school)
     setView('map')
-  }
+  }, [])
 
   const hasActive =
     filters.search !== '' ||
@@ -182,7 +182,7 @@ export default function Home() {
             </div>
           )}
           <div className="flex-1 min-h-0">
-            <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} onSelectSchool={handleSelectSchool} />
+            <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} onSelectSchool={handleSelectSchool} onCountyFilter={(county) => setFilters((f) => ({ ...f, county }))} />
           </div>
         </div>
         <div className={view === 'table' ? 'h-full' : 'hidden'}>

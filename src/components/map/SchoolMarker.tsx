@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef } from 'react'
+import React, { useEffect, useRef } from 'react'
 import { Marker, Popup } from 'react-leaflet'
 import type L from 'leaflet'
 import { createMarkerIcon, getMarkerColor } from '@/utils/markerColors'
@@ -12,7 +12,7 @@ interface SchoolMarkerProps {
   onSelect?: (school: SchoolWithDistance) => void
 }
 
-export default function SchoolMarker({ school, isSelected, onSelect }: SchoolMarkerProps) {
+export default React.memo(function SchoolMarker({ school, isSelected, onSelect }: SchoolMarkerProps) {
   const icon = createMarkerIcon(school.starRating)
   const markerRef = useRef<L.Marker>(null)
 
@@ -76,4 +76,8 @@ export default function SchoolMarker({ school, isSelected, onSelect }: SchoolMar
       </Popup>
     </Marker>
   )
-}
+}, (prev, next) =>
+  prev.school.id === next.school.id
+  && prev.isSelected === next.isSelected
+  && prev.onSelect === next.onSelect
+)
