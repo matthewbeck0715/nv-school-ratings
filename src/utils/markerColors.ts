@@ -1,4 +1,4 @@
-import type { StarRating } from '@/types/school'
+import type { SchoolLevel, StarRating } from '@/types/school'
 
 const STAR_COLORS: Record<StarRating, string> = {
   1: '#ef4444', // red
@@ -29,6 +29,16 @@ export function createUserLocationIcon() {
     iconAnchor: [9, 9],
     popupAnchor: [0, -12],
   })
+}
+
+const ZONE_BOUNDARY_COLORS: Record<SchoolLevel, string> = {
+  Elementary: '#3b82f6', // blue
+  Middle: '#f59e0b',     // amber
+  High: '#10b981',       // emerald
+}
+
+export function getZoneBoundaryColor(level: SchoolLevel): string {
+  return ZONE_BOUNDARY_COLORS[level] ?? '#6b7280'
 }
 
 export function createMarkerIcon(starRating: StarRating | null) {

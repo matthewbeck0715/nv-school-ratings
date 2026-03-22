@@ -182,7 +182,7 @@ export default function Home() {
             </div>
           )}
           <div className="flex-1 min-h-0">
-            <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} />
+            <MapView filters={filters} selectedSchool={selectedSchool} isVisible={view === 'map'} onSelectSchool={handleSelectSchool} />
           </div>
         </div>
         <div className={view === 'table' ? 'h-full' : 'hidden'}>

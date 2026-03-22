@@ -14,12 +14,13 @@ interface MapViewProps {
   filters: FilterState
   selectedSchool?: School | null
   isVisible?: boolean
+  onSelectSchool?: (school: School) => void
 }
 
-export default function MapView({ filters, selectedSchool, isVisible }: MapViewProps) {
+export default function MapView({ filters, selectedSchool, isVisible, onSelectSchool }: MapViewProps) {
   return (
     <div className="w-full h-full">
-      <MapInner filters={filters} selectedSchool={selectedSchool} isVisible={isVisible} />
+      <MapInner filters={filters} selectedSchool={selectedSchool} isVisible={isVisible} onSelectSchool={onSelectSchool} />
     </div>
   )
 }

@@ -2,16 +2,18 @@
 
 import 'leaflet/dist/leaflet.css'
 import { MapContainer, TileLayer, Marker, Circle, useMap } from 'react-leaflet'
-import { useEffect } from 'react'
+import { useCallback, useEffect } from 'react'
 import { useSchools } from '@/hooks/useSchools'
 import { createUserLocationIcon } from '@/utils/markerColors'
 import type { FilterState, School } from '@/types/school'
 import SchoolMarker from './SchoolMarker'
+import ZoneBoundaries from './ZoneBoundaries'
 
 interface MapInnerProps {
   filters: FilterState
   selectedSchool?: School | null
   isVisible?: boolean
+  onSelectSchool?: (school: School) => void
 }
 
 const NEVADA_CENTER: [number, number] = [38.8, -116.8]
@@ -51,8 +53,12 @@ function FlyToSchool({ school }: { school: School }) {
   const map = useMap()
   useEffect(() => {
     if (school.lat && school.lng) {
-      map.invalidateSize()
-      map.flyTo([school.lat, school.lng], 12)
+      const target: [number, number] = [school.lat, school.lng]
+      if (map.getZoom() === 12) {
+        map.panTo(target, { animate: true, duration: 0.5 })
+      } else {
+        map.flyTo(target, 12)
+      }
     }
   }, [school, map])
   return null
@@ -82,8 +88,14 @@ function CountyFocus({ county }: { county: string | null }) {
   return null
 }
 
-export default function MapInner({ filters, selectedSchool, isVisible }: MapInnerProps) {
+export default function MapInner({ filters, selectedSchool, isVisible, onSelectSchool }: MapInnerProps) {
   const { schools, loading, error } = useSchools(filters)
+
+  const handleZoneClick = useCallback((schoolId: string) => {
+    if (!onSelectSchool) return
+    const school = schools.find(s => s.id === schoolId)
+    if (school) onSelectSchool(school)
+  }, [schools, onSelectSchool])
   const proximity = filters.proximity
 
   if (loading) {
@@ -135,8 +147,11 @@ export default function MapInner({ filters, selectedSchool, isVisible }: MapInne
           />
         </>
       )}
+      {proximity && proximity.radiusMiles === 0 && filters.zonedSchoolIds.length > 0 && (
+        <ZoneBoundaries zonedSchoolIds={filters.zonedSchoolIds} selectedSchoolId={selectedSchool?.id ?? null} onZoneClick={handleZoneClick} />
+      )}
       {schools.map((school) => (
-        <SchoolMarker key={school.id} school={school} isSelected={selectedSchool?.id === school.id} />
+        <SchoolMarker key={school.id} school={school} isSelected={selectedSchool?.id === school.id} onSelect={onSelectSchool} />
       ))}
     </MapContainer>
   )
