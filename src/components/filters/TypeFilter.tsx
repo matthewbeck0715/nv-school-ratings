@@ -2,7 +2,7 @@
 
 import type { SchoolType } from '@/types/school'
 
-const ALL_TYPES: SchoolType[] = ['District', 'Charter']
+const ALL_TYPES: SchoolType[] = ['District', 'Charter', 'Magnet']
 
 interface TypeFilterProps {
   value: SchoolType[]
