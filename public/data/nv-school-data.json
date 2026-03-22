@@ -342,7 +342,7 @@
   {
     "id": "02073.1",
     "name": "Heard ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -382,7 +382,7 @@
   {
     "id": "02075.1",
     "name": "NWCTA ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": null,
@@ -1742,7 +1742,7 @@
   {
     "id": "02145.1",
     "name": "Piggott ACAD ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -2462,7 +2462,7 @@
   {
     "id": "02181.1",
     "name": "Gehring ACAD ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -2882,7 +2882,7 @@
   {
     "id": "02202.1",
     "name": "Hoggard ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -2962,7 +2962,7 @@
   {
     "id": "02206.1",
     "name": "Gilbert ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3162,7 +3162,7 @@
   {
     "id": "02217.1",
     "name": "Mackey ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 2,
@@ -3202,7 +3202,7 @@
   {
     "id": "02219.1",
     "name": "Toland ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -3682,7 +3682,7 @@
   {
     "id": "02246.1",
     "name": "Bracken ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -3742,7 +3742,7 @@
   {
     "id": "02249.1",
     "name": "McCaw ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 5,
@@ -4242,7 +4242,7 @@
   {
     "id": "02274.1",
     "name": "Miller Sandy ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 4,
@@ -4462,7 +4462,7 @@
   {
     "id": "02285.1",
     "name": "Tarr ES",
-    "type": "District",
+    "type": "Magnet",
     "level": "Elementary",
     "county": "Clark",
     "starRating": 3,
@@ -4902,7 +4902,7 @@
   {
     "id": "02308.2",
     "name": "Fremont MS",
-    "type": "District",
+    "type": "Magnet",
     "level": "Middle",
     "county": "Clark",
     "starRating": 4,
@@ -5002,7 +5002,7 @@
   {
     "id": "02313.2",
     "name": "Burkholder MS",
-    "type": "District",
+    "type": "Magnet",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -5222,7 +5222,7 @@
   {
     "id": "02322.2",
     "name": "OCallaghan i3 ACAD MS",
-    "type": "District",
+    "type": "Magnet",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5302,7 +5302,7 @@
   {
     "id": "02326.2",
     "name": "White MS",
-    "type": "District",
+    "type": "Magnet",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5422,7 +5422,7 @@
   {
     "id": "02331.2",
     "name": "Lied STEM ACAD MS",
-    "type": "District",
+    "type": "Magnet",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -5942,7 +5942,7 @@
   {
     "id": "02359.2",
     "name": "Johnston MS",
-    "type": "District",
+    "type": "Magnet",
     "level": "Middle",
     "county": "Clark",
     "starRating": 3,
@@ -6102,7 +6102,7 @@
   {
     "id": "02369.2",
     "name": "Mackey MS",
-    "type": "District",
+    "type": "Magnet",
     "level": "Middle",
     "county": "Clark",
     "starRating": 5,
@@ -6302,7 +6302,7 @@
   {
     "id": "02412.3",
     "name": "SECTA HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6402,7 +6402,7 @@
   {
     "id": "02418.3",
     "name": "Las Vegas ACAD HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6422,7 +6422,7 @@
   {
     "id": "02420.3",
     "name": "Adv Tech ACAD HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6462,7 +6462,7 @@
   {
     "id": "02422.3",
     "name": "CSN East HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6482,7 +6482,7 @@
   {
     "id": "02423.3",
     "name": "CSN West HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6542,7 +6542,7 @@
   {
     "id": "02426.3",
     "name": "CSN South HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6662,7 +6662,7 @@
   {
     "id": "02432.3",
     "name": "VTCTA HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6682,7 +6682,7 @@
   {
     "id": "02433.3",
     "name": "SWCTA HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -6722,7 +6722,7 @@
   {
     "id": "02435.3",
     "name": "WCTA HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -7062,7 +7062,7 @@
   {
     "id": "02620.3",
     "name": "NWCTA HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 5,
@@ -7142,7 +7142,7 @@
   {
     "id": "02624.3",
     "name": "ECTA HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": 4,
@@ -7242,7 +7242,7 @@
   {
     "id": "02628.3",
     "name": "NECTA HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Clark",
     "starRating": null,
@@ -12282,7 +12282,7 @@
   {
     "id": "16603.3",
     "name": "TMCC Magnet HS",
-    "type": "District",
+    "type": "Magnet",
     "level": "High",
     "county": "Washoe",
     "starRating": 5,

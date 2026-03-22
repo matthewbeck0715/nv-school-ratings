@@ -8,6 +8,15 @@ const dataDir = join(__dirname, '..', 'public', 'data')
 
 const EXCLUDED_TYPES = new Set(['Alternative', 'Correctional', 'Juvenile Correctional', 'Special Education', 'University'])
 
+const MAGNET_IDS = new Set([
+  '02073.1','02075.1','02145.1','02181.1','02202.1','02206.1','02217.1',
+  '02219.1','02246.1','02249.1','02274.1','02285.1','02308.2','02313.2','02322.2',
+  '02326.2','02331.2','02359.2','02369.2','02412.3','02418.3','02420.3',
+  '02432.3','02433.3','02435.3','02620.3','02624.3','02628.3',
+  // CSN and TMCC
+  '02422.3','02423.3','02426.3','16603.3',
+])
+
 function inferLevel(name) {
   const n = name.toUpperCase()
   if (n.includes('K8') || n.includes('K-8')) return 'Other'
@@ -428,7 +437,10 @@ for (const row of ratingsRows) {
   if (indexScore === null) { filtered++; continue }
 
   const name = row['School Name'].trim()
-  const schoolType = type === 'District Charter' || type === 'SPCSA' ? 'Charter' : 'District'
+  const id = row['NSPF School Code'].trim()
+  const schoolType = MAGNET_IDS.has(id)
+    ? 'Magnet'
+    : (type === 'District Charter' || type === 'SPCSA' ? 'Charter' : 'District')
   const level = inferLevel(name)
 
   // 1. Exact name match
@@ -464,7 +476,7 @@ for (const row of ratingsRows) {
   }
 
   schools.push({
-    id: row['NSPF School Code'].trim(),
+    id,
     name,
     type: schoolType,
     level,
