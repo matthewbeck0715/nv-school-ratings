@@ -7,12 +7,14 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://nevadaschoolratings.com'),
   title: 'Nevada School Ratings',
   description:
-    'Explore Nevada school star ratings, performance data, and school zone information. Search, filter, and compare schools across the state with interactive maps and tables.',
+    'An interactive map for visualizing Nevada school ratings.',
   keywords: [
     'Nevada school ratings',
+    'Nevada school map',
     'Nevada school star ratings',
     'Nevada school performance',
     'NV school ratings',
+    'NV school map',
     'Nevada education data',
     'school star ratings Nevada',
     'Nevada school zones',
@@ -28,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Nevada School Ratings — Star Ratings & Performance Data',
     description:
-      'Explore Nevada school star ratings, performance data, and school zone information. Search, filter, and compare schools across the state.',
+      'An interactive map for visualizing Nevada school ratings.',
     type: 'website',
     url: 'https://nevadaschoolratings.com',
     siteName: 'Nevada School Ratings',
@@ -37,7 +39,7 @@ export const metadata: Metadata = {
     card: 'summary',
     title: 'Nevada School Ratings — Star Ratings & Performance Data',
     description:
-      'Explore Nevada school star ratings, performance data, and school zone information. Search, filter, and compare schools across the state.',
+      'An interactive map for visualizing Nevada school ratings.',
   },
 }
 
@@ -54,13 +56,13 @@ const jsonLd = {
       name: 'Nevada School Ratings',
       url: 'https://nevadaschoolratings.com',
       description:
-        'Explore Nevada school star ratings, performance data, and school zone information.',
+        'An interactive map for visualizing Nevada school ratings.',
     },
     {
       '@type': 'Dataset',
       name: 'Nevada School Performance Ratings',
       description:
-        'Star ratings and performance data for public, charter, and alternative schools across Nevada.',
+        'Star ratings and performance data for Nevada public schools.',
       url: 'https://nevadaschoolratings.com',
       keywords: [
         'Nevada schools',
