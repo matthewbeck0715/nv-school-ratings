@@ -3,6 +3,7 @@
 import { useMemo } from 'react'
 import { DEFAULT_FILTERS } from '@/types/school'
 import { useSchools } from './useSchools'
+import { useYear } from './useYear'
 import { useSchoolZones } from './useSchoolZones'
 
 interface ZoneGeoJSON {
@@ -12,7 +13,8 @@ interface ZoneGeoJSON {
 // Counties with at least one school zone boundary in nv-school-zones.geojson.
 // Used to disable "Zone" mode proximity search where we have no coverage.
 export function useZonedCounties(): Set<string> {
-  const { schools } = useSchools(DEFAULT_FILTERS)
+  const year = useYear()
+  const { schools } = useSchools(useMemo(() => ({ ...DEFAULT_FILTERS, year }), [year]))
   const { geojson } = useSchoolZones(true)
 
   return useMemo(() => {

@@ -8,6 +8,7 @@ import CountyFilter from './CountyFilter'
 import LevelFilter from './LevelFilter'
 import TypeFilter from './TypeFilter'
 import StarFilter from './StarFilter'
+import YearFilter from './YearFilter'
 import ProximityStatus from './ProximityStatus'
 
 interface FilterDrawerProps {
@@ -188,6 +189,14 @@ export default function FilterDrawer({ filters, onChange, onClear, onViewSchools
             <CountyFilter
               value={filters.county}
               onChange={(county) => onChange({ ...filters, county })}
+            />
+          </section>
+
+          <section>
+            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">Year</p>
+            <YearFilter
+              value={filters.year}
+              onChange={(year) => onChange({ ...filters, year })}
             />
           </section>
 

@@ -1,10 +1,13 @@
-import { readFileSync, writeFileSync } from 'fs'
+import { existsSync, readdirSync, readFileSync, writeFileSync } from 'fs'
 import { parse } from 'csv-parse/sync'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const dataDir = join(__dirname, '..', 'public', 'data')
+
+// Usage: node scripts/build-school-data.mjs [year]  (2025 = the 2024-25 school year)
+const YEAR = process.argv[2] ?? '2026'
 
 const EXCLUDED_TYPES = new Set(['Alternative', 'Correctional', 'Juvenile Correctional', 'Special Education', 'University'])
 
@@ -52,13 +55,28 @@ function loadCsv(filePath) {
 }
 
 // --- Step A: Load CSVs ---
-const ratingsRows = loadCsv(join(dataDir, 'nv-school-ratings.csv'))
+const ratingsRows = loadCsv(join(dataDir, `nv-school-ratings-${YEAR}.csv`))
 const locationRows = loadCsv(join(dataDir, 'nv-school-locations.csv'))
 
 // Nevada Growth Model medians, keyed by NSPF school code.
-// Regenerate with `node scripts/fetch-growth-data.mjs`.
-const growthById = JSON.parse(readFileSync(join(dataDir, 'nv-growth-2025.json'), 'utf8'))
+// Regenerate with `node scripts/fetch-growth-data.mjs <year>`.
+const growthPath = join(dataDir, `nv-growth-${YEAR}.json`)
+const growthById = existsSync(growthPath) ? JSON.parse(readFileSync(growthPath, 'utf8')) : {}
 const NO_GROWTH = { elaMgp: null, mathMgp: null, elaMgpN: null, mathMgpN: null }
+
+// Schools renamed since the NCES locations file was published miss the name-based match; fall
+// back to coordinates and address for the same NSPF code from any other year already built
+// (nearest year first).
+const priorById = {}
+const otherYears = readdirSync(dataDir)
+  .map(f => f.match(/^nv-school-data-(\d{4})\.json$/)?.[1])
+  .filter(y => y && y !== YEAR)
+  .sort((x, y) => Math.abs(x - YEAR) - Math.abs(y - YEAR))
+for (const y of otherYears) {
+  for (const s of JSON.parse(readFileSync(join(dataDir, `nv-school-data-${y}.json`), 'utf8'))) {
+    if (s.lat != null && !priorById[s.id]) priorById[s.id] = s
+  }
+}
 
 // --- Step B: Build location lookups ---
 // By exact lowercase name
@@ -429,7 +447,7 @@ function autoMatch(ratingsName, district) {
 
 // --- Step E: Process ratings rows ---
 const schools = []
-let exactMatched = 0, manualMatched = 0, autoMatched = 0, filtered = 0, unmatched = 0
+let exactMatched = 0, manualMatched = 0, autoMatched = 0, priorMatched = 0, filtered = 0, unmatched = 0
 
 for (const row of ratingsRows) {
   const type = row['School Type'].trim()
@@ -476,8 +494,14 @@ for (const row of ratingsRows) {
     zip = loc.ZIP?.trim() || null
     county = (loc.NMCNTY?.trim() || '').replace(/ County$/, '') || null
   } else {
-    unmatched++
-    if (district && district !== 'State Public Charter School Authority') county = district
+    const prior = priorById[id]
+    if (prior?.lat != null) {
+      ;({ lat, lng, address, city, zip, county } = prior)
+      priorMatched++
+    } else {
+      unmatched++
+      if (district && district !== 'State Public Charter School Authority') county = district
+    }
   }
 
   schools.push({
@@ -504,8 +528,8 @@ for (const row of ratingsRows) {
 }
 
 // --- Step F: Output ---
-writeFileSync(join(dataDir, 'nv-school-data.json'), JSON.stringify(schools, null, 2))
+writeFileSync(join(dataDir, `nv-school-data-${YEAR}.json`), JSON.stringify(schools, null, 2))
 
 console.log(`Done. Kept: ${schools.length}, Filtered: ${filtered}`)
-console.log(`  Exact match: ${exactMatched}, Manual: ${manualMatched}, Auto-match: ${autoMatched}, Unmatched: ${unmatched}`)
+console.log(`  Exact match: ${exactMatched}, Manual: ${manualMatched}, Auto-match: ${autoMatched}, Other-year: ${priorMatched}, Unmatched: ${unmatched}`)
 console.log(`  Growth MGP: ${schools.filter(s => s.elaMgp !== null).length} ELA, ${schools.filter(s => s.mathMgp !== null).length} Math`)

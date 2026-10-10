@@ -15,7 +15,7 @@ A mobile-friendly data visualization tool for Nevada public school performance d
 
 Performance data comes from the Nevada Department of Education's [Star Rating system](https://nevadareportcard.nv.gov). Location data (coordinates, addresses) is sourced from the NCES Common Core of Data.
 
-The build script (`scripts/build-school-data.mjs`) joins the two sources and outputs `public/data/nv-school-data.json`.
+The build script (`scripts/build-school-data.mjs`) joins the two sources and outputs one file per school year, `public/data/nv-school-data-<year>.json`. Years are named for the year the school year ends in (`2026` = 2025-26).
 
 ## Development
 
@@ -33,10 +33,14 @@ NODE_ENV=production NEXT_PUBLIC_BASE_PATH=/nv-school-ratings npm run build
 npx serve out
 ```
 
-To regenerate the school data after updating source CSVs:
+To add or refresh a school year (replace `2026` with the year):
 
 ```bash
-node scripts/build-school-data.mjs
+# 1. Save the NDE Star Rating export as public/data/nv-school-ratings-2026.csv
+node scripts/fetch-growth-data.mjs 2026
+node scripts/fetch-county-averages.mjs 2026
+node scripts/build-school-data.mjs 2026
+# 2. Add the year to DATA_YEARS in src/types/school.ts (newest first)
 ```
 
 ## Stack

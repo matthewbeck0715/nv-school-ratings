@@ -1,5 +1,5 @@
 import type { FilterState, SchoolType, SchoolLevel, StarRating } from '@/types/school'
-import { DEFAULT_FILTERS } from '@/types/school'
+import { DATA_YEARS, DEFAULT_FILTERS, LATEST_YEAR } from '@/types/school'
 
 const VALID_TYPES = new Set<string>(['District', 'Charter', 'Magnet'])
 const VALID_LEVELS = new Set<string>(['Elementary', 'Middle', 'High'])
@@ -21,6 +21,8 @@ export function hasActiveFilters(filters: FilterState): boolean {
 export function serializeFilters(filters: FilterState): URLSearchParams {
   const params = new URLSearchParams()
 
+  // Year is a view setting, not a narrowing filter, so it stays out of hasActiveFilters.
+  if (filters.year !== LATEST_YEAR) params.set('year', filters.year)
   if (filters.search) params.set('q', filters.search)
   if (filters.schoolTypes.length) params.set('types', filters.schoolTypes.join(','))
   if (filters.schoolLevels.length) params.set('levels', filters.schoolLevels.join(','))
@@ -36,6 +38,9 @@ export function serializeFilters(filters: FilterState): URLSearchParams {
 }
 
 export function parseFilters(params: URLSearchParams): FilterState {
+  const yearStr = params.get('year')
+  const year = DATA_YEARS.find((y) => y === yearStr) ?? LATEST_YEAR
+
   const search = params.get('q') ?? ''
 
   const typesStr = params.get('types')
@@ -70,6 +75,7 @@ export function parseFilters(params: URLSearchParams): FilterState {
 
   return {
     ...DEFAULT_FILTERS,
+    year,
     search,
     schoolTypes,
     schoolLevels,

@@ -10,8 +10,9 @@ export function useSchools(filters: FilterState) {
   const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
+    setLoading(true)
     const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? ''
-    fetch(`${basePath}/data/nv-school-data.json`)
+    fetch(`${basePath}/data/nv-school-data-${filters.year}.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`Failed to fetch: ${res.status}`)
         return res.json()
@@ -24,7 +25,7 @@ export function useSchools(filters: FilterState) {
         setError(err.message)
         setLoading(false)
       })
-  }, [])
+  }, [filters.year])
 
   const filtered = useMemo(() => {
     const result: SchoolWithDistance[] = []
