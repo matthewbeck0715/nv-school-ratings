@@ -9,8 +9,8 @@ const dataDir = join(__dirname, '..', 'public', 'data')
 
 const NGM_API = 'https://ngma.bighorn.doe.nv.gov/nvgrowthmodel/api'
 
-// Year 2025 = the 2024-25 school year (matches the site's data-defaultyear).
-const YEAR = '2025'
+// Usage: node scripts/fetch-growth-data.mjs [year]. Year 2025 = the 2024-25 school year.
+const YEAR = process.argv[2] ?? '2026'
 
 // District IDs from /api/accountinfo. 20 (Correctional) and 99 (Demo) are omitted:
 // build-school-data.mjs excludes those schools anyway.

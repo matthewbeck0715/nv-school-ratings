@@ -102,7 +102,8 @@ function ProximityPanel({
   const proximity = filters.proximity!
   const isZone = proximity.radiusMiles === 0
 
-  const { schools: allSchools } = useSchools(DEFAULT_FILTERS)
+  const unfilteredForYear = useMemo(() => ({ ...DEFAULT_FILTERS, year: filters.year }), [filters.year])
+  const { schools: allSchools } = useSchools(unfilteredForYear)
   const { geojson, loading: zonesLoading } = useSchoolZones(true)
   const [zoneResult, setZoneResult] = useState<ZoneLookupResult | null>(null)
   const onZoneResultRef = useRef(onZoneResult)

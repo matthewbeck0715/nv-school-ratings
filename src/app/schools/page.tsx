@@ -9,11 +9,13 @@ import SchoolSearch from '@/components/filters/SchoolSearch'
 import CountyFilter from '@/components/filters/CountyFilter'
 import LevelFilter from '@/components/filters/LevelFilter'
 import TypeFilter from '@/components/filters/TypeFilter'
+import YearFilter from '@/components/filters/YearFilter'
 import StarFilter from '@/components/filters/StarFilter'
 import ProximitySearch from '@/components/filters/ProximitySearch'
 import ProximityStatus from '@/components/filters/ProximityStatus'
 import FilterDrawer from '@/components/filters/FilterDrawer'
 import { useSchools } from '@/hooks/useSchools'
+import { YearContext } from '@/hooks/useYear'
 import MapView from '@/components/map/MapView'
 import FilterResults from '@/components/panel/FilterResults'
 import CompareColumns from '@/components/panel/CompareColumns'
@@ -44,7 +46,8 @@ function HomeContent() {
 
   // Unfiltered list, used only to resolve a deep-linked school id (from ?ids=) against — the
   // "filtered" school list depends on filter state that hasn't necessarily been set to match it.
-  const { schools: allSchools } = useSchools(DEFAULT_FILTERS)
+  const unfilteredForYear = useMemo(() => ({ ...DEFAULT_FILTERS, year: filters.year }), [filters.year])
+  const { schools: allSchools } = useSchools(unfilteredForYear)
   const allSchoolsRef = useRef<School[]>(allSchools)
   allSchoolsRef.current = allSchools
 
@@ -179,7 +182,8 @@ function HomeContent() {
     (filters.proximity !== null ? 1 : 0)
 
   function clearFilters() {
-    setFilters(parseFilters(new URLSearchParams()))
+    // Year is a view setting, not a filter, so Clear All keeps it.
+    setFilters((f) => ({ ...parseFilters(new URLSearchParams()), year: f.year }))
     handleClearCompare()
   }
 
@@ -192,6 +196,7 @@ function HomeContent() {
   }, [])
 
   return (
+    <YearContext.Provider value={filters.year}>
     <div className="flex flex-col h-screen bg-gray-50">
       {/* Header */}
       <header className="bg-white border-b border-gray-200 px-4 py-3 flex items-center justify-between gap-4 shrink-0">
@@ -255,6 +260,13 @@ function HomeContent() {
 
         {/* Row 2: filter pills — desktop only */}
         <div className="hidden xl:flex flex-wrap gap-4">
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Year</span>
+            <YearFilter
+              value={filters.year}
+              onChange={(year) => setFilters((f) => ({ ...f, year }))}
+            />
+          </div>
           <div className="flex flex-col gap-1">
             <span className="text-xs font-semibold text-gray-500 uppercase tracking-wide">County</span>
             <CountyFilter
@@ -378,6 +390,7 @@ function HomeContent() {
         </div>
       </main>
     </div>
+    </YearContext.Provider>
   )
 }
 

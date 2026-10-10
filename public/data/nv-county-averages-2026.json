@@ -1,0 +1,320 @@
+{
+  "Churchill:Elementary": {
+    "county": "Churchill",
+    "level": "Elementary",
+    "elaProficiency": 31.7,
+    "mathProficiency": 26.1
+  },
+  "Churchill:Middle": {
+    "county": "Churchill",
+    "level": "Middle",
+    "elaProficiency": 25.4,
+    "mathProficiency": 16
+  },
+  "Churchill:High": {
+    "county": "Churchill",
+    "level": "High",
+    "elaProficiency": 48.9,
+    "mathProficiency": 16.5
+  },
+  "Clark:Elementary": {
+    "county": "Clark",
+    "level": "Elementary",
+    "elaProficiency": 45.9,
+    "mathProficiency": 39.5
+  },
+  "Clark:Middle": {
+    "county": "Clark",
+    "level": "Middle",
+    "elaProficiency": 41,
+    "mathProficiency": 28.9
+  },
+  "Clark:High": {
+    "county": "Clark",
+    "level": "High",
+    "elaProficiency": 51.3,
+    "mathProficiency": 22.6
+  },
+  "Douglas:Elementary": {
+    "county": "Douglas",
+    "level": "Elementary",
+    "elaProficiency": 54.8,
+    "mathProficiency": 43.2
+  },
+  "Douglas:Middle": {
+    "county": "Douglas",
+    "level": "Middle",
+    "elaProficiency": 43,
+    "mathProficiency": 33
+  },
+  "Douglas:High": {
+    "county": "Douglas",
+    "level": "High",
+    "elaProficiency": 58.2,
+    "mathProficiency": 34.4
+  },
+  "Elko:Elementary": {
+    "county": "Elko",
+    "level": "Elementary",
+    "elaProficiency": 36.5,
+    "mathProficiency": 33
+  },
+  "Elko:Middle": {
+    "county": "Elko",
+    "level": "Middle",
+    "elaProficiency": 28.1,
+    "mathProficiency": 19.3
+  },
+  "Elko:High": {
+    "county": "Elko",
+    "level": "High",
+    "elaProficiency": 45.5,
+    "mathProficiency": 20.8
+  },
+  "Esmeralda:Elementary": {
+    "county": "Esmeralda",
+    "level": "Elementary",
+    "elaProficiency": 34.7,
+    "mathProficiency": 21.7
+  },
+  "Esmeralda:Middle": {
+    "county": "Esmeralda",
+    "level": "Middle",
+    "elaProficiency": 31.2,
+    "mathProficiency": 25
+  },
+  "Eureka:Elementary": {
+    "county": "Eureka",
+    "level": "Elementary",
+    "elaProficiency": 67.5,
+    "mathProficiency": 58.1
+  },
+  "Eureka:Middle": {
+    "county": "Eureka",
+    "level": "Middle",
+    "elaProficiency": 57.1,
+    "mathProficiency": 35.7
+  },
+  "Eureka:High": {
+    "county": "Eureka",
+    "level": "High",
+    "elaProficiency": 59,
+    "mathProficiency": 45.4
+  },
+  "Humboldt:Elementary": {
+    "county": "Humboldt",
+    "level": "Elementary",
+    "elaProficiency": 34.1,
+    "mathProficiency": 32.6
+  },
+  "Humboldt:Middle": {
+    "county": "Humboldt",
+    "level": "Middle",
+    "elaProficiency": 31.9,
+    "mathProficiency": 27.7
+  },
+  "Humboldt:High": {
+    "county": "Humboldt",
+    "level": "High",
+    "elaProficiency": 44.9,
+    "mathProficiency": 17.2
+  },
+  "Lander:Elementary": {
+    "county": "Lander",
+    "level": "Elementary",
+    "elaProficiency": 24.4,
+    "mathProficiency": 18.3
+  },
+  "Lander:Middle": {
+    "county": "Lander",
+    "level": "Middle",
+    "elaProficiency": 18,
+    "mathProficiency": 11
+  },
+  "Lander:High": {
+    "county": "Lander",
+    "level": "High",
+    "elaProficiency": 49.1,
+    "mathProficiency": 20.3
+  },
+  "Lincoln:Elementary": {
+    "county": "Lincoln",
+    "level": "Elementary",
+    "elaProficiency": 56.3,
+    "mathProficiency": 48.6
+  },
+  "Lincoln:Middle": {
+    "county": "Lincoln",
+    "level": "Middle",
+    "elaProficiency": 50.7,
+    "mathProficiency": 29.5
+  },
+  "Lincoln:High": {
+    "county": "Lincoln",
+    "level": "High",
+    "elaProficiency": 42.6,
+    "mathProficiency": 19.7
+  },
+  "Lyon:Elementary": {
+    "county": "Lyon",
+    "level": "Elementary",
+    "elaProficiency": 32.3,
+    "mathProficiency": 27.3
+  },
+  "Lyon:Middle": {
+    "county": "Lyon",
+    "level": "Middle",
+    "elaProficiency": 28.1,
+    "mathProficiency": 19.7
+  },
+  "Lyon:High": {
+    "county": "Lyon",
+    "level": "High",
+    "elaProficiency": 32.9,
+    "mathProficiency": 15.6
+  },
+  "Mineral:Elementary": {
+    "county": "Mineral",
+    "level": "Elementary",
+    "elaProficiency": 23.3,
+    "mathProficiency": 15.8
+  },
+  "Mineral:Middle": {
+    "county": "Mineral",
+    "level": "Middle",
+    "elaProficiency": 26.3,
+    "mathProficiency": null
+  },
+  "Mineral:High": {
+    "county": "Mineral",
+    "level": "High",
+    "elaProficiency": 37,
+    "mathProficiency": 11.1
+  },
+  "Nye:Elementary": {
+    "county": "Nye",
+    "level": "Elementary",
+    "elaProficiency": 38.8,
+    "mathProficiency": 28.1
+  },
+  "Nye:Middle": {
+    "county": "Nye",
+    "level": "Middle",
+    "elaProficiency": 31.3,
+    "mathProficiency": 17.4
+  },
+  "Nye:High": {
+    "county": "Nye",
+    "level": "High",
+    "elaProficiency": 42.5,
+    "mathProficiency": 11.8
+  },
+  "Carson City:Elementary": {
+    "county": "Carson City",
+    "level": "Elementary",
+    "elaProficiency": 39.1,
+    "mathProficiency": 35.2
+  },
+  "Carson City:Middle": {
+    "county": "Carson City",
+    "level": "Middle",
+    "elaProficiency": 37.6,
+    "mathProficiency": 24.9
+  },
+  "Carson City:High": {
+    "county": "Carson City",
+    "level": "High",
+    "elaProficiency": 45,
+    "mathProficiency": 24.7
+  },
+  "Pershing:Elementary": {
+    "county": "Pershing",
+    "level": "Elementary",
+    "elaProficiency": 32.6,
+    "mathProficiency": 19.8
+  },
+  "Pershing:Middle": {
+    "county": "Pershing",
+    "level": "Middle",
+    "elaProficiency": 26.6,
+    "mathProficiency": 14
+  },
+  "Pershing:High": {
+    "county": "Pershing",
+    "level": "High",
+    "elaProficiency": 27.6,
+    "mathProficiency": 10
+  },
+  "Storey:Elementary": {
+    "county": "Storey",
+    "level": "Elementary",
+    "elaProficiency": 49.3,
+    "mathProficiency": 39
+  },
+  "Storey:Middle": {
+    "county": "Storey",
+    "level": "Middle",
+    "elaProficiency": 44,
+    "mathProficiency": 28.1
+  },
+  "Storey:High": {
+    "county": "Storey",
+    "level": "High",
+    "elaProficiency": 70,
+    "mathProficiency": 30
+  },
+  "Washoe:Elementary": {
+    "county": "Washoe",
+    "level": "Elementary",
+    "elaProficiency": 47.6,
+    "mathProficiency": 43.3
+  },
+  "Washoe:Middle": {
+    "county": "Washoe",
+    "level": "Middle",
+    "elaProficiency": 41.8,
+    "mathProficiency": 31.5
+  },
+  "Washoe:High": {
+    "county": "Washoe",
+    "level": "High",
+    "elaProficiency": 51.2,
+    "mathProficiency": 27.1
+  },
+  "White Pine:Elementary": {
+    "county": "White Pine",
+    "level": "Elementary",
+    "elaProficiency": 30.7,
+    "mathProficiency": 25.2
+  },
+  "White Pine:Middle": {
+    "county": "White Pine",
+    "level": "Middle",
+    "elaProficiency": 28.9,
+    "mathProficiency": 24.7
+  },
+  "White Pine:High": {
+    "county": "White Pine",
+    "level": "High",
+    "elaProficiency": 53.4,
+    "mathProficiency": 23.4
+  },
+  "State:Elementary": {
+    "county": "State",
+    "level": "Elementary",
+    "elaProficiency": 47,
+    "mathProficiency": 41.2
+  },
+  "State:Middle": {
+    "county": "State",
+    "level": "Middle",
+    "elaProficiency": 42.7,
+    "mathProficiency": 30.8
+  },
+  "State:High": {
+    "county": "State",
+    "level": "High",
+    "elaProficiency": 50.3,
+    "mathProficiency": 22.6
+  }
+}

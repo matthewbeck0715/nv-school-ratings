@@ -9,7 +9,8 @@ const dataDir = join(__dirname, '..', 'public', 'data')
 
 const API = 'https://nevadareportcard.nv.gov/DIWAPI-NVReportCard/api'
 
-const YEAR = '2025'
+// Usage: node scripts/fetch-county-averages.mjs [year]. Year 2025 = the 2024-25 school year.
+const YEAR = process.argv[2] ?? '2026'
 
 // Statewide figures, used as the fallback when no county is selected.
 // orgId 64825 is the 'State' org (type 'S') from /api/Organizations?year=2025.

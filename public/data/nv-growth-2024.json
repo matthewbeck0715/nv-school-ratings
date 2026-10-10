@@ -1,0 +1,4964 @@
+{
+  "01205.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "01206.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "01207.1": {
+    "elaMgp": 47,
+    "mathMgp": 40,
+    "elaMgpN": 401,
+    "mathMgpN": 399
+  },
+  "01301.2": {
+    "elaMgp": 40.5,
+    "mathMgp": 41,
+    "elaMgpN": 592,
+    "mathMgpN": 591
+  },
+  "01401.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02060.1": {
+    "elaMgp": 49,
+    "mathMgp": 44.5,
+    "elaMgpN": 262,
+    "mathMgpN": 262
+  },
+  "02061.1": {
+    "elaMgp": 52,
+    "mathMgp": 53,
+    "elaMgpN": 191,
+    "mathMgpN": 190
+  },
+  "02062.1": {
+    "elaMgp": 48,
+    "mathMgp": 39,
+    "elaMgpN": 166,
+    "mathMgpN": 165
+  },
+  "02064.1": {
+    "elaMgp": 56,
+    "mathMgp": 62,
+    "elaMgpN": 233,
+    "mathMgpN": 233
+  },
+  "02065.1": {
+    "elaMgp": 50,
+    "mathMgp": 65,
+    "elaMgpN": 217,
+    "mathMgpN": 218
+  },
+  "02066.1": {
+    "elaMgp": 58,
+    "mathMgp": 70,
+    "elaMgpN": 212,
+    "mathMgpN": 213
+  },
+  "02067.1": {
+    "elaMgp": 54,
+    "mathMgp": 64,
+    "elaMgpN": 338,
+    "mathMgpN": 338
+  },
+  "02068.1": {
+    "elaMgp": 50,
+    "mathMgp": 48,
+    "elaMgpN": 257,
+    "mathMgpN": 257
+  },
+  "02069.1": {
+    "elaMgp": 60.5,
+    "mathMgp": 58.5,
+    "elaMgpN": 336,
+    "mathMgpN": 336
+  },
+  "02070.1": {
+    "elaMgp": 68,
+    "mathMgp": 67,
+    "elaMgpN": 230,
+    "mathMgpN": 229
+  },
+  "02071.1": {
+    "elaMgp": 52,
+    "mathMgp": 68,
+    "elaMgpN": 213,
+    "mathMgpN": 215
+  },
+  "02072.1": {
+    "elaMgp": 47,
+    "mathMgp": 57,
+    "elaMgpN": 255,
+    "mathMgpN": 255
+  },
+  "02073.1": {
+    "elaMgp": 58,
+    "mathMgp": 58.5,
+    "elaMgpN": 217,
+    "mathMgpN": 218
+  },
+  "02074.1": {
+    "elaMgp": 49.5,
+    "mathMgp": 36,
+    "elaMgpN": 178,
+    "mathMgpN": 178
+  },
+  "02076.1": {
+    "elaMgp": 29.5,
+    "mathMgp": 34,
+    "elaMgpN": 170,
+    "mathMgpN": 170
+  },
+  "02077.1": {
+    "elaMgp": 59,
+    "mathMgp": 63,
+    "elaMgpN": 199,
+    "mathMgpN": 199
+  },
+  "02078.1": {
+    "elaMgp": 69,
+    "mathMgp": 65.5,
+    "elaMgpN": 168,
+    "mathMgpN": 168
+  },
+  "02079.1": {
+    "elaMgp": 56.5,
+    "mathMgp": 58,
+    "elaMgpN": 130,
+    "mathMgpN": 130
+  },
+  "02080.1": {
+    "elaMgp": 49,
+    "mathMgp": 45,
+    "elaMgpN": 209,
+    "mathMgpN": 209
+  },
+  "02081.1": {
+    "elaMgp": 56,
+    "mathMgp": 54.5,
+    "elaMgpN": 243,
+    "mathMgpN": 244
+  },
+  "02082.1": {
+    "elaMgp": 55,
+    "mathMgp": 61,
+    "elaMgpN": 230,
+    "mathMgpN": 230
+  },
+  "02083.1": {
+    "elaMgp": 49,
+    "mathMgp": 66,
+    "elaMgpN": 210,
+    "mathMgpN": 210
+  },
+  "02084.1": {
+    "elaMgp": 55.5,
+    "mathMgp": 72,
+    "elaMgpN": 168,
+    "mathMgpN": 167
+  },
+  "02085.1": {
+    "elaMgp": 48,
+    "mathMgp": 45,
+    "elaMgpN": 163,
+    "mathMgpN": 163
+  },
+  "02086.1": {
+    "elaMgp": 32,
+    "mathMgp": 20,
+    "elaMgpN": 171,
+    "mathMgpN": 172
+  },
+  "02089.1": {
+    "elaMgp": 65,
+    "mathMgp": 79,
+    "elaMgpN": 121,
+    "mathMgpN": 121
+  },
+  "02090.1": {
+    "elaMgp": 68,
+    "mathMgp": 68,
+    "elaMgpN": 232,
+    "mathMgpN": 231
+  },
+  "02091.1": {
+    "elaMgp": 59,
+    "mathMgp": 38,
+    "elaMgpN": 141,
+    "mathMgpN": 141
+  },
+  "02094.1": {
+    "elaMgp": 44,
+    "mathMgp": 45,
+    "elaMgpN": 227,
+    "mathMgpN": 225
+  },
+  "02095.1": {
+    "elaMgp": 42,
+    "mathMgp": 56.5,
+    "elaMgpN": 153,
+    "mathMgpN": 152
+  },
+  "02096.1": {
+    "elaMgp": 33,
+    "mathMgp": 47,
+    "elaMgpN": 180,
+    "mathMgpN": 179
+  },
+  "02097.1": {
+    "elaMgp": 46,
+    "mathMgp": 50,
+    "elaMgpN": 177,
+    "mathMgpN": 177
+  },
+  "02098.1": {
+    "elaMgp": 57,
+    "mathMgp": 33,
+    "elaMgpN": 213,
+    "mathMgpN": 213
+  },
+  "02099.1": {
+    "elaMgp": 47,
+    "mathMgp": 48,
+    "elaMgpN": 193,
+    "mathMgpN": 193
+  },
+  "02100.1": {
+    "elaMgp": 61,
+    "mathMgp": 57,
+    "elaMgpN": 227,
+    "mathMgpN": 227
+  },
+  "02101.1": {
+    "elaMgp": 71,
+    "mathMgp": 65,
+    "elaMgpN": 12,
+    "mathMgpN": 12
+  },
+  "02102.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02103.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02104.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02105.1": {
+    "elaMgp": 48,
+    "mathMgp": 44,
+    "elaMgpN": 99,
+    "mathMgpN": 99
+  },
+  "02106.1": {
+    "elaMgp": 47,
+    "mathMgp": 53,
+    "elaMgpN": 131,
+    "mathMgpN": 127
+  },
+  "02107.1": {
+    "elaMgp": 40.5,
+    "mathMgp": 43,
+    "elaMgpN": 118,
+    "mathMgpN": 118
+  },
+  "02108.1": {
+    "elaMgp": 67.5,
+    "mathMgp": 62.5,
+    "elaMgpN": 142,
+    "mathMgpN": 142
+  },
+  "02109.1": {
+    "elaMgp": 54,
+    "mathMgp": 48,
+    "elaMgpN": 129,
+    "mathMgpN": 129
+  },
+  "02110.1": {
+    "elaMgp": 57.5,
+    "mathMgp": 38,
+    "elaMgpN": 86,
+    "mathMgpN": 85
+  },
+  "02111.1": {
+    "elaMgp": 43,
+    "mathMgp": 53,
+    "elaMgpN": 91,
+    "mathMgpN": 91
+  },
+  "02112.1": {
+    "elaMgp": 48,
+    "mathMgp": 61,
+    "elaMgpN": 192,
+    "mathMgpN": 191
+  },
+  "02113.1": {
+    "elaMgp": 54,
+    "mathMgp": 48,
+    "elaMgpN": 121,
+    "mathMgpN": 121
+  },
+  "02114.1": {
+    "elaMgp": 63,
+    "mathMgp": 81,
+    "elaMgpN": 43,
+    "mathMgpN": 43
+  },
+  "02115.1": {
+    "elaMgp": 49.5,
+    "mathMgp": 56,
+    "elaMgpN": 102,
+    "mathMgpN": 101
+  },
+  "02116.1": {
+    "elaMgp": 52,
+    "mathMgp": 53,
+    "elaMgpN": 229,
+    "mathMgpN": 229
+  },
+  "02117.1": {
+    "elaMgp": 36,
+    "mathMgp": 40.5,
+    "elaMgpN": 127,
+    "mathMgpN": 126
+  },
+  "02118.1": {
+    "elaMgp": 42.5,
+    "mathMgp": 55,
+    "elaMgpN": 134,
+    "mathMgpN": 134
+  },
+  "02119.1": {
+    "elaMgp": 51.5,
+    "mathMgp": 51.5,
+    "elaMgpN": 162,
+    "mathMgpN": 162
+  },
+  "02120.1": {
+    "elaMgp": 53,
+    "mathMgp": 68,
+    "elaMgpN": 129,
+    "mathMgpN": 129
+  },
+  "02121.1": {
+    "elaMgp": 44.5,
+    "mathMgp": 46.5,
+    "elaMgpN": 178,
+    "mathMgpN": 178
+  },
+  "02122.1": {
+    "elaMgp": 67,
+    "mathMgp": 90,
+    "elaMgpN": 130,
+    "mathMgpN": 129
+  },
+  "02123.1": {
+    "elaMgp": 50,
+    "mathMgp": 35,
+    "elaMgpN": 135,
+    "mathMgpN": 135
+  },
+  "02124.1": {
+    "elaMgp": 49.5,
+    "mathMgp": 39,
+    "elaMgpN": 148,
+    "mathMgpN": 148
+  },
+  "02125.1": {
+    "elaMgp": 53,
+    "mathMgp": 43,
+    "elaMgpN": 144,
+    "mathMgpN": 144
+  },
+  "02126.1": {
+    "elaMgp": 50.5,
+    "mathMgp": 63,
+    "elaMgpN": 142,
+    "mathMgpN": 142
+  },
+  "02127.1": {
+    "elaMgp": 61,
+    "mathMgp": 65,
+    "elaMgpN": 132,
+    "mathMgpN": 131
+  },
+  "02128.1": {
+    "elaMgp": 38,
+    "mathMgp": 31,
+    "elaMgpN": 158,
+    "mathMgpN": 158
+  },
+  "02129.1": {
+    "elaMgp": 44,
+    "mathMgp": 46,
+    "elaMgpN": 174,
+    "mathMgpN": 175
+  },
+  "02130.1": {
+    "elaMgp": 49,
+    "mathMgp": 55,
+    "elaMgpN": 115,
+    "mathMgpN": 115
+  },
+  "02131.1": {
+    "elaMgp": 29,
+    "mathMgp": 30,
+    "elaMgpN": 131,
+    "mathMgpN": 132
+  },
+  "02132.1": {
+    "elaMgp": 46,
+    "mathMgp": 48,
+    "elaMgpN": 185,
+    "mathMgpN": 185
+  },
+  "02133.1": {
+    "elaMgp": 31,
+    "mathMgp": 36,
+    "elaMgpN": 106,
+    "mathMgpN": 106
+  },
+  "02134.1": {
+    "elaMgp": 52.5,
+    "mathMgp": 50,
+    "elaMgpN": 148,
+    "mathMgpN": 148
+  },
+  "02135.1": {
+    "elaMgp": 60,
+    "mathMgp": 53,
+    "elaMgpN": 125,
+    "mathMgpN": 124
+  },
+  "02136.1": {
+    "elaMgp": 50,
+    "mathMgp": 47.5,
+    "elaMgpN": 212,
+    "mathMgpN": 212
+  },
+  "02137.1": {
+    "elaMgp": 51,
+    "mathMgp": 47.5,
+    "elaMgpN": 163,
+    "mathMgpN": 164
+  },
+  "02138.1": {
+    "elaMgp": 45,
+    "mathMgp": 49,
+    "elaMgpN": 143,
+    "mathMgpN": 143
+  },
+  "02139.1": {
+    "elaMgp": 66,
+    "mathMgp": 43.5,
+    "elaMgpN": 88,
+    "mathMgpN": 88
+  },
+  "02140.1": {
+    "elaMgp": 61.5,
+    "mathMgp": 67.5,
+    "elaMgpN": 166,
+    "mathMgpN": 166
+  },
+  "02141.1": {
+    "elaMgp": 46,
+    "mathMgp": 49,
+    "elaMgpN": 136,
+    "mathMgpN": 135
+  },
+  "02142.1": {
+    "elaMgp": 49,
+    "mathMgp": 52,
+    "elaMgpN": 115,
+    "mathMgpN": 115
+  },
+  "02143.1": {
+    "elaMgp": 50,
+    "mathMgp": 44,
+    "elaMgpN": 101,
+    "mathMgpN": 99
+  },
+  "02144.1": {
+    "elaMgp": 49,
+    "mathMgp": 47.5,
+    "elaMgpN": 166,
+    "mathMgpN": 164
+  },
+  "02145.1": {
+    "elaMgp": 52.5,
+    "mathMgp": 57,
+    "elaMgpN": 226,
+    "mathMgpN": 226
+  },
+  "02146.1": {
+    "elaMgp": 58,
+    "mathMgp": 46,
+    "elaMgpN": 147,
+    "mathMgpN": 147
+  },
+  "02147.1": {
+    "elaMgp": 42,
+    "mathMgp": 44,
+    "elaMgpN": 148,
+    "mathMgpN": 147
+  },
+  "02148.1": {
+    "elaMgp": 62,
+    "mathMgp": 45,
+    "elaMgpN": 141,
+    "mathMgpN": 139
+  },
+  "02149.1": {
+    "elaMgp": 56,
+    "mathMgp": 58,
+    "elaMgpN": 136,
+    "mathMgpN": 136
+  },
+  "02150.1": {
+    "elaMgp": 34.5,
+    "mathMgp": 31.5,
+    "elaMgpN": 134,
+    "mathMgpN": 134
+  },
+  "02151.1": {
+    "elaMgp": 40,
+    "mathMgp": 60,
+    "elaMgpN": 127,
+    "mathMgpN": 127
+  },
+  "02152.1": {
+    "elaMgp": 57,
+    "mathMgp": 42,
+    "elaMgpN": 113,
+    "mathMgpN": 113
+  },
+  "02153.1": {
+    "elaMgp": 59,
+    "mathMgp": 26,
+    "elaMgpN": 167,
+    "mathMgpN": 168
+  },
+  "02154.1": {
+    "elaMgp": 47,
+    "mathMgp": 56,
+    "elaMgpN": 178,
+    "mathMgpN": 178
+  },
+  "02155.1": {
+    "elaMgp": 47.5,
+    "mathMgp": 43.5,
+    "elaMgpN": 138,
+    "mathMgpN": 138
+  },
+  "02156.1": {
+    "elaMgp": 50,
+    "mathMgp": 53,
+    "elaMgpN": 149,
+    "mathMgpN": 150
+  },
+  "02157.1": {
+    "elaMgp": 57,
+    "mathMgp": 63.5,
+    "elaMgpN": 246,
+    "mathMgpN": 220
+  },
+  "02158.1": {
+    "elaMgp": 51.5,
+    "mathMgp": 44,
+    "elaMgpN": 160,
+    "mathMgpN": 159
+  },
+  "02159.1": {
+    "elaMgp": 49,
+    "mathMgp": 37,
+    "elaMgpN": 128,
+    "mathMgpN": 129
+  },
+  "02160.1": {
+    "elaMgp": 40,
+    "mathMgp": 35,
+    "elaMgpN": 165,
+    "mathMgpN": 165
+  },
+  "02161.1": {
+    "elaMgp": 42.5,
+    "mathMgp": 22,
+    "elaMgpN": 138,
+    "mathMgpN": 138
+  },
+  "02162.1": {
+    "elaMgp": 58,
+    "mathMgp": 66,
+    "elaMgpN": 125,
+    "mathMgpN": 125
+  },
+  "02163.1": {
+    "elaMgp": 31,
+    "mathMgp": 34,
+    "elaMgpN": 181,
+    "mathMgpN": 181
+  },
+  "02164.1": {
+    "elaMgp": 60,
+    "mathMgp": 42,
+    "elaMgpN": 151,
+    "mathMgpN": 151
+  },
+  "02165.1": {
+    "elaMgp": 55,
+    "mathMgp": 63,
+    "elaMgpN": 143,
+    "mathMgpN": 144
+  },
+  "02166.1": {
+    "elaMgp": 48,
+    "mathMgp": 45,
+    "elaMgpN": 187,
+    "mathMgpN": 187
+  },
+  "02167.1": {
+    "elaMgp": 33,
+    "mathMgp": 30,
+    "elaMgpN": 179,
+    "mathMgpN": 177
+  },
+  "02168.1": {
+    "elaMgp": 61,
+    "mathMgp": 47.5,
+    "elaMgpN": 162,
+    "mathMgpN": 162
+  },
+  "02169.1": {
+    "elaMgp": 45,
+    "mathMgp": 52,
+    "elaMgpN": 149,
+    "mathMgpN": 148
+  },
+  "02170.1": {
+    "elaMgp": 73,
+    "mathMgp": 77.5,
+    "elaMgpN": 172,
+    "mathMgpN": 172
+  },
+  "02171.1": {
+    "elaMgp": 40,
+    "mathMgp": 37,
+    "elaMgpN": 223,
+    "mathMgpN": 223
+  },
+  "02172.1": {
+    "elaMgp": 38,
+    "mathMgp": 49,
+    "elaMgpN": 152,
+    "mathMgpN": 153
+  },
+  "02173.1": {
+    "elaMgp": 58,
+    "mathMgp": 46,
+    "elaMgpN": 211,
+    "mathMgpN": 209
+  },
+  "02174.1": {
+    "elaMgp": 58,
+    "mathMgp": 54,
+    "elaMgpN": 191,
+    "mathMgpN": 191
+  },
+  "02175.1": {
+    "elaMgp": 55,
+    "mathMgp": 51,
+    "elaMgpN": 151,
+    "mathMgpN": 151
+  },
+  "02176.1": {
+    "elaMgp": 57,
+    "mathMgp": 53,
+    "elaMgpN": 157,
+    "mathMgpN": 157
+  },
+  "02177.1": {
+    "elaMgp": 42,
+    "mathMgp": 39.5,
+    "elaMgpN": 219,
+    "mathMgpN": 218
+  },
+  "02178.1": {
+    "elaMgp": 55,
+    "mathMgp": 47,
+    "elaMgpN": 277,
+    "mathMgpN": 277
+  },
+  "02179.1": {
+    "elaMgp": 44.5,
+    "mathMgp": 56.5,
+    "elaMgpN": 184,
+    "mathMgpN": 184
+  },
+  "02180.1": {
+    "elaMgp": 43.5,
+    "mathMgp": 52,
+    "elaMgpN": 204,
+    "mathMgpN": 203
+  },
+  "02181.1": {
+    "elaMgp": 59,
+    "mathMgp": 64,
+    "elaMgpN": 207,
+    "mathMgpN": 208
+  },
+  "02182.1": {
+    "elaMgp": 48,
+    "mathMgp": 62,
+    "elaMgpN": 174,
+    "mathMgpN": 173
+  },
+  "02183.1": {
+    "elaMgp": 52,
+    "mathMgp": 54,
+    "elaMgpN": 200,
+    "mathMgpN": 200
+  },
+  "02184.1": {
+    "elaMgp": 57,
+    "mathMgp": 61,
+    "elaMgpN": 173,
+    "mathMgpN": 174
+  },
+  "02185.1": {
+    "elaMgp": 47,
+    "mathMgp": 48.5,
+    "elaMgpN": 212,
+    "mathMgpN": 212
+  },
+  "02186.1": {
+    "elaMgp": 59,
+    "mathMgp": 62,
+    "elaMgpN": 218,
+    "mathMgpN": 218
+  },
+  "02187.1": {
+    "elaMgp": 43,
+    "mathMgp": 41,
+    "elaMgpN": 144,
+    "mathMgpN": 145
+  },
+  "02188.1": {
+    "elaMgp": 58,
+    "mathMgp": 65,
+    "elaMgpN": 153,
+    "mathMgpN": 153
+  },
+  "02189.1": {
+    "elaMgp": 41.5,
+    "mathMgp": 31,
+    "elaMgpN": 188,
+    "mathMgpN": 188
+  },
+  "02190.1": {
+    "elaMgp": 52,
+    "mathMgp": 52,
+    "elaMgpN": 215,
+    "mathMgpN": 215
+  },
+  "02191.1": {
+    "elaMgp": 53,
+    "mathMgp": 54,
+    "elaMgpN": 134,
+    "mathMgpN": 133
+  },
+  "02192.1": {
+    "elaMgp": 56.5,
+    "mathMgp": 54,
+    "elaMgpN": 146,
+    "mathMgpN": 146
+  },
+  "02193.1": {
+    "elaMgp": 58,
+    "mathMgp": 64,
+    "elaMgpN": 203,
+    "mathMgpN": 203
+  },
+  "02194.1": {
+    "elaMgp": 59,
+    "mathMgp": 51,
+    "elaMgpN": 230,
+    "mathMgpN": 231
+  },
+  "02195.1": {
+    "elaMgp": 35.5,
+    "mathMgp": 46,
+    "elaMgpN": 178,
+    "mathMgpN": 178
+  },
+  "02196.1": {
+    "elaMgp": 43,
+    "mathMgp": 50,
+    "elaMgpN": 154,
+    "mathMgpN": 153
+  },
+  "02197.1": {
+    "elaMgp": 61,
+    "mathMgp": 57,
+    "elaMgpN": 216,
+    "mathMgpN": 216
+  },
+  "02198.1": {
+    "elaMgp": 53,
+    "mathMgp": 48,
+    "elaMgpN": 157,
+    "mathMgpN": 158
+  },
+  "02199.1": {
+    "elaMgp": 40,
+    "mathMgp": 41,
+    "elaMgpN": 201,
+    "mathMgpN": 203
+  },
+  "02200.1": {
+    "elaMgp": 42,
+    "mathMgp": 29,
+    "elaMgpN": 153,
+    "mathMgpN": 153
+  },
+  "02201.1": {
+    "elaMgp": 43,
+    "mathMgp": 40,
+    "elaMgpN": 188,
+    "mathMgpN": 187
+  },
+  "02202.1": {
+    "elaMgp": 52,
+    "mathMgp": 54,
+    "elaMgpN": 167,
+    "mathMgpN": 167
+  },
+  "02203.1": {
+    "elaMgp": 43.5,
+    "mathMgp": 43,
+    "elaMgpN": 138,
+    "mathMgpN": 138
+  },
+  "02204.1": {
+    "elaMgp": 54,
+    "mathMgp": 44,
+    "elaMgpN": 154,
+    "mathMgpN": 129
+  },
+  "02205.1": {
+    "elaMgp": 56,
+    "mathMgp": 64,
+    "elaMgpN": 151,
+    "mathMgpN": 151
+  },
+  "02206.1": {
+    "elaMgp": 47,
+    "mathMgp": 50,
+    "elaMgpN": 144,
+    "mathMgpN": 144
+  },
+  "02207.1": {
+    "elaMgp": 47,
+    "mathMgp": 49,
+    "elaMgpN": 115,
+    "mathMgpN": 116
+  },
+  "02208.1": {
+    "elaMgp": 36,
+    "mathMgp": 58,
+    "elaMgpN": 182,
+    "mathMgpN": 182
+  },
+  "02209.1": {
+    "elaMgp": 45,
+    "mathMgp": 32,
+    "elaMgpN": 187,
+    "mathMgpN": 187
+  },
+  "02210.1": {
+    "elaMgp": 40.5,
+    "mathMgp": 57,
+    "elaMgpN": 190,
+    "mathMgpN": 191
+  },
+  "02211.1": {
+    "elaMgp": 50,
+    "mathMgp": 67.5,
+    "elaMgpN": 94,
+    "mathMgpN": 94
+  },
+  "02212.1": {
+    "elaMgp": 42,
+    "mathMgp": 37,
+    "elaMgpN": 179,
+    "mathMgpN": 179
+  },
+  "02213.1": {
+    "elaMgp": 31,
+    "mathMgp": 32,
+    "elaMgpN": 156,
+    "mathMgpN": 155
+  },
+  "02214.1": {
+    "elaMgp": 54,
+    "mathMgp": 70,
+    "elaMgpN": 150,
+    "mathMgpN": 150
+  },
+  "02215.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02215.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02215.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02216.1": {
+    "elaMgp": 34,
+    "mathMgp": 34,
+    "elaMgpN": 144,
+    "mathMgpN": 143
+  },
+  "02217.1": {
+    "elaMgp": 45.5,
+    "mathMgp": 49.5,
+    "elaMgpN": 170,
+    "mathMgpN": 170
+  },
+  "02218.1": {
+    "elaMgp": 41.5,
+    "mathMgp": 52.5,
+    "elaMgpN": 170,
+    "mathMgpN": 170
+  },
+  "02219.1": {
+    "elaMgp": 55,
+    "mathMgp": 52,
+    "elaMgpN": 85,
+    "mathMgpN": 85
+  },
+  "02220.1": {
+    "elaMgp": 41,
+    "mathMgp": 43,
+    "elaMgpN": 167,
+    "mathMgpN": 167
+  },
+  "02221.1": {
+    "elaMgp": 63,
+    "mathMgp": 41,
+    "elaMgpN": 136,
+    "mathMgpN": 136
+  },
+  "02222.1": {
+    "elaMgp": 50,
+    "mathMgp": 68.5,
+    "elaMgpN": 180,
+    "mathMgpN": 180
+  },
+  "02223.1": {
+    "elaMgp": 33.5,
+    "mathMgp": 38,
+    "elaMgpN": 110,
+    "mathMgpN": 110
+  },
+  "02224.1": {
+    "elaMgp": 36,
+    "mathMgp": 50.5,
+    "elaMgpN": 70,
+    "mathMgpN": 68
+  },
+  "02225.1": {
+    "elaMgp": 50,
+    "mathMgp": 38,
+    "elaMgpN": 159,
+    "mathMgpN": 159
+  },
+  "02226.1": {
+    "elaMgp": 33,
+    "mathMgp": 42,
+    "elaMgpN": 76,
+    "mathMgpN": 76
+  },
+  "02228.1": {
+    "elaMgp": 38,
+    "mathMgp": 39,
+    "elaMgpN": 103,
+    "mathMgpN": 98
+  },
+  "02230.1": {
+    "elaMgp": 55,
+    "mathMgp": 50,
+    "elaMgpN": 201,
+    "mathMgpN": 199
+  },
+  "02231.1": {
+    "elaMgp": 51,
+    "mathMgp": 48,
+    "elaMgpN": 141,
+    "mathMgpN": 141
+  },
+  "02232.1": {
+    "elaMgp": 63.5,
+    "mathMgp": 51,
+    "elaMgpN": 86,
+    "mathMgpN": 86
+  },
+  "02233.1": {
+    "elaMgp": 46,
+    "mathMgp": 47,
+    "elaMgpN": 170,
+    "mathMgpN": 169
+  },
+  "02234.1": {
+    "elaMgp": 63,
+    "mathMgp": 75,
+    "elaMgpN": 72,
+    "mathMgpN": 71
+  },
+  "02235.1": {
+    "elaMgp": 52.5,
+    "mathMgp": 81,
+    "elaMgpN": 110,
+    "mathMgpN": 109
+  },
+  "02236.1": {
+    "elaMgp": 39,
+    "mathMgp": 57,
+    "elaMgpN": 135,
+    "mathMgpN": 135
+  },
+  "02237.1": {
+    "elaMgp": 44.5,
+    "mathMgp": 42,
+    "elaMgpN": 164,
+    "mathMgpN": 162
+  },
+  "02238.1": {
+    "elaMgp": 55,
+    "mathMgp": 49,
+    "elaMgpN": 165,
+    "mathMgpN": 165
+  },
+  "02239.1": {
+    "elaMgp": 36.5,
+    "mathMgp": 42,
+    "elaMgpN": 122,
+    "mathMgpN": 122
+  },
+  "02241.1": {
+    "elaMgp": 47,
+    "mathMgp": 58.5,
+    "elaMgpN": 136,
+    "mathMgpN": 136
+  },
+  "02242.1": {
+    "elaMgp": 52.5,
+    "mathMgp": 47.5,
+    "elaMgpN": 184,
+    "mathMgpN": 182
+  },
+  "02243.1": {
+    "elaMgp": 53,
+    "mathMgp": 57,
+    "elaMgpN": 157,
+    "mathMgpN": 156
+  },
+  "02244.1": {
+    "elaMgp": 61,
+    "mathMgp": 71.5,
+    "elaMgpN": 131,
+    "mathMgpN": 132
+  },
+  "02245.1": {
+    "elaMgp": 49,
+    "mathMgp": 60,
+    "elaMgpN": 189,
+    "mathMgpN": 189
+  },
+  "02246.1": {
+    "elaMgp": 63,
+    "mathMgp": 63,
+    "elaMgpN": 165,
+    "mathMgpN": 165
+  },
+  "02247.1": {
+    "elaMgp": 62,
+    "mathMgp": 60,
+    "elaMgpN": 121,
+    "mathMgpN": 121
+  },
+  "02248.1": {
+    "elaMgp": 49,
+    "mathMgp": 42,
+    "elaMgpN": 202,
+    "mathMgpN": 202
+  },
+  "02249.1": {
+    "elaMgp": 59.5,
+    "mathMgp": 56,
+    "elaMgpN": 222,
+    "mathMgpN": 222
+  },
+  "02250.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02251.1": {
+    "elaMgp": 39.5,
+    "mathMgp": 40.5,
+    "elaMgpN": 152,
+    "mathMgpN": 152
+  },
+  "02252.1": {
+    "elaMgp": 52,
+    "mathMgp": 58,
+    "elaMgpN": 41,
+    "mathMgpN": 41
+  },
+  "02253.1": {
+    "elaMgp": 48.5,
+    "mathMgp": 54.5,
+    "elaMgpN": 200,
+    "mathMgpN": 200
+  },
+  "02254.1": {
+    "elaMgp": 40,
+    "mathMgp": 47.5,
+    "elaMgpN": 107,
+    "mathMgpN": 106
+  },
+  "02255.1": {
+    "elaMgp": 49,
+    "mathMgp": 52,
+    "elaMgpN": 168,
+    "mathMgpN": 168
+  },
+  "02256.1": {
+    "elaMgp": 57,
+    "mathMgp": 47,
+    "elaMgpN": 84,
+    "mathMgpN": 84
+  },
+  "02257.1": {
+    "elaMgp": 45.5,
+    "mathMgp": 50,
+    "elaMgpN": 152,
+    "mathMgpN": 164
+  },
+  "02258.1": {
+    "elaMgp": 21,
+    "mathMgp": 31,
+    "elaMgpN": 173,
+    "mathMgpN": 174
+  },
+  "02259.1": {
+    "elaMgp": 49.5,
+    "mathMgp": 53,
+    "elaMgpN": 144,
+    "mathMgpN": 144
+  },
+  "02260.1": {
+    "elaMgp": 49,
+    "mathMgp": 58,
+    "elaMgpN": 195,
+    "mathMgpN": 195
+  },
+  "02261.1": {
+    "elaMgp": 42,
+    "mathMgp": 50,
+    "elaMgpN": 149,
+    "mathMgpN": 152
+  },
+  "02262.1": {
+    "elaMgp": 39,
+    "mathMgp": 44,
+    "elaMgpN": 183,
+    "mathMgpN": 183
+  },
+  "02263.1": {
+    "elaMgp": 61,
+    "mathMgp": 66,
+    "elaMgpN": 153,
+    "mathMgpN": 154
+  },
+  "02264.1": {
+    "elaMgp": 45,
+    "mathMgp": 52,
+    "elaMgpN": 153,
+    "mathMgpN": 153
+  },
+  "02265.1": {
+    "elaMgp": 45,
+    "mathMgp": 48,
+    "elaMgpN": 103,
+    "mathMgpN": 103
+  },
+  "02266.1": {
+    "elaMgp": 50.5,
+    "mathMgp": 60,
+    "elaMgpN": 192,
+    "mathMgpN": 191
+  },
+  "02267.1": {
+    "elaMgp": 51,
+    "mathMgp": 52,
+    "elaMgpN": 156,
+    "mathMgpN": 156
+  },
+  "02268.1": {
+    "elaMgp": 56,
+    "mathMgp": 44,
+    "elaMgpN": 107,
+    "mathMgpN": 107
+  },
+  "02269.1": {
+    "elaMgp": 59,
+    "mathMgp": 74,
+    "elaMgpN": 177,
+    "mathMgpN": 177
+  },
+  "02270.1": {
+    "elaMgp": 36,
+    "mathMgp": 29.5,
+    "elaMgpN": 176,
+    "mathMgpN": 176
+  },
+  "02271.1": {
+    "elaMgp": 56,
+    "mathMgp": 63.5,
+    "elaMgpN": 199,
+    "mathMgpN": 200
+  },
+  "02272.1": {
+    "elaMgp": 56,
+    "mathMgp": 48,
+    "elaMgpN": 179,
+    "mathMgpN": 175
+  },
+  "02273.1": {
+    "elaMgp": 58.5,
+    "mathMgp": 59.5,
+    "elaMgpN": 114,
+    "mathMgpN": 114
+  },
+  "02274.1": {
+    "elaMgp": 47,
+    "mathMgp": 29.5,
+    "elaMgpN": 212,
+    "mathMgpN": 212
+  },
+  "02275.1": {
+    "elaMgp": 57.5,
+    "mathMgp": 40,
+    "elaMgpN": 148,
+    "mathMgpN": 148
+  },
+  "02276.1": {
+    "elaMgp": 28,
+    "mathMgp": 40.5,
+    "elaMgpN": 173,
+    "mathMgpN": 172
+  },
+  "02277.1": {
+    "elaMgp": 46.5,
+    "mathMgp": 54.5,
+    "elaMgpN": 144,
+    "mathMgpN": 144
+  },
+  "02278.1": {
+    "elaMgp": 56,
+    "mathMgp": 57.5,
+    "elaMgpN": 96,
+    "mathMgpN": 96
+  },
+  "02279.1": {
+    "elaMgp": 61,
+    "mathMgp": 63.5,
+    "elaMgpN": 193,
+    "mathMgpN": 192
+  },
+  "02280.1": {
+    "elaMgp": 54,
+    "mathMgp": 57.5,
+    "elaMgpN": 154,
+    "mathMgpN": 154
+  },
+  "02281.1": {
+    "elaMgp": 54,
+    "mathMgp": 57,
+    "elaMgpN": 123,
+    "mathMgpN": 121
+  },
+  "02282.1": {
+    "elaMgp": 52,
+    "mathMgp": 64,
+    "elaMgpN": 147,
+    "mathMgpN": 125
+  },
+  "02283.1": {
+    "elaMgp": 61,
+    "mathMgp": 63,
+    "elaMgpN": 154,
+    "mathMgpN": 154
+  },
+  "02284.1": {
+    "elaMgp": 42.5,
+    "mathMgp": 50.5,
+    "elaMgpN": 174,
+    "mathMgpN": 176
+  },
+  "02285.1": {
+    "elaMgp": 43,
+    "mathMgp": 42,
+    "elaMgpN": 231,
+    "mathMgpN": 231
+  },
+  "02286.1": {
+    "elaMgp": 53,
+    "mathMgp": 48,
+    "elaMgpN": 207,
+    "mathMgpN": 207
+  },
+  "02287.1": {
+    "elaMgp": 59,
+    "mathMgp": 54,
+    "elaMgpN": 204,
+    "mathMgpN": 204
+  },
+  "02289.1": {
+    "elaMgp": 51.5,
+    "mathMgp": 65,
+    "elaMgpN": 158,
+    "mathMgpN": 158
+  },
+  "02290.1": {
+    "elaMgp": 53.5,
+    "mathMgp": 61,
+    "elaMgpN": 128,
+    "mathMgpN": 129
+  },
+  "02291.1": {
+    "elaMgp": 74,
+    "mathMgp": 50.5,
+    "elaMgpN": 38,
+    "mathMgpN": 38
+  },
+  "02292.1": {
+    "elaMgp": 41,
+    "mathMgp": 45,
+    "elaMgpN": 84,
+    "mathMgpN": 84
+  },
+  "02293.1": {
+    "elaMgp": 58,
+    "mathMgp": 52,
+    "elaMgpN": 168,
+    "mathMgpN": 166
+  },
+  "02294.1": {
+    "elaMgp": 40,
+    "mathMgp": 39,
+    "elaMgpN": 141,
+    "mathMgpN": 141
+  },
+  "02295.1": {
+    "elaMgp": 45,
+    "mathMgp": 47,
+    "elaMgpN": 151,
+    "mathMgpN": 149
+  },
+  "02296.1": {
+    "elaMgp": 52,
+    "mathMgp": 57,
+    "elaMgpN": 135,
+    "mathMgpN": 134
+  },
+  "02297.1": {
+    "elaMgp": 50,
+    "mathMgp": 52,
+    "elaMgpN": 99,
+    "mathMgpN": 98
+  },
+  "02298.1": {
+    "elaMgp": 49,
+    "mathMgp": 61.5,
+    "elaMgpN": 111,
+    "mathMgpN": 112
+  },
+  "02300.1": {
+    "elaMgp": 33,
+    "mathMgp": 47,
+    "elaMgpN": 159,
+    "mathMgpN": 159
+  },
+  "02301.2": {
+    "elaMgp": 35,
+    "mathMgp": 35,
+    "elaMgpN": 674,
+    "mathMgpN": 671
+  },
+  "02302.2": {
+    "elaMgp": 43,
+    "mathMgp": 40,
+    "elaMgpN": 866,
+    "mathMgpN": 865
+  },
+  "02303.2": {
+    "elaMgp": 50,
+    "mathMgp": 57,
+    "elaMgpN": 1192,
+    "mathMgpN": 1187
+  },
+  "02304.2": {
+    "elaMgp": 43,
+    "mathMgp": 44.5,
+    "elaMgpN": 863,
+    "mathMgpN": 864
+  },
+  "02305.2": {
+    "elaMgp": 42,
+    "mathMgp": 43,
+    "elaMgpN": 1001,
+    "mathMgpN": 999
+  },
+  "02306.2": {
+    "elaMgp": 53,
+    "mathMgp": 51,
+    "elaMgpN": 725,
+    "mathMgpN": 723
+  },
+  "02307.2": {
+    "elaMgp": 44,
+    "mathMgp": 51,
+    "elaMgpN": 962,
+    "mathMgpN": 961
+  },
+  "02308.2": {
+    "elaMgp": 52,
+    "mathMgp": 55.5,
+    "elaMgpN": 622,
+    "mathMgpN": 620
+  },
+  "02309.2": {
+    "elaMgp": 50,
+    "mathMgp": 32,
+    "elaMgpN": 1059,
+    "mathMgpN": 1055
+  },
+  "02310.2": {
+    "elaMgp": 51,
+    "mathMgp": 53,
+    "elaMgpN": 1025,
+    "mathMgpN": 1016
+  },
+  "02311.2": {
+    "elaMgp": 50,
+    "mathMgp": 45,
+    "elaMgpN": 984,
+    "mathMgpN": 983
+  },
+  "02312.2": {
+    "elaMgp": 49,
+    "mathMgp": 52,
+    "elaMgpN": 580,
+    "mathMgpN": 570
+  },
+  "02313.2": {
+    "elaMgp": 48,
+    "mathMgp": 46,
+    "elaMgpN": 393,
+    "mathMgpN": 389
+  },
+  "02314.2": {
+    "elaMgp": 40,
+    "mathMgp": 32,
+    "elaMgpN": 614,
+    "mathMgpN": 610
+  },
+  "02316.2": {
+    "elaMgp": 37,
+    "mathMgp": 37,
+    "elaMgpN": 566,
+    "mathMgpN": 573
+  },
+  "02317.2": {
+    "elaMgp": 57,
+    "mathMgp": 47,
+    "elaMgpN": 931,
+    "mathMgpN": 884
+  },
+  "02318.2": {
+    "elaMgp": 52,
+    "mathMgp": 55,
+    "elaMgpN": 359,
+    "mathMgpN": 358
+  },
+  "02319.2": {
+    "elaMgp": 46,
+    "mathMgp": 48,
+    "elaMgpN": 646,
+    "mathMgpN": 644
+  },
+  "02320.2": {
+    "elaMgp": 43,
+    "mathMgp": 63,
+    "elaMgpN": 76,
+    "mathMgpN": 74
+  },
+  "02320.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02321.2": {
+    "elaMgp": 39,
+    "mathMgp": 51,
+    "elaMgpN": 115,
+    "mathMgpN": 115
+  },
+  "02321.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02322.2": {
+    "elaMgp": 57,
+    "mathMgp": 61,
+    "elaMgpN": 1396,
+    "mathMgpN": 1394
+  },
+  "02323.2": {
+    "elaMgp": 53,
+    "mathMgp": 53,
+    "elaMgpN": 1113,
+    "mathMgpN": 1116
+  },
+  "02324.2": {
+    "elaMgp": 55,
+    "mathMgp": 53,
+    "elaMgpN": 1155,
+    "mathMgpN": 1092
+  },
+  "02325.2": {
+    "elaMgp": 40,
+    "mathMgp": 45,
+    "elaMgpN": 843,
+    "mathMgpN": 839
+  },
+  "02326.2": {
+    "elaMgp": 54.5,
+    "mathMgp": 53,
+    "elaMgpN": 1444,
+    "mathMgpN": 1445
+  },
+  "02327.2": {
+    "elaMgp": 46,
+    "mathMgp": 58,
+    "elaMgpN": 867,
+    "mathMgpN": 871
+  },
+  "02328.2": {
+    "elaMgp": 62,
+    "mathMgp": 53,
+    "elaMgpN": 907,
+    "mathMgpN": 901
+  },
+  "02329.2": {
+    "elaMgp": 61,
+    "mathMgp": 72,
+    "elaMgpN": 351,
+    "mathMgpN": 353
+  },
+  "02330.2": {
+    "elaMgp": 50,
+    "mathMgp": 45,
+    "elaMgpN": 610,
+    "mathMgpN": 600
+  },
+  "02330.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02331.2": {
+    "elaMgp": 51,
+    "mathMgp": 54,
+    "elaMgpN": 1528,
+    "mathMgpN": 1518
+  },
+  "02332.2": {
+    "elaMgp": 44,
+    "mathMgp": 50,
+    "elaMgpN": 899,
+    "mathMgpN": 905
+  },
+  "02333.2": {
+    "elaMgp": 45.5,
+    "mathMgp": 45,
+    "elaMgpN": 716,
+    "mathMgpN": 719
+  },
+  "02334.2": {
+    "elaMgp": 43,
+    "mathMgp": 36,
+    "elaMgpN": 839,
+    "mathMgpN": 867
+  },
+  "02335.2": {
+    "elaMgp": 37,
+    "mathMgp": 47,
+    "elaMgpN": 721,
+    "mathMgpN": 722
+  },
+  "02336.2": {
+    "elaMgp": 58,
+    "mathMgp": 46,
+    "elaMgpN": 72,
+    "mathMgpN": 72
+  },
+  "02337.2": {
+    "elaMgp": 50,
+    "mathMgp": 54,
+    "elaMgpN": 1030,
+    "mathMgpN": 1022
+  },
+  "02338.2": {
+    "elaMgp": 49,
+    "mathMgp": 48,
+    "elaMgpN": 1258,
+    "mathMgpN": 1250
+  },
+  "02339.2": {
+    "elaMgp": 60,
+    "mathMgp": 60,
+    "elaMgpN": 1434,
+    "mathMgpN": 1429
+  },
+  "02341.2": {
+    "elaMgp": 58,
+    "mathMgp": 48,
+    "elaMgpN": 1173,
+    "mathMgpN": 1185
+  },
+  "02342.2": {
+    "elaMgp": 54,
+    "mathMgp": 60,
+    "elaMgpN": 1174,
+    "mathMgpN": 1170
+  },
+  "02343.2": {
+    "elaMgp": 54,
+    "mathMgp": 56,
+    "elaMgpN": 807,
+    "mathMgpN": 808
+  },
+  "02344.2": {
+    "elaMgp": 50,
+    "mathMgp": 54,
+    "elaMgpN": 824,
+    "mathMgpN": 822
+  },
+  "02345.2": {
+    "elaMgp": 51,
+    "mathMgp": 47,
+    "elaMgpN": 650,
+    "mathMgpN": 708
+  },
+  "02346.2": {
+    "elaMgp": 33,
+    "mathMgp": 38,
+    "elaMgpN": 993,
+    "mathMgpN": 996
+  },
+  "02347.2": {
+    "elaMgp": 51,
+    "mathMgp": 59,
+    "elaMgpN": 1036,
+    "mathMgpN": 1033
+  },
+  "02348.2": {
+    "elaMgp": 35,
+    "mathMgp": 56,
+    "elaMgpN": 1329,
+    "mathMgpN": 1329
+  },
+  "02349.2": {
+    "elaMgp": 50,
+    "mathMgp": 55,
+    "elaMgpN": 1298,
+    "mathMgpN": 1296
+  },
+  "02350.2": {
+    "elaMgp": 56,
+    "mathMgp": 60,
+    "elaMgpN": 491,
+    "mathMgpN": 491
+  },
+  "02352.2": {
+    "elaMgp": 51,
+    "mathMgp": 39,
+    "elaMgpN": 988,
+    "mathMgpN": 988
+  },
+  "02353.2": {
+    "elaMgp": 60,
+    "mathMgp": 48,
+    "elaMgpN": 1233,
+    "mathMgpN": 1222
+  },
+  "02354.2": {
+    "elaMgp": 52,
+    "mathMgp": 52,
+    "elaMgpN": 1151,
+    "mathMgpN": 1138
+  },
+  "02355.2": {
+    "elaMgp": 46,
+    "mathMgp": 57,
+    "elaMgpN": 1405,
+    "mathMgpN": 1409
+  },
+  "02356.2": {
+    "elaMgp": 43,
+    "mathMgp": 55,
+    "elaMgpN": 720,
+    "mathMgpN": 717
+  },
+  "02357.2": {
+    "elaMgp": 35,
+    "mathMgp": 41,
+    "elaMgpN": 942,
+    "mathMgpN": 903
+  },
+  "02359.2": {
+    "elaMgp": 49,
+    "mathMgp": 44,
+    "elaMgpN": 933,
+    "mathMgpN": 925
+  },
+  "02360.2": {
+    "elaMgp": 60,
+    "mathMgp": 50,
+    "elaMgpN": 1105,
+    "mathMgpN": 1103
+  },
+  "02361.2": {
+    "elaMgp": 54,
+    "mathMgp": 41,
+    "elaMgpN": 679,
+    "mathMgpN": 683
+  },
+  "02362.2": {
+    "elaMgp": 51,
+    "mathMgp": 57,
+    "elaMgpN": 1084,
+    "mathMgpN": 1084
+  },
+  "02368.2": {
+    "elaMgp": 62,
+    "mathMgp": 72,
+    "elaMgpN": 1268,
+    "mathMgpN": 1266
+  },
+  "02369.2": {
+    "elaMgp": 72,
+    "mathMgp": 64,
+    "elaMgpN": 222,
+    "mathMgpN": 237
+  },
+  "02401.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02402.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02403.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02404.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02405.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02406.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02408.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02409.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02410.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02411.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02412.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02414.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02415.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02416.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02417.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02418.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02420.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02421.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02422.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02423.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02424.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02425.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02426.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02427.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02428.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02429.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02430.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02431.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02432.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02433.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02434.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02435.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02501.1": {
+    "elaMgp": 67,
+    "mathMgp": 56,
+    "elaMgpN": 194,
+    "mathMgpN": 194
+  },
+  "02601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02602.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02603.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02604.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02607.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02608.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02609.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02611.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02612.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02618.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02619.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02620.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02623.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02624.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02625.2": {
+    "elaMgp": 36,
+    "mathMgp": 44,
+    "elaMgpN": 574,
+    "mathMgpN": 575
+  },
+  "02625.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02626.1": {
+    "elaMgp": 31,
+    "mathMgp": 44,
+    "elaMgpN": 302,
+    "mathMgpN": 299
+  },
+  "02627.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02628.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02716.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02777.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02777.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02910.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02910.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02910.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02911.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02911.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02912.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02912.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02913.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02913.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02916.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02916.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02917.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02919.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02919.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02922.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02923.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02924.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02926.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02927.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02927.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02928.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02928.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02932.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02932.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02933.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02933.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02935.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02939.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02955.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02957.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "02957.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "03201.1": {
+    "elaMgp": 46,
+    "mathMgp": 42,
+    "elaMgpN": 101,
+    "mathMgpN": 101
+  },
+  "03202.1": {
+    "elaMgp": 40,
+    "mathMgp": 37,
+    "elaMgpN": 31,
+    "mathMgpN": 31
+  },
+  "03205.1": {
+    "elaMgp": 41,
+    "mathMgp": 47,
+    "elaMgpN": 123,
+    "mathMgpN": 123
+  },
+  "03206.1": {
+    "elaMgp": 44.5,
+    "mathMgp": 34,
+    "elaMgpN": 96,
+    "mathMgpN": 96
+  },
+  "03207.1": {
+    "elaMgp": 58,
+    "mathMgp": 54,
+    "elaMgpN": 110,
+    "mathMgpN": 111
+  },
+  "03209.1": {
+    "elaMgp": 64.5,
+    "mathMgp": 69,
+    "elaMgpN": 96,
+    "mathMgpN": 96
+  },
+  "03210.1": {
+    "elaMgp": 37,
+    "mathMgp": 45.5,
+    "elaMgpN": 133,
+    "mathMgpN": 132
+  },
+  "03301.2": {
+    "elaMgp": 37,
+    "mathMgp": 54,
+    "elaMgpN": 525,
+    "mathMgpN": 531
+  },
+  "03302.2": {
+    "elaMgp": 36,
+    "mathMgp": 45,
+    "elaMgpN": 413,
+    "mathMgpN": 411
+  },
+  "03501.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "03502.2": {
+    "elaMgp": 58,
+    "mathMgp": 62,
+    "elaMgpN": 63,
+    "mathMgpN": 63
+  },
+  "03502.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "03503.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "03503.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "03504.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "03601.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "03901.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "03901.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "03901.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04104.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04104.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04105.1": {
+    "elaMgp": 47,
+    "mathMgp": 48,
+    "elaMgpN": 25,
+    "mathMgpN": 25
+  },
+  "04107.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04107.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04108.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04108.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04111.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04111.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04120.1": {
+    "elaMgp": 37,
+    "mathMgp": 40.5,
+    "elaMgpN": 202,
+    "mathMgpN": 202
+  },
+  "04202.1": {
+    "elaMgp": 45,
+    "mathMgp": 46.5,
+    "elaMgpN": 50,
+    "mathMgpN": 50
+  },
+  "04203.1": {
+    "elaMgp": 36.5,
+    "mathMgp": 26,
+    "elaMgpN": 62,
+    "mathMgpN": 62
+  },
+  "04204.1": {
+    "elaMgp": 61,
+    "mathMgp": 76.5,
+    "elaMgpN": 92,
+    "mathMgpN": 90
+  },
+  "04205.1": {
+    "elaMgp": 35,
+    "mathMgp": 50,
+    "elaMgpN": 75,
+    "mathMgpN": 74
+  },
+  "04206.1": {
+    "elaMgp": 21.5,
+    "mathMgp": 37.5,
+    "elaMgpN": 52,
+    "mathMgpN": 54
+  },
+  "04207.1": {
+    "elaMgp": 48,
+    "mathMgp": 56.5,
+    "elaMgpN": 62,
+    "mathMgpN": 62
+  },
+  "04208.1": {
+    "elaMgp": 39.5,
+    "mathMgp": 55,
+    "elaMgpN": 124,
+    "mathMgpN": 125
+  },
+  "04209.1": {
+    "elaMgp": 41,
+    "mathMgp": 56.5,
+    "elaMgpN": 118,
+    "mathMgpN": 118
+  },
+  "04210.1": {
+    "elaMgp": 49,
+    "mathMgp": 40,
+    "elaMgpN": 119,
+    "mathMgpN": 119
+  },
+  "04211.1": {
+    "elaMgp": 41,
+    "mathMgp": 29,
+    "elaMgpN": 129,
+    "mathMgpN": 128
+  },
+  "04213.1": {
+    "elaMgp": 53,
+    "mathMgp": 55.5,
+    "elaMgpN": 630,
+    "mathMgpN": 622
+  },
+  "04501.2": {
+    "elaMgp": 56,
+    "mathMgp": 44,
+    "elaMgpN": 47,
+    "mathMgpN": 46
+  },
+  "04502.2": {
+    "elaMgp": 45,
+    "mathMgp": 24,
+    "elaMgpN": 45,
+    "mathMgpN": 45
+  },
+  "04503.2": {
+    "elaMgp": 41,
+    "mathMgp": 36,
+    "elaMgpN": 604,
+    "mathMgpN": 603
+  },
+  "04504.2": {
+    "elaMgp": 38,
+    "mathMgp": 37.5,
+    "elaMgpN": 614,
+    "mathMgpN": 606
+  },
+  "04505.2": {
+    "elaMgp": 26,
+    "mathMgp": 53,
+    "elaMgpN": 11,
+    "mathMgpN": 11
+  },
+  "04506.2": {
+    "elaMgp": 47,
+    "mathMgp": 34,
+    "elaMgpN": 45,
+    "mathMgpN": 41
+  },
+  "04507.2": {
+    "elaMgp": 45,
+    "mathMgp": 49,
+    "elaMgpN": 195,
+    "mathMgpN": 195
+  },
+  "04601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04602.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04603.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04604.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04605.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04606.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04607.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04610.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04610.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04610.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "04908.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "05101.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "05101.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "05102.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "05102.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "05501.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "06101.1": {
+    "elaMgp": 52,
+    "mathMgp": 34,
+    "elaMgpN": 11,
+    "mathMgpN": 11
+  },
+  "06103.1": {
+    "elaMgp": 60,
+    "mathMgp": 55,
+    "elaMgpN": 55,
+    "mathMgpN": 55
+  },
+  "06601.2": {
+    "elaMgp": 53.5,
+    "mathMgp": 43.5,
+    "elaMgpN": 54,
+    "mathMgpN": 54
+  },
+  "06601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "07101.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "07101.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "07103.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "07103.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "07104.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "07104.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "07105.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "07105.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "07201.1": {
+    "elaMgp": 43.5,
+    "mathMgp": 57,
+    "elaMgpN": 82,
+    "mathMgpN": 82
+  },
+  "07202.1": {
+    "elaMgp": 81,
+    "mathMgp": 59.5,
+    "elaMgpN": 47,
+    "mathMgpN": 46
+  },
+  "07203.1": {
+    "elaMgp": 66,
+    "mathMgp": 90.5,
+    "elaMgpN": 17,
+    "mathMgpN": 16
+  },
+  "07205.1": {
+    "elaMgp": 47,
+    "mathMgp": 60.5,
+    "elaMgpN": 58,
+    "mathMgpN": 58
+  },
+  "07206.1": {
+    "elaMgp": 43,
+    "mathMgp": 40,
+    "elaMgpN": 419,
+    "mathMgpN": 418
+  },
+  "07301.2": {
+    "elaMgp": 47,
+    "mathMgp": 49,
+    "elaMgpN": 432,
+    "mathMgpN": 431
+  },
+  "07302.2": {
+    "elaMgp": 21,
+    "mathMgp": 30.5,
+    "elaMgpN": 24,
+    "mathMgpN": 24
+  },
+  "07501.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "07601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "08201.1": {
+    "elaMgp": 39,
+    "mathMgp": 44,
+    "elaMgpN": 62,
+    "mathMgpN": 67
+  },
+  "08302.2": {
+    "elaMgp": 45,
+    "mathMgp": 49,
+    "elaMgpN": 275,
+    "mathMgpN": 278
+  },
+  "08601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "08602.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "08602.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "09102.1": {
+    "elaMgp": 28.5,
+    "mathMgp": 43,
+    "elaMgpN": 40,
+    "mathMgpN": 40
+  },
+  "09201.1": {
+    "elaMgp": 58.5,
+    "mathMgp": 81.5,
+    "elaMgpN": 26,
+    "mathMgpN": 26
+  },
+  "09202.1": {
+    "elaMgp": 37,
+    "mathMgp": 23,
+    "elaMgpN": 57,
+    "mathMgpN": 57
+  },
+  "09203.1": {
+    "elaMgp": 44,
+    "mathMgp": 54,
+    "elaMgpN": 13,
+    "mathMgpN": 13
+  },
+  "09301.2": {
+    "elaMgp": 44,
+    "mathMgp": 30,
+    "elaMgpN": 72,
+    "mathMgpN": 72
+  },
+  "09302.2": {
+    "elaMgp": 59.5,
+    "mathMgp": 51,
+    "elaMgpN": 56,
+    "mathMgpN": 54
+  },
+  "09501.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "09601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "09602.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "09602.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "101101.1": {
+    "elaMgp": 61,
+    "mathMgp": 59,
+    "elaMgpN": 111,
+    "mathMgpN": 111
+  },
+  "10201.1": {
+    "elaMgp": 53,
+    "mathMgp": 62.5,
+    "elaMgpN": 147,
+    "mathMgpN": 148
+  },
+  "10202.1": {
+    "elaMgp": 47,
+    "mathMgp": 29.5,
+    "elaMgpN": 93,
+    "mathMgpN": 92
+  },
+  "10203.1": {
+    "elaMgp": 48,
+    "mathMgp": 38,
+    "elaMgpN": 74,
+    "mathMgpN": 73
+  },
+  "10205.1": {
+    "elaMgp": 40,
+    "mathMgp": 32,
+    "elaMgpN": 57,
+    "mathMgpN": 65
+  },
+  "10206.1": {
+    "elaMgp": 50,
+    "mathMgp": 54,
+    "elaMgpN": 85,
+    "mathMgpN": 85
+  },
+  "10208.2": {
+    "elaMgp": 40.5,
+    "mathMgp": 31,
+    "elaMgpN": 266,
+    "mathMgpN": 261
+  },
+  "10209.1": {
+    "elaMgp": 43,
+    "mathMgp": 42,
+    "elaMgpN": 107,
+    "mathMgpN": 107
+  },
+  "10210.1": {
+    "elaMgp": 55,
+    "mathMgp": 40.5,
+    "elaMgpN": 134,
+    "mathMgpN": 134
+  },
+  "102100.1": {
+    "elaMgp": 39,
+    "mathMgp": 40,
+    "elaMgpN": 72,
+    "mathMgpN": 70
+  },
+  "102100.2": {
+    "elaMgp": 50,
+    "mathMgp": 33,
+    "elaMgpN": 143,
+    "mathMgpN": 143
+  },
+  "10211.1": {
+    "elaMgp": 36,
+    "mathMgp": 39.5,
+    "elaMgpN": 165,
+    "mathMgpN": 166
+  },
+  "10302.2": {
+    "elaMgp": 60,
+    "mathMgp": 61,
+    "elaMgpN": 365,
+    "mathMgpN": 364
+  },
+  "10303.1": {
+    "elaMgp": 51,
+    "mathMgp": 56,
+    "elaMgpN": 589,
+    "mathMgpN": 576
+  },
+  "10304.2": {
+    "elaMgp": 38,
+    "mathMgp": 44,
+    "elaMgpN": 263,
+    "mathMgpN": 260
+  },
+  "10305.2": {
+    "elaMgp": 26,
+    "mathMgp": 36,
+    "elaMgpN": 500,
+    "mathMgpN": 497
+  },
+  "104101.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "105101.1": {
+    "elaMgp": 47,
+    "mathMgp": 38,
+    "elaMgpN": 205,
+    "mathMgpN": 205
+  },
+  "105101.2": {
+    "elaMgp": 69.5,
+    "mathMgp": 54,
+    "elaMgpN": 186,
+    "mathMgpN": 186
+  },
+  "10601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "10602.1": {
+    "elaMgp": 43,
+    "mathMgp": 52,
+    "elaMgpN": 33,
+    "mathMgpN": 33
+  },
+  "10602.2": {
+    "elaMgp": 40,
+    "mathMgp": 65,
+    "elaMgpN": 25,
+    "mathMgpN": 25
+  },
+  "10602.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "10603.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "10604.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "10605.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "106101.1": {
+    "elaMgp": 60,
+    "mathMgp": 47,
+    "elaMgpN": 203,
+    "mathMgpN": 203
+  },
+  "106101.2": {
+    "elaMgp": 59,
+    "mathMgp": 61,
+    "elaMgpN": 332,
+    "mathMgpN": 331
+  },
+  "107101.2": {
+    "elaMgp": 40,
+    "mathMgp": 27,
+    "elaMgpN": 161,
+    "mathMgpN": 161
+  },
+  "107101.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "10902.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "10902.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "110100.1": {
+    "elaMgp": 47,
+    "mathMgp": 50,
+    "elaMgpN": 158,
+    "mathMgpN": 157
+  },
+  "110100.2": {
+    "elaMgp": 35.5,
+    "mathMgp": 46,
+    "elaMgpN": 184,
+    "mathMgpN": 185
+  },
+  "110100.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "111100.1": {
+    "elaMgp": 33,
+    "mathMgp": 24,
+    "elaMgpN": 45,
+    "mathMgpN": 44
+  },
+  "111100.2": {
+    "elaMgp": 38,
+    "mathMgp": 38.5,
+    "elaMgpN": 28,
+    "mathMgpN": 26
+  },
+  "11201.1": {
+    "elaMgp": 38,
+    "mathMgp": 42.5,
+    "elaMgpN": 101,
+    "mathMgpN": 100
+  },
+  "11202.1": {
+    "elaMgp": 56,
+    "mathMgp": 59,
+    "elaMgpN": 22,
+    "mathMgpN": 22
+  },
+  "11203.2": {
+    "elaMgp": 32,
+    "mathMgp": 23.5,
+    "elaMgpN": 63,
+    "mathMgpN": 64
+  },
+  "113100.2": {
+    "elaMgp": 43,
+    "mathMgp": 32,
+    "elaMgpN": 63,
+    "mathMgpN": 63
+  },
+  "113100.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "115100.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "11601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "12102.1": {
+    "elaMgp": 51.5,
+    "mathMgp": 54,
+    "elaMgpN": 162,
+    "mathMgpN": 162
+  },
+  "12103.1": {
+    "elaMgp": 39,
+    "mathMgp": 46,
+    "elaMgpN": 42,
+    "mathMgpN": 42
+  },
+  "12105.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "12106.1": {
+    "elaMgp": 18,
+    "mathMgp": 18,
+    "elaMgpN": 19,
+    "mathMgpN": 19
+  },
+  "12108.1": {
+    "elaMgp": 29,
+    "mathMgp": 30,
+    "elaMgpN": 156,
+    "mathMgpN": 156
+  },
+  "12201.1": {
+    "elaMgp": 44,
+    "mathMgp": 65,
+    "elaMgpN": 14,
+    "mathMgpN": 14
+  },
+  "12202.1": {
+    "elaMgp": 36.5,
+    "mathMgp": 56,
+    "elaMgpN": 36,
+    "mathMgpN": 36
+  },
+  "12207.1": {
+    "elaMgp": 50,
+    "mathMgp": 49,
+    "elaMgpN": 111,
+    "mathMgpN": 111
+  },
+  "12210.1": {
+    "elaMgp": 60,
+    "mathMgp": 58,
+    "elaMgpN": 163,
+    "mathMgpN": 161
+  },
+  "12301.2": {
+    "elaMgp": 50,
+    "mathMgp": 49,
+    "elaMgpN": 827,
+    "mathMgpN": 821
+  },
+  "12311.2": {
+    "elaMgp": 59,
+    "mathMgp": 58,
+    "elaMgpN": 25,
+    "mathMgpN": 25
+  },
+  "12312.2": {
+    "elaMgp": 51,
+    "mathMgp": 63,
+    "elaMgpN": 60,
+    "mathMgpN": 60
+  },
+  "12313.2": {
+    "elaMgp": 65.5,
+    "mathMgp": 59.5,
+    "elaMgpN": 48,
+    "mathMgpN": 48
+  },
+  "12315.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "12316.2": {
+    "elaMgp": 73,
+    "mathMgp": 53,
+    "elaMgpN": 51,
+    "mathMgpN": 51
+  },
+  "12601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "12602.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "12603.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "12604.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "12605.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "12606.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "12607.2": {
+    "elaMgp": 40,
+    "mathMgp": 41.5,
+    "elaMgpN": 26,
+    "mathMgpN": 26
+  },
+  "12609.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "13201.1": {
+    "elaMgp": 62.5,
+    "mathMgp": 33,
+    "elaMgpN": 140,
+    "mathMgpN": 140
+  },
+  "13203.1": {
+    "elaMgp": 50.5,
+    "mathMgp": 50,
+    "elaMgpN": 142,
+    "mathMgpN": 142
+  },
+  "13204.1": {
+    "elaMgp": 39,
+    "mathMgp": 37,
+    "elaMgpN": 159,
+    "mathMgpN": 159
+  },
+  "13207.1": {
+    "elaMgp": 56,
+    "mathMgp": 55,
+    "elaMgpN": 158,
+    "mathMgpN": 158
+  },
+  "13209.1": {
+    "elaMgp": 45.5,
+    "mathMgp": 46.5,
+    "elaMgpN": 140,
+    "mathMgpN": 140
+  },
+  "13211.1": {
+    "elaMgp": 39,
+    "mathMgp": 39,
+    "elaMgpN": 157,
+    "mathMgpN": 157
+  },
+  "13212.1": {
+    "elaMgp": 59.5,
+    "mathMgp": 60,
+    "elaMgpN": 98,
+    "mathMgpN": 98
+  },
+  "13301.2": {
+    "elaMgp": 44,
+    "mathMgp": 44.5,
+    "elaMgpN": 735,
+    "mathMgpN": 724
+  },
+  "13302.2": {
+    "elaMgp": 54,
+    "mathMgp": 42,
+    "elaMgpN": 694,
+    "mathMgpN": 711
+  },
+  "13501.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "14101.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "14201.1": {
+    "elaMgp": 47.5,
+    "mathMgp": 40,
+    "elaMgpN": 82,
+    "mathMgpN": 84
+  },
+  "14301.2": {
+    "elaMgp": 42,
+    "mathMgp": 49,
+    "elaMgpN": 136,
+    "mathMgpN": 139
+  },
+  "14601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "15101.1": {
+    "elaMgp": 55,
+    "mathMgp": 46,
+    "elaMgpN": 47,
+    "mathMgpN": 47
+  },
+  "15102.1": {
+    "elaMgp": 63,
+    "mathMgp": 52,
+    "elaMgpN": 13,
+    "mathMgpN": 13
+  },
+  "15301.2": {
+    "elaMgp": 55,
+    "mathMgp": 39,
+    "elaMgpN": 87,
+    "mathMgpN": 87
+  },
+  "15601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16201.1": {
+    "elaMgp": 47,
+    "mathMgp": 45,
+    "elaMgpN": 77,
+    "mathMgpN": 77
+  },
+  "16202.1": {
+    "elaMgp": 41,
+    "mathMgp": 32,
+    "elaMgpN": 91,
+    "mathMgpN": 91
+  },
+  "16203.1": {
+    "elaMgp": 57,
+    "mathMgp": 48,
+    "elaMgpN": 83,
+    "mathMgpN": 83
+  },
+  "16204.1": {
+    "elaMgp": 43,
+    "mathMgp": 38,
+    "elaMgpN": 101,
+    "mathMgpN": 101
+  },
+  "16205.1": {
+    "elaMgp": 36.5,
+    "mathMgp": 38.5,
+    "elaMgpN": 88,
+    "mathMgpN": 86
+  },
+  "16206.1": {
+    "elaMgp": 38,
+    "mathMgp": 55,
+    "elaMgpN": 113,
+    "mathMgpN": 112
+  },
+  "16207.1": {
+    "elaMgp": 59,
+    "mathMgp": 65,
+    "elaMgpN": 146,
+    "mathMgpN": 146
+  },
+  "16208.1": {
+    "elaMgp": 24,
+    "mathMgp": 36,
+    "elaMgpN": 74,
+    "mathMgpN": 74
+  },
+  "16209.1": {
+    "elaMgp": 34,
+    "mathMgp": 45,
+    "elaMgpN": 94,
+    "mathMgpN": 94
+  },
+  "16210.1": {
+    "elaMgp": 53,
+    "mathMgp": 58,
+    "elaMgpN": 173,
+    "mathMgpN": 173
+  },
+  "16211.1": {
+    "elaMgp": 54,
+    "mathMgp": 53.5,
+    "elaMgpN": 87,
+    "mathMgpN": 86
+  },
+  "16211.2": {
+    "elaMgp": 73,
+    "mathMgp": 69,
+    "elaMgpN": 123,
+    "mathMgpN": 123
+  },
+  "16212.1": {
+    "elaMgp": 45,
+    "mathMgp": 51,
+    "elaMgpN": 155,
+    "mathMgpN": 155
+  },
+  "16213.1": {
+    "elaMgp": 66,
+    "mathMgp": 49,
+    "elaMgpN": 106,
+    "mathMgpN": 105
+  },
+  "16214.1": {
+    "elaMgp": 50.5,
+    "mathMgp": 51,
+    "elaMgpN": 106,
+    "mathMgpN": 103
+  },
+  "16215.1": {
+    "elaMgp": 56,
+    "mathMgp": 65.5,
+    "elaMgpN": 98,
+    "mathMgpN": 98
+  },
+  "16216.1": {
+    "elaMgp": 61,
+    "mathMgp": 57,
+    "elaMgpN": 141,
+    "mathMgpN": 141
+  },
+  "16218.1": {
+    "elaMgp": 42,
+    "mathMgp": 44,
+    "elaMgpN": 137,
+    "mathMgpN": 137
+  },
+  "16219.1": {
+    "elaMgp": 45.5,
+    "mathMgp": 34,
+    "elaMgpN": 204,
+    "mathMgpN": 205
+  },
+  "16220.1": {
+    "elaMgp": 24,
+    "mathMgp": 26,
+    "elaMgpN": 85,
+    "mathMgpN": 85
+  },
+  "16221.1": {
+    "elaMgp": 44,
+    "mathMgp": 61.5,
+    "elaMgpN": 105,
+    "mathMgpN": 104
+  },
+  "16222.1": {
+    "elaMgp": 48,
+    "mathMgp": 25,
+    "elaMgpN": 115,
+    "mathMgpN": 114
+  },
+  "16223.1": {
+    "elaMgp": 43.5,
+    "mathMgp": 31,
+    "elaMgpN": 90,
+    "mathMgpN": 90
+  },
+  "16224.1": {
+    "elaMgp": 52,
+    "mathMgp": 42.5,
+    "elaMgpN": 99,
+    "mathMgpN": 102
+  },
+  "16225.1": {
+    "elaMgp": 44,
+    "mathMgp": 47,
+    "elaMgpN": 59,
+    "mathMgpN": 58
+  },
+  "16226.1": {
+    "elaMgp": 48,
+    "mathMgp": 43,
+    "elaMgpN": 118,
+    "mathMgpN": 118
+  },
+  "16227.1": {
+    "elaMgp": 43,
+    "mathMgp": 46,
+    "elaMgpN": 125,
+    "mathMgpN": 124
+  },
+  "16228.1": {
+    "elaMgp": 55,
+    "mathMgp": 49,
+    "elaMgpN": 71,
+    "mathMgpN": 70
+  },
+  "16229.1": {
+    "elaMgp": 54,
+    "mathMgp": 53,
+    "elaMgpN": 161,
+    "mathMgpN": 161
+  },
+  "16230.1": {
+    "elaMgp": 54,
+    "mathMgp": 61,
+    "elaMgpN": 89,
+    "mathMgpN": 89
+  },
+  "16231.1": {
+    "elaMgp": 58,
+    "mathMgp": 52,
+    "elaMgpN": 76,
+    "mathMgpN": 75
+  },
+  "16232.1": {
+    "elaMgp": 40.5,
+    "mathMgp": 26,
+    "elaMgpN": 204,
+    "mathMgpN": 204
+  },
+  "16233.1": {
+    "elaMgp": 56,
+    "mathMgp": 65,
+    "elaMgpN": 98,
+    "mathMgpN": 97
+  },
+  "16234.1": {
+    "elaMgp": 43,
+    "mathMgp": 46,
+    "elaMgpN": 167,
+    "mathMgpN": 164
+  },
+  "16235.1": {
+    "elaMgp": 64,
+    "mathMgp": 55,
+    "elaMgpN": 77,
+    "mathMgpN": 77
+  },
+  "16237.1": {
+    "elaMgp": 28,
+    "mathMgp": 26,
+    "elaMgpN": 38,
+    "mathMgpN": 37
+  },
+  "16238.1": {
+    "elaMgp": 48,
+    "mathMgp": 57,
+    "elaMgpN": 111,
+    "mathMgpN": 111
+  },
+  "16239.1": {
+    "elaMgp": 58.5,
+    "mathMgp": 55,
+    "elaMgpN": 140,
+    "mathMgpN": 138
+  },
+  "16240.1": {
+    "elaMgp": 50,
+    "mathMgp": 55,
+    "elaMgpN": 127,
+    "mathMgpN": 127
+  },
+  "16241.1": {
+    "elaMgp": 57,
+    "mathMgp": 57,
+    "elaMgpN": 127,
+    "mathMgpN": 127
+  },
+  "16242.1": {
+    "elaMgp": 59,
+    "mathMgp": 57.5,
+    "elaMgpN": 190,
+    "mathMgpN": 190
+  },
+  "16243.1": {
+    "elaMgp": 60,
+    "mathMgp": 68.5,
+    "elaMgpN": 187,
+    "mathMgpN": 184
+  },
+  "16244.1": {
+    "elaMgp": 63.5,
+    "mathMgp": 68,
+    "elaMgpN": 266,
+    "mathMgpN": 265
+  },
+  "16245.1": {
+    "elaMgp": 51.5,
+    "mathMgp": 57,
+    "elaMgpN": 150,
+    "mathMgpN": 149
+  },
+  "16246.1": {
+    "elaMgp": 50,
+    "mathMgp": 61,
+    "elaMgpN": 165,
+    "mathMgpN": 164
+  },
+  "16251.1": {
+    "elaMgp": 33,
+    "mathMgp": 44,
+    "elaMgpN": 70,
+    "mathMgpN": 70
+  },
+  "16256.1": {
+    "elaMgp": 49,
+    "mathMgp": 57,
+    "elaMgpN": 75,
+    "mathMgpN": 75
+  },
+  "16257.1": {
+    "elaMgp": 42,
+    "mathMgp": 52.5,
+    "elaMgpN": 146,
+    "mathMgpN": 146
+  },
+  "16258.1": {
+    "elaMgp": 67.5,
+    "mathMgp": 55,
+    "elaMgpN": 72,
+    "mathMgpN": 74
+  },
+  "16259.1": {
+    "elaMgp": 46.5,
+    "mathMgp": 42,
+    "elaMgpN": 74,
+    "mathMgpN": 74
+  },
+  "16260.1": {
+    "elaMgp": 37.5,
+    "mathMgp": 26.5,
+    "elaMgpN": 166,
+    "mathMgpN": 166
+  },
+  "16261.1": {
+    "elaMgp": 50,
+    "mathMgp": 51,
+    "elaMgpN": 171,
+    "mathMgpN": 172
+  },
+  "16262.1": {
+    "elaMgp": 57.5,
+    "mathMgp": 43,
+    "elaMgpN": 76,
+    "mathMgpN": 76
+  },
+  "16263.1": {
+    "elaMgp": 49,
+    "mathMgp": 66,
+    "elaMgpN": 125,
+    "mathMgpN": 125
+  },
+  "16264.1": {
+    "elaMgp": 43,
+    "mathMgp": 53,
+    "elaMgpN": 138,
+    "mathMgpN": 135
+  },
+  "16265.1": {
+    "elaMgp": 67,
+    "mathMgp": 62.5,
+    "elaMgpN": 130,
+    "mathMgpN": 130
+  },
+  "16266.1": {
+    "elaMgp": 37,
+    "mathMgp": 45,
+    "elaMgpN": 127,
+    "mathMgpN": 126
+  },
+  "16267.1": {
+    "elaMgp": 54,
+    "mathMgp": 56,
+    "elaMgpN": 89,
+    "mathMgpN": 89
+  },
+  "16268.1": {
+    "elaMgp": 38,
+    "mathMgp": 45,
+    "elaMgpN": 145,
+    "mathMgpN": 145
+  },
+  "16269.1": {
+    "elaMgp": 45.5,
+    "mathMgp": 41.5,
+    "elaMgpN": 148,
+    "mathMgpN": 148
+  },
+  "16270.1": {
+    "elaMgp": 51,
+    "mathMgp": 51.5,
+    "elaMgpN": 156,
+    "mathMgpN": 156
+  },
+  "16271.1": {
+    "elaMgp": 56,
+    "mathMgp": 54,
+    "elaMgpN": 203,
+    "mathMgpN": 202
+  },
+  "16272.1": {
+    "elaMgp": 46.5,
+    "mathMgp": 45,
+    "elaMgpN": 134,
+    "mathMgpN": 133
+  },
+  "16273.1": {
+    "elaMgp": 53,
+    "mathMgp": 58,
+    "elaMgpN": 118,
+    "mathMgpN": 117
+  },
+  "16274.1": {
+    "elaMgp": 54.5,
+    "mathMgp": 54,
+    "elaMgpN": 234,
+    "mathMgpN": 234
+  },
+  "16275.1": {
+    "elaMgp": 47,
+    "mathMgp": 38,
+    "elaMgpN": 180,
+    "mathMgpN": 179
+  },
+  "16276.1": {
+    "elaMgp": 62,
+    "mathMgp": 46,
+    "elaMgpN": 177,
+    "mathMgpN": 177
+  },
+  "16278.1": {
+    "elaMgp": 50,
+    "mathMgp": 37.5,
+    "elaMgpN": 56,
+    "mathMgpN": 56
+  },
+  "16279.1": {
+    "elaMgp": 57,
+    "mathMgp": 50.5,
+    "elaMgpN": 96,
+    "mathMgpN": 96
+  },
+  "16280.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16281.1": {
+    "elaMgp": 56.5,
+    "mathMgp": 43,
+    "elaMgpN": 52,
+    "mathMgpN": 52
+  },
+  "16282.1": {
+    "elaMgp": 49.5,
+    "mathMgp": 45,
+    "elaMgpN": 100,
+    "mathMgpN": 98
+  },
+  "16282.2": {
+    "elaMgp": 59.5,
+    "mathMgp": 47,
+    "elaMgpN": 70,
+    "mathMgpN": 69
+  },
+  "16301.2": {
+    "elaMgp": 43,
+    "mathMgp": 49,
+    "elaMgpN": 601,
+    "mathMgpN": 604
+  },
+  "16302.2": {
+    "elaMgp": 40,
+    "mathMgp": 33,
+    "elaMgpN": 630,
+    "mathMgpN": 625
+  },
+  "16303.2": {
+    "elaMgp": 44,
+    "mathMgp": 44,
+    "elaMgpN": 883,
+    "mathMgpN": 866
+  },
+  "16304.2": {
+    "elaMgp": 47,
+    "mathMgp": 40,
+    "elaMgpN": 478,
+    "mathMgpN": 473
+  },
+  "16305.2": {
+    "elaMgp": 36,
+    "mathMgp": 40,
+    "elaMgpN": 459,
+    "mathMgpN": 449
+  },
+  "16306.2": {
+    "elaMgp": 36,
+    "mathMgp": 31.5,
+    "elaMgpN": 524,
+    "mathMgpN": 524
+  },
+  "16307.2": {
+    "elaMgp": 54,
+    "mathMgp": 45,
+    "elaMgpN": 485,
+    "mathMgpN": 468
+  },
+  "16308.2": {
+    "elaMgp": 37,
+    "mathMgp": 38,
+    "elaMgpN": 871,
+    "mathMgpN": 857
+  },
+  "16309.2": {
+    "elaMgp": 62,
+    "mathMgp": 60,
+    "elaMgpN": 105,
+    "mathMgpN": 105
+  },
+  "16310.2": {
+    "elaMgp": 47.5,
+    "mathMgp": 49,
+    "elaMgpN": 822,
+    "mathMgpN": 823
+  },
+  "16311.2": {
+    "elaMgp": 42,
+    "mathMgp": 43,
+    "elaMgpN": 805,
+    "mathMgpN": 802
+  },
+  "16312.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16315.2": {
+    "elaMgp": 55,
+    "mathMgp": 57,
+    "elaMgpN": 769,
+    "mathMgpN": 765
+  },
+  "16316.2": {
+    "elaMgp": 42,
+    "mathMgp": 48,
+    "elaMgpN": 654,
+    "mathMgpN": 658
+  },
+  "16317.2": {
+    "elaMgp": 40.5,
+    "mathMgp": 30,
+    "elaMgpN": 564,
+    "mathMgpN": 560
+  },
+  "16318.1": {
+    "elaMgp": 59.5,
+    "mathMgp": 67,
+    "elaMgpN": 88,
+    "mathMgpN": 89
+  },
+  "16319.2": {
+    "elaMgp": 45,
+    "mathMgp": 44.5,
+    "elaMgpN": 1218,
+    "mathMgpN": 1198
+  },
+  "16320.2": {
+    "elaMgp": 55,
+    "mathMgp": 48,
+    "elaMgpN": 529,
+    "mathMgpN": 526
+  },
+  "16321.2": {
+    "elaMgp": 41,
+    "mathMgp": 45,
+    "elaMgpN": 795,
+    "mathMgpN": 802
+  },
+  "16322.2": {
+    "elaMgp": 52,
+    "mathMgp": 54,
+    "elaMgpN": 726,
+    "mathMgpN": 721
+  },
+  "16501.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16502.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16503.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16504.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16505.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16507.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16507.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16508.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16509.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16510.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16601.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16601.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16602.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16603.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16605.1": {
+    "elaMgp": 45,
+    "mathMgp": 43.5,
+    "elaMgpN": 50,
+    "mathMgpN": 50
+  },
+  "16605.2": {
+    "elaMgp": 56.5,
+    "mathMgp": 51,
+    "elaMgpN": 80,
+    "mathMgpN": 80
+  },
+  "16606.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16607.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16608.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16609.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16610.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16611.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16911.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16911.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16911.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16917.2": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16917.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "16923.1": {
+    "elaMgp": 35,
+    "mathMgp": 47,
+    "elaMgpN": 32,
+    "mathMgpN": 32
+  },
+  "16923.2": {
+    "elaMgp": 60,
+    "mathMgp": 40.5,
+    "elaMgpN": 119,
+    "mathMgpN": 120
+  },
+  "16923.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "17101.1": {
+    "elaMgp": 37,
+    "mathMgp": 36,
+    "elaMgpN": 19,
+    "mathMgpN": 18
+  },
+  "17103.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "17201.1": {
+    "elaMgp": 47,
+    "mathMgp": 55,
+    "elaMgpN": 99,
+    "mathMgpN": 99
+  },
+  "17203.1": {
+    "elaMgp": 44,
+    "mathMgp": 56.5,
+    "elaMgpN": 37,
+    "mathMgpN": 36
+  },
+  "17301.2": {
+    "elaMgp": 57,
+    "mathMgp": 54,
+    "elaMgpN": 228,
+    "mathMgpN": 227
+  },
+  "17502.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "17601.2": {
+    "elaMgp": 53,
+    "mathMgp": 62,
+    "elaMgpN": 23,
+    "mathMgpN": 22
+  },
+  "17601.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "17903.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "38435.1": {
+    "elaMgp": 47,
+    "mathMgp": 43,
+    "elaMgpN": 233,
+    "mathMgpN": 233
+  },
+  "38435.2": {
+    "elaMgp": 67,
+    "mathMgp": 71,
+    "elaMgpN": 321,
+    "mathMgpN": 320
+  },
+  "39438.1": {
+    "elaMgp": 34,
+    "mathMgp": 31,
+    "elaMgpN": 274,
+    "mathMgpN": 273
+  },
+  "39438.2": {
+    "elaMgp": 55,
+    "mathMgp": 51,
+    "elaMgpN": 402,
+    "mathMgpN": 401
+  },
+  "39439.1": {
+    "elaMgp": 44,
+    "mathMgp": 44,
+    "elaMgpN": 250,
+    "mathMgpN": 248
+  },
+  "39439.2": {
+    "elaMgp": 62.5,
+    "mathMgp": 64,
+    "elaMgpN": 290,
+    "mathMgpN": 290
+  },
+  "39440.1": {
+    "elaMgp": 62,
+    "mathMgp": 58,
+    "elaMgpN": 369,
+    "mathMgpN": 368
+  },
+  "39440.2": {
+    "elaMgp": 60,
+    "mathMgp": 64,
+    "elaMgpN": 487,
+    "mathMgpN": 487
+  },
+  "43100.1": {
+    "elaMgp": 71,
+    "mathMgp": 65,
+    "elaMgpN": 152,
+    "mathMgpN": 153
+  },
+  "44437.1": {
+    "elaMgp": 42,
+    "mathMgp": 51.5,
+    "elaMgpN": 100,
+    "mathMgpN": 100
+  },
+  "44437.2": {
+    "elaMgp": 65,
+    "mathMgp": 52,
+    "elaMgpN": 163,
+    "mathMgpN": 163
+  },
+  "46100.1": {
+    "elaMgp": 47,
+    "mathMgp": 41,
+    "elaMgpN": 171,
+    "mathMgpN": 175
+  },
+  "46200.2": {
+    "elaMgp": 62,
+    "mathMgp": 45,
+    "elaMgpN": 308,
+    "mathMgpN": 307
+  },
+  "46300.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "47434.1": {
+    "elaMgp": 47.5,
+    "mathMgp": 57,
+    "elaMgpN": 208,
+    "mathMgpN": 208
+  },
+  "47434.2": {
+    "elaMgp": 70,
+    "mathMgp": 67,
+    "elaMgpN": 511,
+    "mathMgpN": 511
+  },
+  "47434.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "48433.2": {
+    "elaMgp": 53,
+    "mathMgp": 74,
+    "elaMgpN": 394,
+    "mathMgpN": 401
+  },
+  "48433.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "49432.1": {
+    "elaMgp": 54,
+    "mathMgp": 72,
+    "elaMgpN": 215,
+    "mathMgpN": 215
+  },
+  "49432.2": {
+    "elaMgp": 64,
+    "mathMgp": 54,
+    "elaMgpN": 368,
+    "mathMgpN": 368
+  },
+  "49433.1": {
+    "elaMgp": 41,
+    "mathMgp": 47,
+    "elaMgpN": 221,
+    "mathMgpN": 221
+  },
+  "49433.2": {
+    "elaMgp": 59,
+    "mathMgp": 57,
+    "elaMgpN": 365,
+    "mathMgpN": 365
+  },
+  "49434.1": {
+    "elaMgp": 62,
+    "mathMgp": 58,
+    "elaMgpN": 301,
+    "mathMgpN": 301
+  },
+  "49434.2": {
+    "elaMgp": 62,
+    "mathMgp": 60,
+    "elaMgpN": 478,
+    "mathMgpN": 478
+  },
+  "49434.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "50431.1": {
+    "elaMgp": 63,
+    "mathMgp": 61,
+    "elaMgpN": 188,
+    "mathMgpN": 188
+  },
+  "50431.2": {
+    "elaMgp": 56,
+    "mathMgp": 54,
+    "elaMgpN": 578,
+    "mathMgpN": 578
+  },
+  "50431.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "50432.1": {
+    "elaMgp": 61,
+    "mathMgp": 57.5,
+    "elaMgpN": 195,
+    "mathMgpN": 194
+  },
+  "51430.1": {
+    "elaMgp": 54,
+    "mathMgp": 59,
+    "elaMgpN": 161,
+    "mathMgpN": 161
+  },
+  "51430.2": {
+    "elaMgp": 58,
+    "mathMgp": 46.5,
+    "elaMgpN": 239,
+    "mathMgpN": 238
+  },
+  "51430.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "52429.2": {
+    "elaMgp": 50,
+    "mathMgp": 69,
+    "elaMgpN": 91,
+    "mathMgpN": 91
+  },
+  "52429.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "54428.1": {
+    "elaMgp": 45,
+    "mathMgp": 63,
+    "elaMgpN": 39,
+    "mathMgpN": 39
+  },
+  "54428.2": {
+    "elaMgp": 66.5,
+    "mathMgp": 77.5,
+    "elaMgpN": 46,
+    "mathMgpN": 46
+  },
+  "55200.1": {
+    "elaMgp": 50,
+    "mathMgp": 49,
+    "elaMgpN": 221,
+    "mathMgpN": 220
+  },
+  "55200.2": {
+    "elaMgp": 63,
+    "mathMgp": 59,
+    "elaMgpN": 349,
+    "mathMgpN": 348
+  },
+  "55201.1": {
+    "elaMgp": 56,
+    "mathMgp": 58,
+    "elaMgpN": 217,
+    "mathMgpN": 217
+  },
+  "55201.2": {
+    "elaMgp": 70,
+    "mathMgp": 67,
+    "elaMgpN": 333,
+    "mathMgpN": 333
+  },
+  "55202.1": {
+    "elaMgp": 60.5,
+    "mathMgp": 53.5,
+    "elaMgpN": 274,
+    "mathMgpN": 274
+  },
+  "55202.2": {
+    "elaMgp": 60,
+    "mathMgp": 49,
+    "elaMgpN": 489,
+    "mathMgpN": 463
+  },
+  "55202.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "55203.1": {
+    "elaMgp": 45.5,
+    "mathMgp": 49,
+    "elaMgpN": 222,
+    "mathMgpN": 223
+  },
+  "55203.2": {
+    "elaMgp": 65,
+    "mathMgp": 67,
+    "elaMgpN": 352,
+    "mathMgpN": 352
+  },
+  "55204.1": {
+    "elaMgp": 55,
+    "mathMgp": 54,
+    "elaMgpN": 219,
+    "mathMgpN": 219
+  },
+  "55204.2": {
+    "elaMgp": 66,
+    "mathMgp": 49,
+    "elaMgpN": 357,
+    "mathMgpN": 356
+  },
+  "57424.1": {
+    "elaMgp": 44,
+    "mathMgp": 24,
+    "elaMgpN": 47,
+    "mathMgpN": 47
+  },
+  "57424.2": {
+    "elaMgp": 60,
+    "mathMgp": 52,
+    "elaMgpN": 63,
+    "mathMgpN": 63
+  },
+  "58422.1": {
+    "elaMgp": 58,
+    "mathMgp": 66,
+    "elaMgpN": 280,
+    "mathMgpN": 281
+  },
+  "58423.1": {
+    "elaMgp": 44,
+    "mathMgp": 53.5,
+    "elaMgpN": 275,
+    "mathMgpN": 274
+  },
+  "58423.2": {
+    "elaMgp": 50.5,
+    "mathMgp": 60,
+    "elaMgpN": 680,
+    "mathMgpN": 679
+  },
+  "58423.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "58425.1": {
+    "elaMgp": 59,
+    "mathMgp": 37,
+    "elaMgpN": 298,
+    "mathMgpN": 298
+  },
+  "58425.2": {
+    "elaMgp": 60,
+    "mathMgp": 66.5,
+    "elaMgpN": 360,
+    "mathMgpN": 360
+  },
+  "58427.1": {
+    "elaMgp": 53.5,
+    "mathMgp": 58,
+    "elaMgpN": 224,
+    "mathMgpN": 224
+  },
+  "58427.2": {
+    "elaMgp": 71,
+    "mathMgp": 67.5,
+    "elaMgpN": 335,
+    "mathMgpN": 336
+  },
+  "58428.1": {
+    "elaMgp": 61.5,
+    "mathMgp": 69,
+    "elaMgpN": 286,
+    "mathMgpN": 287
+  },
+  "58428.2": {
+    "elaMgp": 57,
+    "mathMgp": 48,
+    "elaMgpN": 621,
+    "mathMgpN": 622
+  },
+  "58428.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "58429.2": {
+    "elaMgp": 34,
+    "mathMgp": 32,
+    "elaMgpN": 29,
+    "mathMgpN": 29
+  },
+  "58429.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "58430.1": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "59119.1": {
+    "elaMgp": 60,
+    "mathMgp": 49,
+    "elaMgpN": 240,
+    "mathMgpN": 240
+  },
+  "59120.1": {
+    "elaMgp": 54,
+    "mathMgp": 50,
+    "elaMgpN": 254,
+    "mathMgpN": 253
+  },
+  "59120.2": {
+    "elaMgp": 49,
+    "mathMgp": 43,
+    "elaMgpN": 712,
+    "mathMgpN": 719
+  },
+  "59120.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "59121.1": {
+    "elaMgp": 65.5,
+    "mathMgp": 53,
+    "elaMgpN": 204,
+    "mathMgpN": 204
+  },
+  "59121.2": {
+    "elaMgp": 70,
+    "mathMgp": 68,
+    "elaMgpN": 354,
+    "mathMgpN": 354
+  },
+  "59122.1": {
+    "elaMgp": 64,
+    "mathMgp": 54.5,
+    "elaMgpN": 256,
+    "mathMgpN": 256
+  },
+  "59122.2": {
+    "elaMgp": 61,
+    "mathMgp": 62,
+    "elaMgpN": 448,
+    "mathMgpN": 447
+  },
+  "59122.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "59123.1": {
+    "elaMgp": 61,
+    "mathMgp": 64,
+    "elaMgpN": 195,
+    "mathMgpN": 196
+  },
+  "59123.2": {
+    "elaMgp": 73.5,
+    "mathMgp": 67.5,
+    "elaMgpN": 310,
+    "mathMgpN": 308
+  },
+  "59124.1": {
+    "elaMgp": 45.5,
+    "mathMgp": 41,
+    "elaMgpN": 252,
+    "mathMgpN": 252
+  },
+  "59124.2": {
+    "elaMgp": 58,
+    "mathMgp": 64,
+    "elaMgpN": 371,
+    "mathMgpN": 372
+  },
+  "59125.1": {
+    "elaMgp": 71,
+    "mathMgp": 62,
+    "elaMgpN": 200,
+    "mathMgpN": 200
+  },
+  "59125.2": {
+    "elaMgp": 55,
+    "mathMgp": 51.5,
+    "elaMgpN": 354,
+    "mathMgpN": 354
+  },
+  "61415.1": {
+    "elaMgp": 73,
+    "mathMgp": 67,
+    "elaMgpN": 26,
+    "mathMgpN": 26
+  },
+  "61417.1": {
+    "elaMgp": 67,
+    "mathMgp": 40.5,
+    "elaMgpN": 92,
+    "mathMgpN": 92
+  },
+  "61417.2": {
+    "elaMgp": 58,
+    "mathMgp": 69.5,
+    "elaMgpN": 102,
+    "mathMgpN": 102
+  },
+  "65414.1": {
+    "elaMgp": 40,
+    "mathMgp": 53,
+    "elaMgpN": 132,
+    "mathMgpN": 132
+  },
+  "65414.2": {
+    "elaMgp": 54,
+    "mathMgp": 63,
+    "elaMgpN": 163,
+    "mathMgpN": 163
+  },
+  "65414.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "66436.1": {
+    "elaMgp": 62,
+    "mathMgp": 60,
+    "elaMgpN": 205,
+    "mathMgpN": 205
+  },
+  "66436.2": {
+    "elaMgp": 55,
+    "mathMgp": 55,
+    "elaMgpN": 352,
+    "mathMgpN": 334
+  },
+  "68410.1": {
+    "elaMgp": 64,
+    "mathMgp": 54,
+    "elaMgpN": 56,
+    "mathMgpN": 55
+  },
+  "68410.2": {
+    "elaMgp": 71.5,
+    "mathMgp": 81,
+    "elaMgpN": 52,
+    "mathMgpN": 52
+  },
+  "72416.1": {
+    "elaMgp": 53,
+    "mathMgp": 45,
+    "elaMgpN": 91,
+    "mathMgpN": 90
+  },
+  "72416.2": {
+    "elaMgp": 62,
+    "mathMgp": 57,
+    "elaMgpN": 130,
+    "mathMgpN": 131
+  },
+  "74418.1": {
+    "elaMgp": 50,
+    "mathMgp": 43,
+    "elaMgpN": 161,
+    "mathMgpN": 159
+  },
+  "74418.2": {
+    "elaMgp": 83.5,
+    "mathMgp": 48,
+    "elaMgpN": 52,
+    "mathMgpN": 51
+  },
+  "76412.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "78411.1": {
+    "elaMgp": 47,
+    "mathMgp": 46,
+    "elaMgpN": 43,
+    "mathMgpN": 43
+  },
+  "78411.2": {
+    "elaMgp": 58.5,
+    "mathMgp": 57,
+    "elaMgpN": 62,
+    "mathMgpN": 62
+  },
+  "81101.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "81102.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "81103.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "81104.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "81106.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "81107.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "81108.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "81109.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "84406.2": {
+    "elaMgp": 65,
+    "mathMgp": 48,
+    "elaMgpN": 37,
+    "mathMgpN": 37
+  },
+  "84406.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "85405.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "86404.2": {
+    "elaMgp": 47,
+    "mathMgp": 44,
+    "elaMgpN": 385,
+    "mathMgpN": 382
+  },
+  "86404.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "87310.1": {
+    "elaMgp": 55,
+    "mathMgp": 56,
+    "elaMgpN": 165,
+    "mathMgpN": 165
+  },
+  "87310.2": {
+    "elaMgp": 44.5,
+    "mathMgp": 53,
+    "elaMgpN": 208,
+    "mathMgpN": 208
+  },
+  "87311.1": {
+    "elaMgp": 52,
+    "mathMgp": 35,
+    "elaMgpN": 158,
+    "mathMgpN": 157
+  },
+  "87311.2": {
+    "elaMgp": 71,
+    "mathMgp": 65,
+    "elaMgpN": 193,
+    "mathMgpN": 193
+  },
+  "87312.2": {
+    "elaMgp": 46,
+    "mathMgp": 54.5,
+    "elaMgpN": 183,
+    "mathMgpN": 182
+  },
+  "87312.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "87313.1": {
+    "elaMgp": 54,
+    "mathMgp": 38,
+    "elaMgpN": 93,
+    "mathMgpN": 93
+  },
+  "87314.1": {
+    "elaMgp": 48,
+    "mathMgp": 51,
+    "elaMgpN": 97,
+    "mathMgpN": 96
+  },
+  "87314.2": {
+    "elaMgp": 61,
+    "mathMgp": 64,
+    "elaMgpN": 315,
+    "mathMgpN": 315
+  },
+  "87315.1": {
+    "elaMgp": 59,
+    "mathMgp": 55,
+    "elaMgpN": 143,
+    "mathMgpN": 143
+  },
+  "87316.1": {
+    "elaMgp": 55,
+    "mathMgp": 49,
+    "elaMgpN": 307,
+    "mathMgpN": 308
+  },
+  "87316.2": {
+    "elaMgp": 57,
+    "mathMgp": 51,
+    "elaMgpN": 471,
+    "mathMgpN": 467
+  },
+  "87316.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "89409.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  },
+  "95301.3": {
+    "elaMgp": null,
+    "mathMgp": null,
+    "elaMgpN": null,
+    "mathMgpN": null
+  }
+}

@@ -97,7 +97,7 @@ export default function AboutPage() {
           <h3 className="text-lg font-semibold text-gray-900 mb-2">Data Source</h3>
           <p className="text-gray-700 leading-relaxed">
             All school performance data is sourced from the Nevada Department of Education (NDE).
-            The most recent data available on this site is from the <strong>2024–25 school year</strong>.
+            The most recent data available on this site is from the <strong>2025–26 school year</strong>; earlier years back to 2021–22 are available through the Year filter. Star ratings were not issued for 2021–22.
             For the latest official reports and additional detail, visit the Nevada Accountability Portal:
           </p>
           <a

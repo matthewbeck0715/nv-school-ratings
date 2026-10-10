@@ -2,6 +2,15 @@ export type SchoolType = 'District' | 'Charter' | 'Magnet'
 export type SchoolLevel = 'Elementary' | 'Middle' | 'High'
 export type StarRating = 1 | 2 | 3 | 4 | 5
 
+// Data years, keyed by the year the school year ends in (2026 = the 2025-26 school year).
+export const DATA_YEARS = ['2026', '2025', '2024', '2023', '2022'] as const
+export type DataYear = (typeof DATA_YEARS)[number]
+export const LATEST_YEAR: DataYear = DATA_YEARS[0]
+
+export function yearLabel(year: DataYear): string {
+  return `${Number(year) - 1}-${year.slice(2)}`
+}
+
 export interface School {
   id: string
   name: string
@@ -37,6 +46,7 @@ export interface ProximityFilter {
 }
 
 export interface FilterState {
+  year: DataYear
   search: string
   schoolTypes: SchoolType[]
   schoolLevels: SchoolLevel[]
@@ -51,6 +61,7 @@ export interface SchoolWithDistance extends School {
 }
 
 export const DEFAULT_FILTERS: FilterState = {
+  year: LATEST_YEAR,
   search: '',
   schoolTypes: [],
   schoolLevels: [],
