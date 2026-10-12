@@ -20,6 +20,16 @@ const MAGNET_IDS = new Set([
   '02422.3','02423.3','02426.3','16603.3',
 ])
 
+// Starting with 2026, the ratings CSV no longer labels charters with a 'SPCSA' or
+// 'District Charter' School Type. SPCSA schools are still identifiable by District Name;
+// the remaining district-sponsored charters (Carson City, Washoe) are listed here.
+const SPCSA_DISTRICT = 'State Public Charter School Authority'
+const DISTRICT_CHARTER_IDS = new Set([
+  '13212.1',
+  '16278.1','16279.1','16280.1','16281.1','16282.1','16282.2','16312.3','16318.1',
+  '16320.2','16605.1','16605.2','16605.3','16608.3','16610.3',
+])
+
 function inferLevel(name) {
   const n = name.toUpperCase()
   if (n.includes('K8') || n.includes('K-8')) return 'Other'
@@ -463,7 +473,9 @@ for (const row of ratingsRows) {
   const id = row['NSPF School Code'].trim()
   const schoolType = MAGNET_IDS.has(id)
     ? 'Magnet'
-    : (type === 'District Charter' || type === 'SPCSA' ? 'Charter' : 'District')
+    : (type === 'District Charter' || type === 'SPCSA' || district === SPCSA_DISTRICT || DISTRICT_CHARTER_IDS.has(id)
+      ? 'Charter'
+      : 'District')
   const level = inferLevel(name)
 
   // 1. Exact name match
@@ -500,7 +512,7 @@ for (const row of ratingsRows) {
       priorMatched++
     } else {
       unmatched++
-      if (district && district !== 'State Public Charter School Authority') county = district
+      if (district && district !== SPCSA_DISTRICT) county = district
     }
   }
 
